@@ -3,7 +3,7 @@ import * as Component from "./quartz/components"
 
 // components shared across all pages
 export const sharedPageComponents: SharedLayout = {
-  head: Component.Head(),Component.Darkmode(),
+  head: Component.Head(),
   header: [],
   afterBody: [],
   footer: Component.Footer({
@@ -33,6 +33,7 @@ export const defaultContentPageLayout: PageLayout = {
 	  folderDefaultState: "collapsed", // default state of folders ("collapsed" or "open")
 	  useSavedState: true, // whether to use local storage to save "state" (which folders are opened) of explorer
 	})),
+	Component.Darkmode(),
   ],
   right: [
     //Component.Graph(),
@@ -59,6 +60,7 @@ export const defaultListPageLayout: PageLayout = {
 	  folderDefaultState: "collapsed", // default state of folders ("collapsed" or "open")
 	  useSavedState: true, // whether to use local storage to save "state" (which folders are opened) of explorer
 	})),
+	Component.Darkmode(),
   ],
   right: [
     //Component.Graph(),
