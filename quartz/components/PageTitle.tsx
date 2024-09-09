@@ -8,9 +8,9 @@ const PageTitle: QuartzComponent = ({ fileData, cfg, displayClass }: QuartzCompo
   const logoDirectory = cfg?.logoDir ?? i18n(cfg.locale).propertyDefaults.title
   const baseDir = pathToRoot(fileData.slug!)
   return (
-    <span class={classNames(displayClass, "page-title")}>
+    <h2 class={classNames(displayClass, "page-title")}>
 	  <a class={classNames(displayClass, "center-page-title")} href={baseDir}><img width="40" height="40" src={logoDirectory} style="vertical-align:middle"/>{title}</a>
-    </span>
+    </h2>
   )
 }
 
