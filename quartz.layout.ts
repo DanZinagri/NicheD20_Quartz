@@ -5,7 +5,7 @@ import { IconFolderOptions } from "./quartz/plugins/components/FileIcons";
 const iconsOptions: IconFolderOptions = {
   rootIconFolder: "quartz/static/icons",
   default: {
-    file: "folder-open",
+    file: "diceroll",
   },
 };
 
