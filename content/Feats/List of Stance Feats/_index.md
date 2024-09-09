@@ -7,13 +7,13 @@ Stance feats are a special type of combat feat, but have a special restriction. 
 
 | Name               | Prerequisite         |
 | ------------------ | -------------------- |
-| [[Blade and Brew|Blade and Brew]] | Quick Draw           |
-| [[Blind Warrior|Blind Warrior]]  | \-                   |
-| [[Defensive|Defensive]]      | Base attack bonus +1 |
-| [[Duelist|Duelist]]        | Improved Feint       |
-| [[Power|Power]]          | Base attack bonus +1 |
-| [[Precision|Precision]]      | \-                   |
-| [[Reckless|Reckless]]       | \-                   |
-| [[Skirmisher|Skirmisher]]     | \-                   |
-| [[Warrior Mage|Warrior Mage]]   | BCB 1st              |
-| [[Whirlwind|Whirlwind]]      | \-                   |
+| [Blade and Brew](Blade%20and%20Brew.md) | Quick Draw           |
+| [Blind Warrior](Blind%20Warrior.md)  | \-                   |
+| [Defensive](Defensive.md)      | Base attack bonus +1 |
+| [Duelist](Duelist.md)        | Improved Feint       |
+| [Power](Power.md)          | Base attack bonus +1 |
+| [Precision](Precision.md)      | \-                   |
+| [Reckless](Reckless.md)       | \-                   |
+| [Skirmisher](Skirmisher.md)     | \-                   |
+| [Warrior Mage](Warrior%20Mage.md)   | BCB 1st              |
+| [Whirlwind](Whirlwind.md)      | \-                   |
