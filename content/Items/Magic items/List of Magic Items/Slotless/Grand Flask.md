@@ -1,0 +1,12 @@
+---
+name: Grand Flask
+share: true
+cost: 550
+bcb: 3
+weight: 4
+tags:
+  - Magic-Items
+  - Slotless-Magic
+effect: The Grand Flask is a hip flask decorated with either five jewels or runes. The flask may be as ornate or simplistic as the creator desires, but this has no bearing on the function of the flask. The flask is enchanted to give access to five separate extradimensional spaces, which the uses accesses by touching the corresponding rune or gem. Each space can hold up to 20 gallons of liquid, and can hold volatile or corrosive substances as long as they would be unable to damage the flask itself (such as the user attempting to bottle lava would likely damage it).  If holding items such as potions the user of the flask can imbibe one dose of the liquid per round as if they were drinking a normal potion. Otherwise items without specified uses (such as simply filling the flask with water), the flask is limited to being able to pour or be filled with one pint of liquid per round.  If the flask would be pierced or destroyed all the contents within automatically spill into the occupied square and the flask ceases to function until repaired.
+---
+<p><span dir="ltr" style="overflow-x: auto;"><table><tbody><tr><th dir="ltr">Name</th><td dir="ltr">Grand Flask</td></tr><tr><th dir="ltr">Cost</th><td dir="auto">550</td></tr><tr><th dir="ltr">Bcb</th><td dir="auto">3</td></tr><tr><th dir="ltr">Weight</th><td dir="auto">4</td></tr><tr><th dir="ltr">Effect</th><td dir="ltr">The Grand Flask is a hip flask decorated with either five jewels or runes. The flask may be as ornate or simplistic as the creator desires, but this has no bearing on the function of the flask. The flask is enchanted to give access to five separate extradimensional spaces, which the uses accesses by touching the corresponding rune or gem. Each space can hold up to 20 gallons of liquid, and can hold volatile or corrosive substances as long as they would be unable to damage the flask itself (such as the user attempting to bottle lava would likely damage it).  If holding items such as potions the user of the flask can imbibe one dose of the liquid per round as if they were drinking a normal potion. Otherwise items without specified uses (such as simply filling the flask with water), the flask is limited to being able to pour or be filled with one pint of liquid per round.  If the flask would be pierced or destroyed all the contents within automatically spill into the occupied square and the flask ceases to function until repaired.</td></tr></tbody></table></span></p>

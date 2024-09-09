@@ -1,0 +1,15 @@
+---
+fileClass:
+  - Ritual
+keywords: Healing
+cost: 35,550 gp
+casting_time: 1 hour
+component_cost: 12,250 gp
+prerequisites: BCB 16th, Nature (Essence) Affinity talent
+duration: Instantaneous
+description: This spell restores to life a deceased creature within close range. The remains may be in any condition as long as some portion of the creature’s body still exists, and the portion used was part of the creature at the time of death; bodies completely disintegrated or destroyed are unable to be restored. The creature cannot have been dead for longer than 5 years per BCB. The caster must remain touching the remains for the duration of the spells.<br><br>Upon completion of the spell, the creature is immediately restored to full hit points with their body fully restored. The creature raised immediately gains one permanent negative level; if the target is 1st level it instead takes 2 points of constitution drain, if this constitution drain would reduce the creature to 0 constitution it cannot be resurrected.<br><br>This spell may resurrect a creature who has been ruined into an undead creature. If targeting an undead creature the creature is subject to a will save attack, if the undead creature was destroyed (but a portion of them still remain), they are instead resurrected as normal. This spell cannot resurrect a creature who has died of old age.
+share: true
+tags:
+  - Rituals
+---
+<p><span dir="ltr" style="overflow-x: auto;"><table><tbody><tr><th dir="ltr">Keywords</th><td dir="ltr">Healing</td></tr><tr><th dir="ltr">Cost</th><td dir="ltr">35,550 gp</td></tr><tr><th dir="ltr">Casting time</th><td dir="ltr">1 hour</td></tr><tr><th dir="ltr">Component cost</th><td dir="ltr">12,250 gp</td></tr><tr><th dir="ltr">Prerequisites</th><td dir="ltr">BCB 16th, Nature (Essence) Affinity talent</td></tr><tr><th dir="ltr">Duration</th><td dir="ltr">Instantaneous</td></tr><tr><th dir="ltr">Description</th><td dir="ltr">This spell restores to life a deceased creature within close range. The remains may be in any condition as long as some portion of the creature’s body still exists, and the portion used was part of the creature at the time of death; bodies completely disintegrated or destroyed are unable to be restored. The creature cannot have been dead for longer than 5 years per BCB. The caster must remain touching the remains for the duration of the spells.<br><br>Upon completion of the spell, the creature is immediately restored to full hit points with their body fully restored. The creature raised immediately gains one permanent negative level; if the target is 1st level it instead takes 2 points of constitution drain, if this constitution drain would reduce the creature to 0 constitution it cannot be resurrected.<br><br>This spell may resurrect a creature who has been ruined into an undead creature. If targeting an undead creature the creature is subject to a will save attack, if the undead creature was destroyed (but a portion of them still remain), they are instead resurrected as normal. This spell cannot resurrect a creature who has died of old age.</td></tr></tbody></table></span></p>

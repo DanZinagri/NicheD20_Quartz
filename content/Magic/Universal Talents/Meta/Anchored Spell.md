@@ -1,0 +1,13 @@
+---
+fileClass:
+  - Talent
+prerequisite: 
+share: true
+keyword: 
+tags:
+  - Magic-Talent
+  - Meta-Talent
+benefit: You may cast a spell using a previously specified object, known as a spell anchor, to determine the range and origin point of the effect (the spell anchor itself has no reach and cannot make melee touch attacks except against a creature carrying the spell anchor). A creature that is carrying a spell anchor is always considered to be within your range for the purpose of casting a spell, and spells which rely on a touch attack automatically succeed at touching a creature that is carrying a spell anchor. If you are a prepared caster you may prepare this talent without attaching it to a spell charge and may cast any assembled spell charges using a spell anchor; you may not use spell anchors without this talent prepared even if you have anchors available.
+special: You may spend a spell point to create a spell anchor out of an existing object that can be held in one hand. Creating a spell anchor is a 4 AP action that provokes an attack of opportunity. A spell anchor remains potent for 24 hours or until it is rendered inert from damage. Spell anchors become inert if they take damage exceeding 1 hit point per spell prowess bonus, and use the hardness of the base object.
+---
+<p><span dir="ltr" style="overflow-x: auto;"><table><tbody><tr><th dir="ltr">Benefit</th><td dir="ltr">You may cast a spell using a previously specified object, known as a spell anchor, to determine the range and origin point of the effect (the spell anchor itself has no reach and cannot make melee touch attacks except against a creature carrying the spell anchor). A creature that is carrying a spell anchor is always considered to be within your range for the purpose of casting a spell, and spells which rely on a touch attack automatically succeed at touching a creature that is carrying a spell anchor. If you are a prepared caster you may prepare this talent without attaching it to a spell charge and may cast any assembled spell charges using a spell anchor; you may not use spell anchors without this talent prepared even if you have anchors available.</td></tr><tr><th dir="ltr">Special</th><td dir="ltr">You may spend a spell point to create a spell anchor out of an existing object that can be held in one hand. Creating a spell anchor is a 4 AP action that provokes an attack of opportunity. A spell anchor remains potent for 24 hours or until it is rendered inert from damage. Spell anchors become inert if they take damage exceeding 1 hit point per spell prowess bonus, and use the hardness of the base object.</td></tr></tbody></table></span></p>

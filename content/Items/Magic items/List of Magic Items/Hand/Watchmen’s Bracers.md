@@ -1,0 +1,12 @@
+---
+name: Watchmen’s Bracers
+share: true
+cost: 200
+bcb: 1
+weight: 2
+tags:
+  - Magic-Items
+  - Hand-Slot-Magic
+effect: These unassuming bracers have a gem affixed to a small protrusion on the bracers. When activated as a 3 AP action the bracers begin to emit light within a 60 foot cone from the wearer. The wearer can freely adjust the direction of this cone on their turn, casting normal light within the cone’s area. The wearer may adjust the bracer further as a 2 AP action, turning the light source from a cone to a line, improving its length to 90 feet.<br><br>For a number of minutes per day equal to the wearer’s Psyche modifier (minimum 1) the wearer may instead as a 2 AP action cause the bracer’s to emit bright light within the cone or line emitted by the bracers.<br><br>The magic of the bracer allows for the cone to remain steady even within vigorous motion of the wearer, while leaving their hands free to hold other implements, making it a popular item for some city guardsmen or even kheldzean mechanics.
+---
+<p><span dir="ltr" style="overflow-x: auto;"><table><tbody><tr><th dir="ltr">Name</th><td dir="ltr">Watchmen’s Bracers</td></tr><tr><th dir="ltr">Cost</th><td dir="auto">200</td></tr><tr><th dir="ltr">Bcb</th><td dir="auto">1</td></tr><tr><th dir="ltr">Weight</th><td dir="auto">2</td></tr><tr><th dir="ltr">Effect</th><td dir="ltr">These unassuming bracers have a gem affixed to a small protrusion on the bracers. When activated as a 3 AP action the bracers begin to emit light within a 60 foot cone from the wearer. The wearer can freely adjust the direction of this cone on their turn, casting normal light within the cone’s area. The wearer may adjust the bracer further as a 2 AP action, turning the light source from a cone to a line, improving its length to 90 feet.<br><br>For a number of minutes per day equal to the wearer’s Psyche modifier (minimum 1) the wearer may instead as a 2 AP action cause the bracer’s to emit bright light within the cone or line emitted by the bracers.<br><br>The magic of the bracer allows for the cone to remain steady even within vigorous motion of the wearer, while leaving their hands free to hold other implements, making it a popular item for some city guardsmen or even kheldzean mechanics.</td></tr></tbody></table></span></p>

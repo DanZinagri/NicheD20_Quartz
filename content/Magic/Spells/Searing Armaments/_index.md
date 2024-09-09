@@ -1,0 +1,29 @@
+---
+spell: Searing Armaments
+tags:
+  - Spell
+  - Fire-Affinity-Spell
+fileClass:
+  - Spell
+share: true
+title: Searing Armaments
+keyword: Transmutation
+Prerequisites: Fire(Essence) Affinity
+Target: One Creature (see text)
+Duration: Concentration or 1 round per BCB..
+Range: Close
+Action: 4 AP
+Saving Throw: Resilience(Psy) Negates (see text)
+Spell Resistance: Yes
+Description: |-
+  You concentrate on a creature in close range in an attempt to heat their held equipment. Make a Resilience(Psy) save attack against a creature. A successful save attack causes a metal weapon or other equipment they are holding to begin to rapidly heat as you continue to concentrate on the spell. The object becomes noticeably hotter in the first round but does not damage the creature. After sustaining the spell for 2 rounds the weapon begins to harm creatures attempting to hold it causing 1d4 points of fire damage for each round they continue to hold it.
+  The damage improves by one step for each additional round the spell is concentrated on to a maximum of one step plus one step per 3 BCB. While most weapons are resistant to elemental damage, if this damage becomes enough to bypass the hardness of the weapon it may begin to damage the weapon each round due to the extreme heat. If you stop concentrating on the spell the weapon rapidly cools and returns to a safe temperature.
+  The weapon while superheated in this way deals additional fire damage on attacks equal to the damage it causes the wielder.
+  The caster may choose to instead allow the spell to continue without concentration by spending a spell point but without the concentration the spell becomes more fragile and the targeted creature is allowed a new save each round.
+---
+
+<p><span dir="ltr" style="overflow-x: auto;"><table><tbody><tr><th dir="ltr">Keyword</th><td dir="ltr">Transmutation</td></tr><tr><th dir="ltr">Prerequisites</th><td dir="ltr">Fire(Essence) Affinity</td></tr><tr><th dir="ltr">Target</th><td dir="ltr">One Creature (see text)</td></tr><tr><th dir="ltr">Duration</th><td dir="ltr">Concentration or 1 round per BCB..</td></tr><tr><th dir="ltr">Range</th><td dir="ltr">Close</td></tr><tr><th dir="ltr">Action</th><td dir="ltr">4 AP</td></tr><tr><th dir="ltr">Saving Throw</th><td dir="ltr">Resilience(Psy) Negates (see text)</td></tr><tr><th dir="ltr">Spell Resistance</th><td dir="ltr">Yes</td></tr><tr><th dir="ltr">Description</th><td dir="ltr">You concentrate on a creature in close range in an attempt to heat their held equipment. Make a Resilience(Psy) save attack against a creature. A successful save attack causes a metal weapon or other equipment they are holding to begin to rapidly heat as you continue to concentrate on the spell. The object becomes noticeably hotter in the first round but does not damage the creature. After sustaining the spell for 2 rounds the weapon begins to harm creatures attempting to hold it causing 1d4 points of fire damage for each round they continue to hold it.
+The damage improves by one step for each additional round the spell is concentrated on to a maximum of one step plus one step per 3 BCB. While most weapons are resistant to elemental damage, if this damage becomes enough to bypass the hardness of the weapon it may begin to damage the weapon each round due to the extreme heat. If you stop concentrating on the spell the weapon rapidly cools and returns to a safe temperature.
+The weapon while superheated in this way deals additional fire damage on attacks equal to the damage it causes the wielder.
+The caster may choose to instead allow the spell to continue without concentration by spending a spell point but without the concentration the spell becomes more fragile and the targeted creature is allowed a new save each round.</td></tr></tbody></table></span></p><span><span><hr></span></span><h1><span><p dir="auto">Searing Armaments Talents</p></span></h1><span><span><hr></span></span><h2><span><p dir="auto">Burning Arms</p></span></h2><p><span dir="ltr" style="overflow-x: auto;"><table><tbody><tr><th dir="ltr">Spell</th><td dir="ltr">Searing Armaments</td></tr><tr><th dir="ltr">Prerequisite</th><td dir="ltr">Concussive Shout, BCB 10th</td></tr><tr><th dir="ltr">Benefit</th><td dir="ltr">You may cause wooden weapons to catch fire. Rather than superheating the metal this instead requires the spell to continue for 2 rounds before causing the wood to burst into flames dealing damage of mundane diminutive fire, if the weapon or armor is sized for a medium creature; small and smaller are instead fine flames, while the size of the flame improves by one size for every size category above medium. Instead of the damage improving each round the spell the spell instead causes the flames to reignite every time the fire is extinguished as long as the duration or concentration of the spell is not ended, otherwise the spell requires two rounds to begin again.
+You may spend an additional spell point to further raise the effort of extinguishing the flames as if it was two size categories larger. </td></tr><tr><th dir="ltr">Special</th><td dir="ltr">If combined with the searing armor talent the fire instead starts at tiny, instead of diminutive, if medium and used on wooden armor.</td></tr></tbody></table></span></p><h2><span><p dir="auto">Searing Armor</p></span></h2><p><span dir="ltr" style="overflow-x: auto;"><table><tbody><tr><th dir="ltr">Spell</th><td dir="ltr">Searing Armaments</td></tr><tr><th dir="ltr">Prerequisite</th><td dir="ltr">Searing Armaments, BCB 5th</td></tr><tr><th dir="ltr">Benefit</th><td dir="ltr">You can begin to superheat metal equipment worn by a creature. Damage from superheated armor instead starts at d6; and instead of dealing additional damage on attack rolls, creatures are instead dealt minimum damage from the superheated armor fire damage when they strike the wearer with a natural weapon or unarmed strike.</td></tr></tbody></table></span></p>

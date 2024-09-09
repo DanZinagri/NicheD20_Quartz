@@ -1,0 +1,12 @@
+---
+name: Locking Boots
+share: true
+cost: 10250
+bcb: 8
+weight: 4
+tags:
+  - Magic-Items
+  - Foot-Slot-Magic
+effect: As a 2 AP action a creature wearing these boots may lock themselves in place. This allows a creature to keep their balance on a shifting surface, and not slide or fall off of others. An additional 2 AP action allows the wearer to disable these boots.<br><br>This does not allow a creature to climb a vertical or horizontal surface as once the boots are enabled they are unable to move from that spot, but can allow a creature to stay in place should the entire terrain shift to a vertical or upside-down orientation.<br><br>While enabled the creature gains a 15 + the wearer’s Psyche modifier (minimum 1) circumstance bonus to CMD against trip and reposition combat maneuvers; but automatically fails all reflex saving throws. Successful combat maneuvers against the wearer cause the wearer to take 1d6 points of damage from the force as they are forcibly removed from their boots. Boots with no wearer cease to function and are no longer attached to the surface they were locked to.
+---
+<p><span dir="ltr" style="overflow-x: auto;"><table><tbody><tr><th dir="ltr">Name</th><td dir="ltr">Locking Boots</td></tr><tr><th dir="ltr">Cost</th><td dir="auto">10250</td></tr><tr><th dir="ltr">Bcb</th><td dir="auto">8</td></tr><tr><th dir="ltr">Weight</th><td dir="auto">4</td></tr><tr><th dir="ltr">Effect</th><td dir="ltr">As a 2 AP action a creature wearing these boots may lock themselves in place. This allows a creature to keep their balance on a shifting surface, and not slide or fall off of others. An additional 2 AP action allows the wearer to disable these boots.<br><br>This does not allow a creature to climb a vertical or horizontal surface as once the boots are enabled they are unable to move from that spot, but can allow a creature to stay in place should the entire terrain shift to a vertical or upside-down orientation.<br><br>While enabled the creature gains a 15 + the wearer’s Psyche modifier (minimum 1) circumstance bonus to CMD against trip and reposition combat maneuvers; but automatically fails all reflex saving throws. Successful combat maneuvers against the wearer cause the wearer to take 1d6 points of damage from the force as they are forcibly removed from their boots. Boots with no wearer cease to function and are no longer attached to the surface they were locked to.</td></tr></tbody></table></span></p>

@@ -1,0 +1,6 @@
+---
+share: true
+---
+This variant rule simplifies the way to handle more than two creatures engaged in a grapple by reducing the number of times that a Grapple maneuver must be rolled and resolved each round.
+
+This method of resolution involves applying the Aid action for each additional creature assisting either the grappling creature or the creature being grappled. When resolving a multi-creature grapple in this way, assign one creature as the primary grappler and each additional allied creature may use Aid to provide a stacking +2 bonus to assist the primary grappler. In the alternative, allied creatures may make an Aid check to provide a stacking -2 penalty to the opposing grappler. Features that improve the benefit granted by the Aid action similarly increase this bonus or penalty by the same amount. This bonus or penalty may be applied on attempts to initiate, maintain, escape, or take control of the grapple. Despite multiple creatures being involved, only the primary grappler and their target gain the Grappled condition.
