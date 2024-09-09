@@ -4,30 +4,30 @@ title: Skills
 ---
 This page details the various skills of the Niche system.
 
-| Name                                               | Ability | Type     |
-| -------------------------------------------------- | ------- | -------- |
-| [Appraise](Mental-Skills/Appraise)                 | Int     | Mental   |
-| [Bluff](Mental-Skills/Bluff)                       | Psy     | Mental   |
-| [Concentration](Mental-Skills/Concentration)       | Foc     | Mental   |
-| [Diplomacy](Mental-Skills/Diplomacy)               | Psy     | Mental   |
-| [Disguise](Mental-Skills/Disguise)                 | Psy     | Mental   |
-| [Intimidate](Mental-Skills/Intimidate)             | Psy     | Mental   |
-| [Knowledge](Mental-Skills/Knowledge)               | Int     | Mental   |
-| [Medic](Mental-Skills/Medic)                       | Foc     | Mental   |
-| [Perception](Mental-Skills/Perception)             | Foc     | Mental   |
-| [Perform](Mental-Skills/Perform)                   | Psy     | Mental   |
-| [Sense Motive](Mental-Skills/Sense Motive)         | Foc     | Mental   |
-| [Survival](Mental-Skills/Survival)                 | Foc     | Mental   |
-| [Use Magic Device](Mental-Skills/Use Magic Device) | Psy     | Mental   |
-| [Acrobatics](Physical-Skills/Acrobatics)           | Agi     | Physical |
-| [Athletics](Physical-Skills/Athletics)             | Agi     | Physical |
-| [Disable Device](Physical-Skills/Disable Device)   | Agi     | Physical |
-| [Escape Artist](Physical-Skills/Escape Artist)     | Agi     | Physical |
-| [Ride](Physical-Skills/Ride)                       | Agi     | Physical |
-| [Sleight of Hand](Physical-Skills/Sleight of Hand) | Agi     | Physical |
-| [Stealth](Physical-Skills/Stealth)                 | Agi     | Physical |
-| [Tenacity](Physical-Skills/Tenacity)               | Agi     | Physical |
-| [Profession](Varies-Skills/Profession)             | -       | Varies   |
+| Name                                          | Ability | Type     |
+| --------------------------------------------- | ------- | -------- |
+| [Appraise](/Skills/Mental%20Skills/Appraise.md)            | Int     | Mental   |
+| [Bluff](/Skills/Mental%20Skills/Bluff.md)               | Psy     | Mental   |
+| [Concentration](/Skills/Mental%20Skills/Concentration.md)       | Foc     | Mental   |
+| [Diplomacy](/Skills/Mental%20Skills/Diplomacy.md)           | Psy     | Mental   |
+| [Disguise](/Skills/Mental%20Skills/Disguise.md)            | Psy     | Mental   |
+| [Intimidate](/Skills/Mental%20Skills/Intimidate.md)          | Psy     | Mental   |
+| [Knowledge](/Skills/Mental%20Skills/Knowledge/Knowledge.md) | Int     | Mental   |
+| [Medic](/Skills/Mental%20Skills/Medic.md)               | Foc     | Mental   |
+| [Perception](/Skills/Mental%20Skills/Perception.md)          | Foc     | Mental   |
+| [Perform](/Skills/Mental%20Skills/Perform.md)             | Psy     | Mental   |
+| [Sense Motive](/Skills/Mental%20Skills/Sense%20Motive.md)        | Foc     | Mental   |
+| [Survival](/Skills/Mental%20Skills/Survival.md)            | Foc     | Mental   |
+| [Use Magic Device](/Skills/Mental%20Skills/Use%20Magic%20Device.md)    | Psy     | Mental   |
+| [Acrobatics](/Skills/Physical%20Skills/Acrobatics.md)        | Agi     | Physical |
+| [Athletics](/Skills/Physical%20Skills/Athletics.md)         | Agi     | Physical |
+| [Disable Device](/Skills/Physical%20Skills/Disable%20Device.md)    | Agi     | Physical |
+| [Escape Artist](/Skills/Physical%20Skills/Escape%20Artist.md)     | Agi     | Physical |
+| [Ride](/Skills/Physical%20Skills/Ride.md)              | Agi     | Physical |
+| [Sleight of Hand](/Skills/Physical%20Skills/Sleight%20of%20Hand.md)   | Agi     | Physical |
+| [Stealth](/Skills/Physical%20Skills/Stealth.md)           | Agi     | Physical |
+| [Tenacity](/Skills/Physical%20Skills/Tenacity.md)          | Agi     | Physical |
+| [Profession](/Skills/Varied%20Skills/Profession.md)          | -       | Varies   |
 
 ## Skills and Skill Ranks:
 
