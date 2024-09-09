@@ -1,0 +1,12 @@
+---
+name: Gem Torch II
+share: true
+cost: 150
+bcb: 2
+weight: 1
+tags:
+  - Magic-Items
+  - Slotless-Magic
+effect: This item is shaped like a torch with a large crystal affixed to the end of it. As a 3 AP action the wielder can perform a gesture or speak a command word to cause the gem to shed light within a radius similar to a torch; determined by the tier of gem torch. A tier 2 gem torch sheds normal light within a raidus 30 ft. radius, plus raises the light level by one step in an equal radius beyond the first. This cannot raise the light level beyond one step.  The wielder may command the torch to glow brighter causing it to shed bright light within the listed radius, normal light within an equal radius beyond the first, and raising the light level by one step in an equal radius beyond the second. This cannot raise the light level beyond one step. This effect lasts a number of rounds equal to the wielder’s Psyche modifier (minimum 2) before the gem torch fizzles. Once the torch fizzles it becomes unable to produce light for 1 minute, reduced by 1 round per point of the wielder’s Psyche modifier (minimum 1 round).
+---
+<p><span dir="ltr" style="overflow-x: auto;"><table><tbody><tr><th dir="ltr">Name</th><td dir="ltr">Gem Torch II</td></tr><tr><th dir="ltr">Cost</th><td dir="auto">150</td></tr><tr><th dir="ltr">Bcb</th><td dir="auto">2</td></tr><tr><th dir="ltr">Weight</th><td dir="auto">1</td></tr><tr><th dir="ltr">Effect</th><td dir="ltr">This item is shaped like a torch with a large crystal affixed to the end of it. As a 3 AP action the wielder can perform a gesture or speak a command word to cause the gem to shed light within a radius similar to a torch; determined by the tier of gem torch. A tier 2 gem torch sheds normal light within a raidus 30 ft. radius, plus raises the light level by one step in an equal radius beyond the first. This cannot raise the light level beyond one step.  The wielder may command the torch to glow brighter causing it to shed bright light within the listed radius, normal light within an equal radius beyond the first, and raising the light level by one step in an equal radius beyond the second. This cannot raise the light level beyond one step. This effect lasts a number of rounds equal to the wielder’s Psyche modifier (minimum 2) before the gem torch fizzles. Once the torch fizzles it becomes unable to produce light for 1 minute, reduced by 1 round per point of the wielder’s Psyche modifier (minimum 1 round).</td></tr></tbody></table></span></p>
