@@ -62,7 +62,7 @@ At 1st level a eldritch knight selects a single eldritch combat style from the f
 
 At 2nd level the Eldritch Knight gains access to Eldritch Knight Talents when selecting class talents.
 
-See [[Eldritch Knight Talents|Eldritch Knight Talents]] for a listing of Talents available for the Weapon Master class.
+See [Eldritch Knight Talents](./Eldritch%20Knight%20Talents/_index.md) for a listing of Talents available for the Weapon Master class.
 ## Eldritch Jaunt (Ki)
 
 An eldritch knight learns to use her arcane power to close the gap between her and her foes. At 3rd level an eldritch knight may spend 1 point from her mystic pool as a move action teleport a number of 5ft squares equal to her casting ability modifier. This teleport must bring her adjacent to an enemy she is capable of seeing.
