@@ -54,8 +54,8 @@ Below is a list of common diseases; some outside factors (such as circumstantial
 
 | Name              | Type                | DC     | Onset Time             | Frequency | Cure                | Save Type       |
 | ----------------- | ------------------- | ------ | ---------------------- | --------- | ------------------- | --------------- |
-| [[Cholera|Cholera]]       | Injury, or Ingested | 18     | 1d4-1 days (minimum 1) | 2/day     | 4 saves             | Resilience(End) |
-| [[Dysentery|Dysentery]]     | Injury, or Ingested | 22     | 1d4-1 days (minimum 1) | 2/day     | 4 saves             | Resilience(End) |
-| [[Malaria|Malaria]]       | Injury              | 22     | 1 week                 | 1/day     | 2 consecutive saves | Resilience(End) |
-| [[Tremor|Tremor]]        | Injury              | 16     | 5 days                 | 4/day     | Incurable(see note) | Resilience(End) |
-| [[Zombie Plague|Zombie Plague]] | Injury              | Varies | 3 days                 | 1/day     | 3 saves             | Resilience(End) |
+| [Cholera](Cholera.md)       | Injury, or Ingested | 18     | 1d4-1 days (minimum 1) | 2/day     | 4 saves             | Resilience(End) |
+| [Dysentery](Dysentery.md)     | Injury, or Ingested | 22     | 1d4-1 days (minimum 1) | 2/day     | 4 saves             | Resilience(End) |
+| [Malaria](Malaria.md)       | Injury              | 22     | 1 week                 | 1/day     | 2 consecutive saves | Resilience(End) |
+| [Tremor](Tremor.md)        | Injury              | 16     | 5 days                 | 4/day     | Incurable(see note) | Resilience(End) |
+| [Zombie Plague](Zombie%20Plague.md) | Injury              | Varies | 3 days                 | 1/day     | 3 saves             | Resilience(End) |
