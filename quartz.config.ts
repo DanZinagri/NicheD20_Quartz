@@ -9,6 +9,7 @@ import * as Plugin from "./quartz/plugins"
 const config: QuartzConfig = {
   configuration: {
     pageTitle: "Niche D20",
+	logoDir: "/static/logo2.png",
     enableSPA: true,
     enablePopovers: true,
     analytics: {
