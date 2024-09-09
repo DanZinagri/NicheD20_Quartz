@@ -1,0 +1,20 @@
+---
+fileClass:
+  - Spell
+keyword: Healing
+prerequisite: Water(Essence) Affinity
+share: true
+title: Cleanse
+tags:
+  - Spell
+  - Water-Affinity-Spell
+target: One creature
+duration: Instantaneous
+range: Touch
+action: 4 AP
+saving_throw: None
+spell_resistance: no
+description: You may spend a spell point to remove a single Tier 1 condition from a creature touched.
+---
+
+<p><span dir="ltr" style="overflow-x: auto;"><table><tbody><tr><th dir="ltr">Keyword</th><td dir="ltr">Healing</td></tr><tr><th dir="ltr">Prerequisite</th><td dir="ltr">Water(Essence) Affinity</td></tr><tr><th dir="ltr">Target</th><td dir="ltr">One creature</td></tr><tr><th dir="ltr">Duration</th><td dir="ltr">Instantaneous</td></tr><tr><th dir="ltr">Range</th><td dir="ltr">Touch</td></tr><tr><th dir="ltr">Action</th><td dir="ltr">4 AP</td></tr><tr><th dir="ltr">Saving throw</th><td dir="ltr">None</td></tr><tr><th dir="ltr">Spell resistance</th><td dir="ltr">no</td></tr><tr><th dir="ltr">Description</th><td dir="ltr">You may spend a spell point to remove a single Tier 1 condition from a creature touched.</td></tr></tbody></table></span></p><span><span><hr></span></span><h1><span><p dir="auto">General Cleanse Talents</p></span></h1><span><span><hr></span></span><h2><span><p dir="auto">Deep Clease</p></span></h2><p><span dir="ltr" style="overflow-x: auto;"><table><tbody><tr><th dir="ltr">Spell</th><td dir="ltr">Cleanse</td></tr><tr><th dir="ltr">Prerequisite</th><td dir="ltr">Cleanse, BCB 5th, Improved Cleanse</td></tr><tr><th dir="ltr">Benefit</th><td dir="ltr">You may remove multiple conditions affecting a creature as each condition removed this way was of a different type.</td></tr></tbody></table></span></p><h2><span><p dir="auto">Greater Cleanse</p></span></h2><p><span dir="ltr" style="overflow-x: auto;"><table><tbody><tr><th dir="ltr">Spell</th><td dir="ltr">Cleanse</td></tr><tr><th dir="ltr">Prerequisite</th><td dir="ltr">Cleanse, Improved Cleanse, BCB 7th</td></tr><tr><th dir="ltr">Benefit</th><td dir="ltr">You may spend an additional spell point to allow Cleanse to now remove conditions up to Tier 3. At BCB 12th you may remove up to 3 Tier 2 conditions as part of a single cast. At BCB 14th you may remove all Tier 1 conditions affecting the creature.</td></tr></tbody></table></span></p><h2><span><p dir="auto">Improved Cleanse</p></span></h2><p><span dir="ltr" style="overflow-x: auto;"><table><tbody><tr><th dir="ltr">Spell</th><td dir="ltr">Cleanse</td></tr><tr><th dir="ltr">Prerequisite</th><td dir="ltr">Cleanse, BCB 3rd</td></tr><tr><th dir="ltr">Benefit</th><td dir="ltr">You may spend an additional spell point to allow Cleanse to now remove conditions up to Tier 2. At BCB 8th you may also remove up to three tier one conditions as part of a single cast.</td></tr></tbody></table></span></p><h2><span><p dir="auto">Restore Soul</p></span></h2><p><span dir="ltr" style="overflow-x: auto;"><table><tbody><tr><th dir="ltr">Spell</th><td dir="ltr">Cleanse</td></tr><tr><th dir="ltr">Prerequisite</th><td dir="ltr">Cleanse, BCB 5th</td></tr><tr><th dir="ltr">Benefit</th><td dir="ltr">Your Cleanse may remove 1d4 temporary negative levels from the target rather than the normal effect of the spell. At 8th BCB you may instead spend an additional spell point to instead remove all temporary negative levels or a single permanent negative level from the target.</td></tr></tbody></table></span></p><h2><span><p dir="auto">Suppress Curse</p></span></h2><p><span dir="ltr" style="overflow-x: auto;"><table><tbody><tr><th dir="ltr">Spell</th><td dir="ltr">Cleanse</td></tr><tr><th dir="ltr">Prerequisite</th><td dir="ltr">Cleanse, BCB 4th</td></tr><tr><th dir="ltr">Benefit</th><td dir="ltr">You may attempt to remove a curse effect from a creature or object within range, making a SPB check (1d20 + SPB) against a DC of 11 + the SPB of the curse. On a success, the effect is dispelled (for temporary effects) or suppressed for 1 minute per BCB (for permanent effects).</td></tr></tbody></table></span></p>

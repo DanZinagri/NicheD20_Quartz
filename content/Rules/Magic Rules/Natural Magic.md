@@ -1,0 +1,16 @@
+---
+share: true
+---
+Some creatures are imbued with magic power and are able to create the effect of spells and spell talents through natural means, rather than the process of spellcasting.
+
+Creatures may gain a natural spell through their race, class levels, or other means but natural magic always uses the spontaneous casting type. The source of the creature’s natural magic will specify how to determine the Base Casting Bonus, Spell Proficiency Bonus, and Casting Ability Modifier for that spell. If the source does not specify one or more of these values, use ½ the creature’s Hit Dice to determine BCB, the creature’s full HD to determine SPB, and Pysche as the CAM; BCB and SPB gained from other sources (such as levels in casting classes) do not improve these values unless the source specifies so.
+
+The source will specify the conditions for activating the natural magic, such as action required and any resource cost, or whether the spell can be used a number of times per day or after a specified period (such as once per hour, or 1d4 minutes after the last use). If the source does not specify one of these, use the same action and spell point cost required to cast the spell (and any added talents) through normal spellcasting. If the source allows for the natural spell to be cast without spending spell points, then casting a natural spell which allows a spell point to be spent to allow it to continue without concentration does not require that spell point to be spent.
+
+A natural spell has no verbal component, is not restricted by wearing armor, and does not require an implement to be held to avoid making concentration checks (although it may gain the benefits of a held masterwork or enchanted implement regardless of the type of that implement).
+
+Spells and talents gained through natural magic sources cannot be combined with spells and talents gained through normal spellcasting methods, but may be affected by feats, class features, and items that modify or enhance spellcasting. Unless otherwise specified, any talents listed by the source as modifying a natural spell are always a part of casting that spell and cannot be changed.
+
+Example: Big Pete gains the Alter Self spell modified by the Size Change form talent as a natural spell, usable once per hour. With 8 hit dice, he is considered to have 4 BCB which limits him to growing +1 size category and the effect will last for up to 4 minutes with no need to spend a spell point to allow it to continue without concentration. Because this source specifies how often it can be used, this natural spell has no resource cost to activate.
+
+Malius gains the Conjure Wall spell modified by the Wall of Earth talent as a natural spell, but the source specifies that he must spend spell points to activate it and uses his hit dice as his BCB. With 6 hit dice, he can create a wall of iron. Malius’ source also specifies that he has the option to add the Electrified Wall talent. Because it is specified as an optional talent, he is not required to add it (and spend the additional spell point) every time that he uses this natural spell.
