@@ -1,0 +1,12 @@
+---
+name: Compression Corset
+share: true
+cost: 5000
+bcb: 5
+weight: 1
+tags:
+  - Magic-Items
+  - Body-Slot-Magic
+effect: The wearer of this Corset may activate its effects as a 1 AP action up to 4 times per day. When activated the wearer’s body becomes compressed for a number of rounds equal to 1 + the wearer’s Psyche modifier (minimum 3). When activated the wearer is treated as one size category smaller for the purposes of determining what spaces they can walk and squeeze through, and in addition gains a +5 bonus on Escape Artist checks for the duration.<br><br>Should the effect end while the wearer is within a space they normally could not squeeze through; the wearer can resume the effect with another 1 AP action. Should the wearer be unable to spend a 1 AP action or has no more uses per day of the corset, they take 2d6 bludgeoning damage as their body restores to its original size; and may be unable to continue through the space if they are unable squeeze through it normally, but do not continue to take further damage for being stuck within the space.
+---
+<p><span dir="ltr" style="overflow-x: auto;"><table><tbody><tr><th dir="ltr">Name</th><td dir="ltr">Compression Corset</td></tr><tr><th dir="ltr">Cost</th><td dir="auto">5000</td></tr><tr><th dir="ltr">Bcb</th><td dir="auto">5</td></tr><tr><th dir="ltr">Weight</th><td dir="auto">1</td></tr><tr><th dir="ltr">Effect</th><td dir="ltr">The wearer of this Corset may activate its effects as a 1 AP action up to 4 times per day. When activated the wearer’s body becomes compressed for a number of rounds equal to 1 + the wearer’s Psyche modifier (minimum 3). When activated the wearer is treated as one size category smaller for the purposes of determining what spaces they can walk and squeeze through, and in addition gains a +5 bonus on Escape Artist checks for the duration.<br><br>Should the effect end while the wearer is within a space they normally could not squeeze through; the wearer can resume the effect with another 1 AP action. Should the wearer be unable to spend a 1 AP action or has no more uses per day of the corset, they take 2d6 bludgeoning damage as their body restores to its original size; and may be unable to continue through the space if they are unable squeeze through it normally, but do not continue to take further damage for being stuck within the space.</td></tr></tbody></table></span></p>
