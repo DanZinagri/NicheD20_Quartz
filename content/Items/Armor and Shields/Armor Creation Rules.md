@@ -1,0 +1,18 @@
+---
+share: true
+---
+
+Similar to weapons for the vision of a character to come through you wish to have the right armor to match. The system should generally be limited to access by players and be more of a tool of a GM to build their world better. These rules have been used to make almost every armor in this system, though most armors were designed with a theme or historical use in mind rather than maximum potential. Should a player wish to use this system a GM should add some restrictions, such as the player character needs to have the skills necessary to make it themselves, or the ability to create schematics for special orders from a blacksmith. If a type of armor is too uncommon a price increase should be added to reflect the rarity of such a tool. As usual the GM is the final arbiter in their game and may adjust/tweak these rules as they wish, but it is recommended to not stray too far as it could create unintentional power imbalance in your game. Similar to weapon design this armor design system allows you to create new armor. The number of Design Points an armor receives is determined by whether it is simple (8 DP), martial (10 DP), or exotic (12 DP). These rules do not cover shields, and should not be used to design a shield. All new armor weapons begin with the following base statistics: +1 Armor Bonus, 6 Strength Rating and is considered Heavy Armor Weight: When determining the armor’s weight, use the weight of a armor with similar AC, Strength Rating and features. Generally the more of the body covered the more it likely should weigh. Price: Unlike weapons armor tends to follow more of a progression curve, raising your strength, gaining more money, simply later getting into a armor proficiency you previously lacked. These can result in armor changing over the course of a game. As a result armor should match armor of similar AC, Proficiency, and special abilities; the heavier the armor generally the more it should cost, material is an important factor also.
+
+## Armor Design Qualities
+
+|Name|DP|Description|
+|---|---|---|
+|Armor Feature|Vaires|Choose one of the following armor special features for the armor:  Deflecting, Double-Plated, Impact Absorbing, Locking Joints, Nimble, Quick Don, Razored, Strong, Vital-Guard. This quality can be selected twice for martial weapons and three times for exotic weapons. It costs 1 DP the first time it is selected, an additional 2 DP the second time, and an additional 3 DP the third time.|
+|Armor Finesse|2|This can only be selected for armors at 5 strength rating. The armor’s strength rating is reduced to 4 and the armor’s category is now treated as light.|
+|Improved Armor|1|The AC of the armor improves by 1. This can be selected more than once but may only be selected a maximum of 7 times for simple armor and 9 times for martial armor, and 12 times for exotic armor.|
+|Improved Strength Rating|1|The strength rating of the armor improves by 1 point. This can only reduce heavy armor down to 5 strength rating, but may reduce light armors below 0. This ability may be selected as multiple times. Exotic armors may reduce heavy armor to 4 without needing to purchase Armor Finesse to change the category.|
+|Weather Ready|1|Choose Hot or Cold; the armor gains Weather Ready for that type of weather.|
+|Worsened Strength Rating|-1|The strength rating of the armor worsens by 1 point. This may only be selected once for martial armors, and up to three times for exotic armors. This cannot be selected if you’ve taken Improved Strength rating.|
+|Slumbering|1|The armor gains the Slumbering special feature.|
+|Strong|1|The armor gains the Strong special feature.|
