@@ -28,6 +28,15 @@ export const defaultContentPageLayout: PageLayout = {
   left: [
     Component.PageTitle(),
     Component.MobileOnly(Component.Spacer()),
+	Component.DesktopOnly(
+      Component.ExplorerBurger({
+        folderClickBehavior: "link",
+        folderDefaultState: "collapsed",
+        useSavedState: true,
+        title: "",
+        iconSettings: iconsOptions,
+      }),
+    ),
     Component.DesktopOnly(Component.Explorer({
 	  title: "Pages", // title of the explorer component
 	  folderClickBehavior: "link", // what happens when you click a folder ("link" to navigate to folder page on click or "collapse" to collapse folder on click)
@@ -53,6 +62,15 @@ export const defaultListPageLayout: PageLayout = {
   left: [
     Component.PageTitle(),	
     Component.MobileOnly(Component.Spacer()),
+	Component.DesktopOnly(
+      Component.ExplorerBurger({
+        folderClickBehavior: "link",
+        folderDefaultState: "collapsed",
+        useSavedState: true,
+        title: "",
+        iconSettings: iconsOptions,
+      }),
+    ),
     Component.DesktopOnly(Component.Explorer({
 	  title: "Pages", // title of the explorer component
 	  folderClickBehavior: "link", // what happens when you click a folder ("link" to navigate to folder page on click or "collapse" to collapse folder on click)
