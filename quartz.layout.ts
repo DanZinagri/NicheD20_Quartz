@@ -4,7 +4,16 @@ import * as Component from "./quartz/components"
 // components shared across all pages
 export const sharedPageComponents: SharedLayout = {
   head: Component.Head(),
-  header: [],
+  header: [
+    Component.Search(),
+    Component.DesktopOnly(Component.Explorer({
+	  title: "Pages", // title of the explorer component
+	  folderClickBehavior: "link", // what happens when you click a folder ("link" to navigate to folder page on click or "collapse" to collapse folder on click)
+	  folderDefaultState: "collapsed", // default state of folders ("collapsed" or "open")
+	  useSavedState: true, // whether to use local storage to save "state" (which folders are opened) of explorer
+	})),
+	Component.Darkmode(),
+	],
   afterBody: [],
   footer: Component.Footer({
     links: {
@@ -25,15 +34,6 @@ export const defaultContentPageLayout: PageLayout = {
   left: [
     Component.PageTitle(),
     Component.MobileOnly(Component.Spacer()),
-    Component.Search(),
-    
-    Component.DesktopOnly(Component.Explorer({
-	  title: "Pages", // title of the explorer component
-	  folderClickBehavior: "link", // what happens when you click a folder ("link" to navigate to folder page on click or "collapse" to collapse folder on click)
-	  folderDefaultState: "collapsed", // default state of folders ("collapsed" or "open")
-	  useSavedState: true, // whether to use local storage to save "state" (which folders are opened) of explorer
-	})),
-	Component.Darkmode(),
   ],
   right: [
     //Component.Graph(),
@@ -53,14 +53,6 @@ export const defaultListPageLayout: PageLayout = {
   left: [
     Component.PageTitle(),
     Component.MobileOnly(Component.Spacer()),
-    Component.Search(),
-    Component.DesktopOnly(Component.Explorer({
-	  title: "Pages", // title of the explorer component
-	  folderClickBehavior: "link", // what happens when you click a folder ("link" to navigate to folder page on click or "collapse" to collapse folder on click)
-	  folderDefaultState: "collapsed", // default state of folders ("collapsed" or "open")
-	  useSavedState: true, // whether to use local storage to save "state" (which folders are opened) of explorer
-	})),
-	Component.Darkmode(),
   ],
   right: [
     //Component.Graph(),
