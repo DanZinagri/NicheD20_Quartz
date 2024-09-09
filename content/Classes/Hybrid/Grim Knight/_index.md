@@ -83,7 +83,7 @@ This ability may be treated as a spell to be used with spellstrike or any abilit
 
 At 2nd level and every 2 levels thereafter the Grim Knight gains a dark gift that he qualifies for. If a dark gift calls for a save attack it is made at 1d20 + ½ SPB + casting ability modifier, adding any enhancement bonuses from his implement to the save attack. Abilities that call for ki may be instead utilized by spending 1 point from his mystic pool if he does not yet possess a ki pool. Additional Darf Gifts can be taken using the Extra Talent feat.
 
-For a complete listing of dark gifts, see [[List of Dark Gifts|List of Dark Gifts]]
+For a complete listing of dark gifts, see [List of Dark Gifts](./List%20of%20Dark%20Gifts.md)
 ## Ki Pool (Su)
 
 At 3rd level, a Grim Knight gains access to a pool of internal energies called ki, which allow him to perform supernatural feats that go beyond the limits of his physical body. This pool contains a number of ki points equal 1 + his casting ability modifier (minimum 2) and refreshes once per day when the Grim Knight regains his Mystic Pool. A Grim Knight may spend a stamina or a mystic pool point as a free action on his turn to regain 2 points of his ki pool.
