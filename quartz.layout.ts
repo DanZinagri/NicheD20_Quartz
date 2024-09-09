@@ -45,12 +45,6 @@ export const defaultContentPageLayout: PageLayout = {
         iconSettings: iconsOptions,
       }),
     ),
-    Component.DesktopOnly(Component.Explorer({
-	  title: "Pages", // title of the explorer component
-	  folderClickBehavior: "link", // what happens when you click a folder ("link" to navigate to folder page on click or "collapse" to collapse folder on click)
-	  folderDefaultState: "collapsed", // default state of folders ("collapsed" or "open")
-	  useSavedState: true, // whether to use local storage to save "state" (which folders are opened) of explorer
-	})),
   ],
   right: [
     //Component.Graph(),
@@ -75,16 +69,10 @@ export const defaultListPageLayout: PageLayout = {
         folderClickBehavior: "link",
         folderDefaultState: "collapsed",
         useSavedState: true,
-        title: "",
+        title: "Pages",
         iconSettings: iconsOptions,
       }),
     ),
-    Component.DesktopOnly(Component.Explorer({
-	  title: "Pages", // title of the explorer component
-	  folderClickBehavior: "link", // what happens when you click a folder ("link" to navigate to folder page on click or "collapse" to collapse folder on click)
-	  folderDefaultState: "collapsed", // default state of folders ("collapsed" or "open")
-	  useSavedState: true, // whether to use local storage to save "state" (which folders are opened) of explorer
-	})),
   ],
   right: [
     //Component.Graph(),
