@@ -5,7 +5,7 @@ import { IconFolderOptions } from "./quartz/plugins/components/FileIcons";
 const iconsOptions: IconFolderOptions = {
   rootIconFolder: "quartz/static/icons",
   default: {
-    file: "file",
+    file: "folder-open",
   },
 };
 
@@ -41,7 +41,7 @@ export const defaultContentPageLayout: PageLayout = {
         folderClickBehavior: "link",
         folderDefaultState: "collapsed",
         useSavedState: true,
-        title: "",
+        title: "Pages",
         iconSettings: iconsOptions,
       }),
     ),
