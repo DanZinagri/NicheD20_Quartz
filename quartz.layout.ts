@@ -6,12 +6,6 @@ export const sharedPageComponents: SharedLayout = {
   head: Component.Head(),
   header: [
     Component.Search(),
-    Component.DesktopOnly(Component.Explorer({
-	  title: "Pages", // title of the explorer component
-	  folderClickBehavior: "link", // what happens when you click a folder ("link" to navigate to folder page on click or "collapse" to collapse folder on click)
-	  folderDefaultState: "collapsed", // default state of folders ("collapsed" or "open")
-	  useSavedState: true, // whether to use local storage to save "state" (which folders are opened) of explorer
-	})),
 	Component.Darkmode(),
 	],
   afterBody: [],
@@ -34,6 +28,12 @@ export const defaultContentPageLayout: PageLayout = {
   left: [
     Component.PageTitle(),
     Component.MobileOnly(Component.Spacer()),
+    Component.DesktopOnly(Component.Explorer({
+	  title: "Pages", // title of the explorer component
+	  folderClickBehavior: "link", // what happens when you click a folder ("link" to navigate to folder page on click or "collapse" to collapse folder on click)
+	  folderDefaultState: "collapsed", // default state of folders ("collapsed" or "open")
+	  useSavedState: true, // whether to use local storage to save "state" (which folders are opened) of explorer
+	})),
   ],
   right: [
     //Component.Graph(),
@@ -51,8 +51,14 @@ export const defaultListPageLayout: PageLayout = {
 	Component.TagList(),
    ],
   left: [
-    Component.PageTitle(),
+    Component.PageTitle(),	
     Component.MobileOnly(Component.Spacer()),
+    Component.DesktopOnly(Component.Explorer({
+	  title: "Pages", // title of the explorer component
+	  folderClickBehavior: "link", // what happens when you click a folder ("link" to navigate to folder page on click or "collapse" to collapse folder on click)
+	  folderDefaultState: "collapsed", // default state of folders ("collapsed" or "open")
+	  useSavedState: true, // whether to use local storage to save "state" (which folders are opened) of explorer
+	})),
   ],
   right: [
     //Component.Graph(),
