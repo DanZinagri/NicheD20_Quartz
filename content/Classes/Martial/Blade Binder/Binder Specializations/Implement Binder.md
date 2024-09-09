@@ -1,0 +1,11 @@
+---
+name: Implement Binder
+share: true
+prerequisite: 
+tags:
+  - Binder-Specialization
+  - Blade-Binder
+description: You tap into the elemental energies of magic to turn your summoned weapon into an implement. When summoning an implement the weapon takes the form of a quarterstaff, but otherwise is treated as a casting implement. A summoned implement allows the blade binder rudimentary casting, treating the implement as possessing the extra affinity special ability of his chosen elemental energy source. In addition the staff is treated as having the extra spell special ability, treating his BCB as equal to half his levels in blade binder, allowing him to cast the spell granted while holding the implement. The blade binder may use his stamina pool to pay any spell point costs for this spell. The blade binder may spend one week in a ritual to re-attune himself to a new affinity and spell, changing out what affinity talent and spell his implement gains.  Any enhancement bonus your summoned weapon grants applies to the implement and any spells cast with it.
+special: 
+---
+<p><span dir="ltr" style="overflow-x: auto;"><table><tbody><tr><th dir="ltr">Name</th><td dir="ltr">Implement Binder</td></tr><tr><th dir="ltr">Description</th><td dir="ltr">You tap into the elemental energies of magic to turn your summoned weapon into an implement. When summoning an implement the weapon takes the form of a quarterstaff, but otherwise is treated as a casting implement. A summoned implement allows the blade binder rudimentary casting, treating the implement as possessing the extra affinity special ability of his chosen elemental energy source. In addition the staff is treated as having the extra spell special ability, treating his BCB as equal to half his levels in blade binder, allowing him to cast the spell granted while holding the implement. The blade binder may use his stamina pool to pay any spell point costs for this spell. The blade binder may spend one week in a ritual to re-attune himself to a new affinity and spell, changing out what affinity talent and spell his implement gains.  Any enhancement bonus your summoned weapon grants applies to the implement and any spells cast with it.</td></tr></tbody></table></span></p>

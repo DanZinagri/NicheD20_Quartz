@@ -1,0 +1,12 @@
+---
+name: Gloves of Elemental Attunement
+share: true
+cost: 18000
+bcb: 9
+weight: 3
+tags:
+  - Magic-Items
+  - Hand-Slot-Magic
+effect: When a wearer of this pair of gloves comes in contact with an element or an environment appropriate to that element (such as ice for cold, forest for nature, rocks for earth) they may attune the gloves to that element as a 4 AP action up to 1 round after this contact has been made.<br><br>Once attuned the gloves let the wearer count as possessing the associated elemental affinity talent for the purposes of preparing and casting spells. If the wearer changes the attuned element of the gloves to a different element, or removes the gloves they lose access to the associated elemental affinity talent and cannot cast spells of that element unless the regain that affinity talent; this applies to prepared spells as well, though the caster can cast the prepared spells again if they regain the affinity talent later. Gloves removed lose their attuned spell and must be attuned to an element once they are worn again.
+---
+<p><span dir="ltr" style="overflow-x: auto;"><table><tbody><tr><th dir="ltr">Name</th><td dir="ltr">Gloves of Elemental Attunement</td></tr><tr><th dir="ltr">Cost</th><td dir="auto">18000</td></tr><tr><th dir="ltr">Bcb</th><td dir="auto">9</td></tr><tr><th dir="ltr">Weight</th><td dir="auto">3</td></tr><tr><th dir="ltr">Effect</th><td dir="ltr">When a wearer of this pair of gloves comes in contact with an element or an environment appropriate to that element (such as ice for cold, forest for nature, rocks for earth) they may attune the gloves to that element as a 4 AP action up to 1 round after this contact has been made.<br><br>Once attuned the gloves let the wearer count as possessing the associated elemental affinity talent for the purposes of preparing and casting spells. If the wearer changes the attuned element of the gloves to a different element, or removes the gloves they lose access to the associated elemental affinity talent and cannot cast spells of that element unless the regain that affinity talent; this applies to prepared spells as well, though the caster can cast the prepared spells again if they regain the affinity talent later. Gloves removed lose their attuned spell and must be attuned to an element once they are worn again.</td></tr></tbody></table></span></p>

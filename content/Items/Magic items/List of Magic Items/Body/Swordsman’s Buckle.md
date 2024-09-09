@@ -1,0 +1,12 @@
+---
+name: Swordsman’s Buckle
+share: true
+cost: 850
+bcb: 2
+weight: 2
+tags:
+  - Magic-Items
+  - Body-Slot-Magic
+effect: This buckle may be applied to a single weapon with the blade keyword. Once applied the buckle melds into the item harmlessly and can be un-melded at any point. Once melded the wearer can cause the weapon to transform into a belt to be worn by the wearer. When in this state the weapon is unassuming and simply looks like a metallic belt. A creature attempting to identify the item may determine the magic of the belt, but otherwise be unable to tell the type of weapon before it was transformed.<br><br>The weapon may be up to one size category larger or smaller than the wearer, though weapons of larger size may look more like armor covering the abdominal region of the wearer rather than a belt due to the large amount of material to be transformed.<br><br>Transforming a weapon using this is a 3 AP action. The wearer may draw and transform the weapon as a reaction a number of times per day equal to their Psyche modifier (minimum 1).
+---
+<p><span dir="ltr" style="overflow-x: auto;"><table><tbody><tr><th dir="ltr">Name</th><td dir="ltr">Swordsman’s Buckle</td></tr><tr><th dir="ltr">Cost</th><td dir="auto">850</td></tr><tr><th dir="ltr">Bcb</th><td dir="auto">2</td></tr><tr><th dir="ltr">Weight</th><td dir="auto">2</td></tr><tr><th dir="ltr">Effect</th><td dir="ltr">This buckle may be applied to a single weapon with the blade keyword. Once applied the buckle melds into the item harmlessly and can be un-melded at any point. Once melded the wearer can cause the weapon to transform into a belt to be worn by the wearer. When in this state the weapon is unassuming and simply looks like a metallic belt. A creature attempting to identify the item may determine the magic of the belt, but otherwise be unable to tell the type of weapon before it was transformed.<br><br>The weapon may be up to one size category larger or smaller than the wearer, though weapons of larger size may look more like armor covering the abdominal region of the wearer rather than a belt due to the large amount of material to be transformed.<br><br>Transforming a weapon using this is a 3 AP action. The wearer may draw and transform the weapon as a reaction a number of times per day equal to their Psyche modifier (minimum 1).</td></tr></tbody></table></span></p>
