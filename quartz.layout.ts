@@ -13,7 +13,8 @@ const iconsOptions: IconFolderOptions = {
 export const sharedPageComponents: SharedLayout = {
   head: Component.Head(),
   header: [
-    Component.Search(),
+    Component.PageTitle(),
+	Component.Search(),
 	Component.Darkmode(),
 	],
   afterBody: [],
@@ -34,7 +35,6 @@ export const defaultContentPageLayout: PageLayout = {
     Component.TagList(),
   ],
   left: [
-    Component.PageTitle(),
     Component.MobileOnly(Component.Spacer()),
 	Component.DesktopOnly(
       Component.ExplorerBurger({
@@ -61,8 +61,7 @@ export const defaultListPageLayout: PageLayout = {
 	Component.ContentMeta(),
 	Component.TagList(),
    ],
-  left: [
-    Component.PageTitle(),	
+  left: [	
     Component.MobileOnly(Component.Spacer()),
 	Component.DesktopOnly(
       Component.ExplorerBurger({
