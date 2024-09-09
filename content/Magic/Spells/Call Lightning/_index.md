@@ -1,0 +1,20 @@
+---
+fileClass:
+  - Spell
+keyword: Electric, Evocation
+prerequisite: Air(Essence) Affinity, BCB 2nd
+share: true
+title: Call Lightning
+tags:
+  - Spell
+  - Air-Affinity-Spell
+target: See Text
+duration: 1 minute per BCB
+range: Medium
+action: 5 AP
+saving_throw: Physical(Agi) half
+spell_resistance: Yes
+description: You must spend 2 spell points to cast this spell. Upon casting this spell you may call down a 5-foot-wide, 30-foot-long, vertical bolt of lightning that deals 1d10 points of electricity damage per 2 BCB you possess. The bolt of lightning flashes down in a vertical stroke at whatever target point you choose within the spell’s range from you. Any creature in the target square or in the vertical path of the bolt is affected. Creatures struck by the bolt are subject to a Physical(Agi) save attack. Each round after the first you may use a 3 AP action to call a bolt. You may call a total number of bolts equal to your BCB. You must be outdoors in stormy or rainy weather to cast this spell.
+---
+
+<p><span dir="ltr" style="overflow-x: auto;"><table><tbody><tr><th dir="ltr">Keyword</th><td dir="ltr">Electric, Evocation</td></tr><tr><th dir="ltr">Prerequisite</th><td dir="ltr">Air(Essence) Affinity, BCB 2nd</td></tr><tr><th dir="ltr">Target</th><td dir="ltr">See Text</td></tr><tr><th dir="ltr">Duration</th><td dir="ltr">1 minute per BCB</td></tr><tr><th dir="ltr">Range</th><td dir="ltr">Medium</td></tr><tr><th dir="ltr">Action</th><td dir="ltr">5 AP</td></tr><tr><th dir="ltr">Saving throw</th><td dir="ltr">Physical(Agi) half</td></tr><tr><th dir="ltr">Spell resistance</th><td dir="ltr">Yes</td></tr><tr><th dir="ltr">Description</th><td dir="ltr">You must spend 2 spell points to cast this spell. Upon casting this spell you may call down a 5-foot-wide, 30-foot-long, vertical bolt of lightning that deals 1d10 points of electricity damage per 2 BCB you possess. The bolt of lightning flashes down in a vertical stroke at whatever target point you choose within the spell’s range from you. Any creature in the target square or in the vertical path of the bolt is affected. Creatures struck by the bolt are subject to a Physical(Agi) save attack. Each round after the first you may use a 3 AP action to call a bolt. You may call a total number of bolts equal to your BCB. You must be outdoors in stormy or rainy weather to cast this spell.</td></tr></tbody></table></span></p><span><span><hr></span></span><h1><span><p dir="auto">General Call Lightning Talents</p></span></h1><span><span><hr></span></span><h2><span><p dir="auto">Create Lightning</p></span></h2><p><span dir="ltr" style="overflow-x: auto;"><table><tbody><tr><th dir="ltr">Prerequisite</th><td dir="ltr">Call Lightning, BCB 3rd</td></tr><tr><th dir="ltr">Spell</th><td dir="ltr">Call Lightning</td></tr><tr><th dir="ltr">Benefit</th><td dir="ltr">You may use call lightning in conditions that are not stormy or raining, as well as indoors. You must spend 1 additional spell point when using this talent, otherwise the damage of your lightning is reduced to 1d6 per 2 BCB.</td></tr></tbody></table></span></p><h2><span><p dir="auto">Greater Call Lightning</p></span></h2><p><span dir="ltr" style="overflow-x: auto;"><table><tbody><tr><th dir="ltr">Prerequisite</th><td dir="ltr">Call Lightning, BCB 8rd</td></tr><tr><th dir="ltr">Spell</th><td dir="ltr">Call Lightning</td></tr><tr><th dir="ltr">Benefit</th><td dir="ltr">When calling down a lighting each round, you may increase the AP cost by 1 to call down an additional lighting bolt. Additional bolts cannot target the same creature or location more than once in the same round and must choose a different target for each additional bolt. In addition the maximum number of bolts you can call down with call lighting improves by 1 per 4 BCB you possess.</td></tr></tbody></table></span></p>
