@@ -145,7 +145,7 @@ export default ((userOpts?: Partial<Options>) => {
       <div class={`explorer ${displayClass ?? ""}`}>
         {collapseExplorer}
         <div id="explorer-content" class={displayClass === "mobile-only" ? "collapsed" : ""}>
-          <ul class="" id="explorer-ul">
+          <ul class="overflow" id="explorer-ul">
             <ExplorerNode node={fileTree} opts={opts} fileData={fileData} />
             <li id="explorer-end" />
           </ul>
