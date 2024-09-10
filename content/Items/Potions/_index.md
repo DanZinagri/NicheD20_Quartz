@@ -100,4 +100,4 @@ Crafting potions requires a Profession(Potioner) skill check rather than Profess
 
 Some potions in this list are unique and do not emulate spells, such as the mana potion; other potions such as the healing potion listed as simply examples that players may commonly purchase, but may always find other variants with higher ranks or different talents.
 
-[[List of Unique Potions|List of Unique Potions]]
+[List of Unique Potions](./List%20of%20Unique%20Potions/_index.md)
