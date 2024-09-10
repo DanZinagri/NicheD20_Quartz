@@ -65,7 +65,7 @@ Once a character gains their 2nd level in a class they gain access to that class
 
 Example: A character with 2 levels in fighter and 1 in rogue, at 4th level takes an additional level in rogue. The character could select a talent available to a 2nd level rogue or 2nd level fighter despite their level being taken in rogue rather than fighter.
 
-In addition there's a number of generic talents available to a character. See [[List of Generic Talents|List of Generic Talents]] for a full listing.
+In addition there's a number of generic talents available to a character. See [List of Generic Talents](../Feats/List%20of%20Generic%20Talents/_index.md) for a full listing.
 
 ## Feat Progression
 
