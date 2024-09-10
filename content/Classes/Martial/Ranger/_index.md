@@ -14,18 +14,18 @@ title: Ranger
 Hit Die: d10
 Type: Martial
 
-|Level|Base Attack Bonus|Base Defense Bonus|Special|
-|---|---|---|---|
-|1st|+0|+0|Stamina, Ranger’s Precision, Aim, Animal Companion, Tracker’s Training|
-|2nd|+1|+0|Ranger Talents, Animal Focus|
-|3rd|+2|+1|Ranger's Mark|
-|4th|+3|+1|Animal Focus|
-|5th|+3|+1|Hunter’s Command|
-|6th|+4|+2|Animal Focus|
-|7th|+5|+2|Hunter's Mark|
-|8th|+6|+3|Animal Focus|
-|9th|+6|+3|Hawkeye|
-|10th|+7|+3|Deadeye Shot, Animal Focus|
+| Level | Special                                                                |
+| ----- | ---------------------------------------------------------------------- |
+| 1st   | Stamina, Ranger’s Precision, Aim, Animal Companion, Tracker’s Training |
+| 2nd   | Ranger Talents, Animal Focus                                           |
+| 3rd   | Ranger's Mark                                                          |
+| 4th   | Animal Focus                                                           |
+| 5th   | Hunter’s Command                                                       |
+| 6th   | Animal Focus                                                           |
+| 7th   | Hunter's Mark                                                          |
+| 8th   | Animal Focus                                                           |
+| 9th   | Hawkeye                                                                |
+| 10th  | Deadeye Shot, Animal Focus                                             |
 
 # Class Features
 
