@@ -59,7 +59,7 @@ Psyche is a representation of a character's mental fortitude as well as force of
 
 Ability scores are assumed to start at 10 for a creature, with 10 being a "average" ability. Anything above this shows the character having greater prowess while anything below this represents detriment in this score.
 
-First when generating ability scores the GM should choose a method of determining your six starting attributes, generally chosen between Point Buy, Rolled, or Stat Array. See the [[Character Creation|Character Creation]] page, for more information on these types. Once the base ability scores have been decided a creature's race usually will give additional bonuses or penalties to their ability scores.
+First when generating ability scores the GM should choose a method of determining your six starting attributes, generally chosen between Point Buy, Rolled, or Stat Array. See the [Character Creation](../../Character%20Creation/_index.md) page, for more information on these types. Once the base ability scores have been decided a creature's race usually will give additional bonuses or penalties to their ability scores.
 
 Primarily ability scores are done via point-buy doing a 20-point system. Spending points to raise an ability above 10, and gaining points for reducing a score below 10. With this system scores cannot go above 18 or below 7. Below is a table detailing the point-cost of an individual score.
 
