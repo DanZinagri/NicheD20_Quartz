@@ -46,7 +46,7 @@ At 1st level, the Armor Master may add his Armor Master level to his Fighter lev
 
 At 2nd level the Armor Master gains access to Armor Master Talents when selecting class talents.
 
-See [[Armor Master Talents|Armor Master Talents]] for a listing of Talents available for the Weapon Master class.
+See [Armor Master Talents](./Armor%20Master%20Talents/_index.md) for a listing of Talents available for the Weapon Master class.
 ## Martial Training
 
 At 2nd level and at every even level thereafter, an Armor Master gains a bonus feat in addition to those gained from normal advancement. These bonus feats must be selected from those listed as Combat Feats or Martial feats.

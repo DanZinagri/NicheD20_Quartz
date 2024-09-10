@@ -51,7 +51,7 @@ At 8th level, the fighter may use this ability to gain the benefit of feats at t
 
 At 2nd level the Fighter gains access to Fighter Talents when selecting class talents.
 
-For a complete listing of fighter talents see [[List of Fighter Talents|List of Fighter Talents]]
+For a complete listing of fighter talents see [List of Fighter Talents](./List%20of%20Fighter%20Talents.md)
 
 ## Armor Focus
 

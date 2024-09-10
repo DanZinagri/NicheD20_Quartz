@@ -52,12 +52,12 @@ At 2nd level, the steel savage gains the battle stance fighter talent if he did 
 
 At 2nd level the Steel Savage gains access to Steel Savage Talents when selecting class talents. In addition, the Steel Savage may use his bonus from Trained Savagery to determine his Barbarian and Fighter levels for the purposes of meeting the prerequisites of Fighter or Barbarian talents.
 
-See [[Steel Savage Talents|Steel Savage Talents]] for a listing of Talents available for the Primal Chieftain class.
+See [Steel Savage Talents](./Steel%20Savage%20Talents.md) for a listing of Talents available for the Primal Chieftain class.
 ## Aggressions
 
 At 3rd level and every 3 levels thereafter the Steel Savage gains access to additional Aggressions, as the Barbarian class feature of the same name. These Aggressions can be selected from both those available to the Barbarian, as well as those only available to the Steel Savage. The Steel Savage may use his bonus from Trained Savagery to determine his Barbarian levels for the purposes of meeting the prerequisites of any Aggression.
 
-See [[Steel Savage Aggressions|Steel Savage Aggressions]] for a listing of Aggression available to the Steel Savage.
+See [Steel Savage Aggressions](./Steel%20Savage%20Aggressions.md) for a listing of Aggression available to the Steel Savage.
 ## Steel Body
 
 At 3rd level, the Steel Savage learns to further enhance his durability, adding his levels in Steel Savage to hit maximum hit points. In addition while in a Steel Rage the Steel Savage gains a +1 Bonus to Physical and Reliance Saves, improving by an additional +1 for every 5 levels in Steel Savage you possess.

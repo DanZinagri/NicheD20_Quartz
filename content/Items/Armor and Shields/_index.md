@@ -7,56 +7,56 @@ title: Armor and Shields
 ### Light Armor
 | Name              | Cost  | Armor Bonus | Strength Rating | Weight | Special                   | Keywords |
 | ----------------- | ----- | ----------- | --------------- | ------ | ------------------------- | -------- |
-| [[Hide Armor|Hide Armor]]    | 15 gp | 4           | 2               | 20 lb  | Natural                   | Light    |
-| [[Leather Armor|Leather Armor]] | 10 gp | 2           | 0               | 12 lb  | Natural                   | Light    |
-| [[Padded Shirt|Padded Shirt]]  | 1 gp  | 1           | 0               | 1 lb   | Impact Absorbing, Natural | Light    |
+| [Hide Armor](Hide%20Armor.md)    | 15 gp | 4           | 2               | 20 lb  | Natural                   | Light    |
+| [Leather Armor](Leather%20Armor.md) | 10 gp | 2           | 0               | 12 lb  | Natural                   | Light    |
+| [Padded Shirt](Padded%20Shirt.md)  | 1 gp  | 1           | 0               | 1 lb   | Impact Absorbing, Natural | Light    |
 
 ### Heavy Armor
 | Name            | Cost   | Armor Bonus | Strength Rating | Weight | Special       | Keywords |
 | --------------- | ------ | ----------- | --------------- | ------ | ------------- | -------- |
-| [[Banded Mail|Banded Mail]] | 250 gp | 8           | 6               | 40 lb  | Strong, Metal | Heavy    |
-| [[Lamellar|Lamellar]]    | 100 gp | 8           | 5               | 35 lb  | Metal         | Heavy    |
+| [Banded Mail](Banded%20Mail.md) | 250 gp | 8           | 6               | 40 lb  | Strong, Metal | Heavy    |
+| [Lamellar](Lamellar.md)    | 100 gp | 8           | 5               | 35 lb  | Metal         | Heavy    |
 
 ## Martial Armor
 ### Light Armor
 | Name                | Cost   | Armor Bonus | Strength Rating | Weight | Special                                | Keywords |
 | ------------------- | ------ | ----------- | --------------- | ------ | -------------------------------------- | -------- |
-| [[Breastplate|Breastplate]]     | 200 gp | 6           | 4               | 25 lb  | Vital-Guard, Weather Ready(Hot), Metal | Light    |
-| [[Chain Shirt|Chain Shirt]]     | 110 gp | 4           | 1               | 18 lb  | Nimble, Metal                          | Light    |
-| [[Studded Leather|Studded Leather]] | 30 gp  | 2           | 0               | 12 lb  | Double-Plated, Strong, Natural         | Light    |
+| [Breastplate](Breastplate.md)     | 200 gp | 6           | 4               | 25 lb  | Vital-Guard, Weather Ready(Hot), Metal | Light    |
+| [Chain Shirt](Chain%20Shirt.md)     | 110 gp | 4           | 1               | 18 lb  | Nimble, Metal                          | Light    |
+| [Studded Leather](Studded%20Leather.md) | 30 gp  | 2           | 0               | 12 lb  | Double-Plated, Strong, Natural         | Light    |
 
 ### Heavy Armor
 | Name           | Cost    | Armor Bonus | Strength Rating | Weight | Special                    | Keywords |
 | -------------- | ------- | ----------- | --------------- | ------ | -------------------------- | -------- |
-| [[Chainmail|Chainmail]]  | 200 gp  | 8           | 5               | 35 lb  | Vital-Guard, Strong, Metal | Heavy    |
-| [[Full Plate|Full Plate]] | 1500 gp | 10          | 6               | 50 lb  | Double-Plated, Metal       | Heavy    |
+| [Chainmail](Chainmail.md)  | 200 gp  | 8           | 5               | 35 lb  | Vital-Guard, Strong, Metal | Heavy    |
+| [Full Plate](Full%20Plate.md) | 1500 gp | 10          | 6               | 50 lb  | Double-Plated, Metal       | Heavy    |
 
 ## Exotic Armor
 
 ### Light Armor
 | Name                 | Cost   | Armor Bonus | Strength Rating | Weight | Special                                       | Keywords |
 | -------------------- | ------ | ----------- | --------------- | ------ | --------------------------------------------- | -------- |
-| [[Armored Coat|Armored Coat]]     | 150 gp | 6           | 3               | 22 lb  | Nimble, Quick Don, Weather Ready(Cold), Metal | Light    |
-| [[Spider Silk Suit|Spider Silk Suit]] | 200 gp | 4           | 0               | 5 lb   | Nimble, Strong, Natural                       | Light    |
+| [Armored Coat](Armored%20Coat.md)     | 150 gp | 6           | 3               | 22 lb  | Nimble, Quick Don, Weather Ready(Cold), Metal | Light    |
+| [Spider Silk Suit](Spider%20Silk%20Suit.md) | 200 gp | 4           | 0               | 5 lb   | Nimble, Strong, Natural                       | Light    |
 
 ### Heavy Armor
 | Name               | Cost    | Armor Bonus | Strength Rating | Weight | Special                           | Keywords |
 | ------------------ | ------- | ----------- | --------------- | ------ | --------------------------------- | -------- |
-| [[Fortress Plate|Fortress Plate]] | 2400 gp | 13          | 9               | 95 lb  | Double-Plated, Vital-Guard, Metal | Heavy    |
-| [[Tatami-do|Tatami-do]]      | 1000 gp | 8           | 4               | 35 lb  | Nimble, Deflecting, Metal         | Heavy    |
+| [Fortress Plate](Fortress%20Plate.md) | 2400 gp | 13          | 9               | 95 lb  | Double-Plated, Vital-Guard, Metal | Heavy    |
+| [Tatami-do](Tatami-do.md)      | 1000 gp | 8           | 4               | 35 lb  | Nimble, Deflecting, Metal         | Heavy    |
 
 # Shields
 | Name                     | Shield Bonus | Strength Rating | Proficiency |
 | ------------------------ | ------------ | --------------- | ----------- |
-| [[Buckler|Buckler]]              | 1            | 0               | Simple      |
-| [[Spiked Buckler|Spiked Buckler]]       | 1            | 0               | Simple      |
-| [[Light Shield|Light Shield]]         | 2            | 1               | Martial     |
-| [[Light Spiked Shield|Light Spiked Shield]]  | 2            | 1               | Martial     |
-| [[Heavy Shield|Heavy Shield]]         | 3            | 2               | Martial     |
-| [[Heavy Spiked Shield|Heavy Spiked Shield]]  | 3            | 2               | Martial     |
-| [[Ringing Shield|Ringing Shield]]       | 3            | 2               | Martial     |
-| [[Tower Shield|Tower Shield]]         | 5            | 4               | Exotic      |
-| [[Tower Shield, Spiked|Tower Shield, Spiked]] | 5            | 4               | Exotic      |
+| [Buckler](Buckler.md)              | 1            | 0               | Simple      |
+| [Spiked Buckler](Spiked%20Buckler.md)       | 1            | 0               | Simple      |
+| [Light Shield](Light%20Shield.md)         | 2            | 1               | Martial     |
+| [Light Spiked Shield](Light%20Spiked%20Shield.md)  | 2            | 1               | Martial     |
+| [Heavy Shield](Heavy%20Shield.md)         | 3            | 2               | Martial     |
+| [Heavy Spiked Shield](Heavy%20Spiked%20Shield.md)  | 3            | 2               | Martial     |
+| [Ringing Shield](Ringing%20Shield.md)       | 3            | 2               | Martial     |
+| [Tower Shield](Tower%20Shield.md)         | 5            | 4               | Exotic      |
+| [Tower Shield, Spiked](Tower%20Shield,%20Spiked.md) | 5            | 4               | Exotic      |
 
 
 # Armor Rules

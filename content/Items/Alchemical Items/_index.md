@@ -60,24 +60,24 @@ When crafting an item, the crafter may increase the save DC bonus of the item by
 # List of Alchemical Items
 | Name                   | Type      | Min Rank | Max Rank             | Rank        | Complexity      | Weight |
 | ---------------------- | --------- | -------- | -------------------- | ----------- | --------------- | ------ |
-| [[Alchemical Bomb|Alchemical Bomb]]    | Activated | 1        | 9                    | Uncommon    | Simplistic(-5)  | 2 lb   |
-| [[Antacid|Antacid]]            | Ingested  | 1        | 10                   | Uncommon    | Effortless(-10) | ½ lb   |
-| [[Antidote|Antidote]]           | Ingested  | 1        | <ul><li>\-</li></ul> | Uncommon    | Average(+0)     | 1 lb   |
-| [[Antiplague|Antiplague]]         | Ingested  | 1        | 14                   | Common      | Average(+0)     | 1 lb   |
-| [[Antitoxin|Antitoxin]]          | Ingested  | 1        | 14                   | Common      | Average(+0)     | 1 lb   |
-| [[Blinding Powder|Blinding Powder]]    | Contact   | 1        | 10                   | Uncommon    | Difficult(+5)   | 1 lb   |
-| [[Chalk Syrup|Chalk Syrup]]        | Ingested  | 1        | 5                    | Rare        | Average(+0)     | ½ lb   |
-| [[Deodorizer|Deodorizer]]         | Activated | 1        | 10                   | Common      | Difficult(+5)   | 2 lb   |
-| [[Echo Drops|Echo Drops]]         | Activated | 1        | 5                    | Rare        | Average(+0)     | ½ lb   |
-| [[Elemental Piercer|Elemental Piercer]]  | Contact   | 2        | <ul><li>\-</li></ul> | Exceptional | Average(+0)     | 2 lb   |
-| [[Healing Salve|Healing Salve]]      | Contact   | 1        | 20                   | Common      | Average(+0)     | 1 lb   |
-| [[Infusion Gel|Infusion Gel]]       | Active    | 1        | 10                   | Uncommon    | Average(+0)     | 3 lb   |
-| [[Ironwood Tonic|Ironwood Tonic]]     | Ingested  | 1        | 10                   | Uncommon    | Average(+0)     | ½ lb   |
-| [[Lumen|Lumen]]              | Contact   | 1        | 12                   | Uncommon    | Simplistic(-5)  | ½ lb   |
-| [[Lumen Activator|Lumen Activator]]    | Contact   | 1        | 9                    | Common      | Average(+0)     | ½ lb   |
-| [[Noxious Pouch|Noxious Pouch]]      | Contact   | 1        | 10                   | Common      | Average(+0)     | 2 lb   |
-| [[Ocular Drops|Ocular Drops]]       | Activated | 1        | 5                    | Rare        | Average(+0)     | ½ lb   |
-| [[Putrefying Bag|Putrefying Bag]]     | Contact   | 1        | 10                   | Uncommon    | Average(+0)     | 3 lb   |
-| [[Regenerative Salve|Regenerative Salve]] | Contact   | 1        | 9                    | Rare        | Average(+0)     | 2 lb   |
-| [[Scaleskin Tonic|Scaleskin Tonic]]    | Ingested  | 1        | 10                   | Rare        | Average(+0)     | ½ lb   |
-| [[Warding Gel|Warding Gel]]        | Active    | 1        | 7                    | Rare        | Average(+0)     | 3 lb   |
+| [Alchemical Bomb](Alchemical%20Bomb.md)    | Activated | 1        | 9                    | Uncommon    | Simplistic(-5)  | 2 lb   |
+| [Antacid](Antacid.md)            | Ingested  | 1        | 10                   | Uncommon    | Effortless(-10) | ½ lb   |
+| [Antidote](Antidote.md)           | Ingested  | 1        | <ul><li>\-</li></ul> | Uncommon    | Average(+0)     | 1 lb   |
+| [Antiplague](Antiplague.md)         | Ingested  | 1        | 14                   | Common      | Average(+0)     | 1 lb   |
+| [Antitoxin](Antitoxin.md)          | Ingested  | 1        | 14                   | Common      | Average(+0)     | 1 lb   |
+| [Blinding Powder](Blinding%20Powder.md)    | Contact   | 1        | 10                   | Uncommon    | Difficult(+5)   | 1 lb   |
+| [Chalk Syrup](Chalk%20Syrup.md)        | Ingested  | 1        | 5                    | Rare        | Average(+0)     | ½ lb   |
+| [Deodorizer](Deodorizer.md)         | Activated | 1        | 10                   | Common      | Difficult(+5)   | 2 lb   |
+| [Echo Drops](Echo%20Drops.md)         | Activated | 1        | 5                    | Rare        | Average(+0)     | ½ lb   |
+| [Elemental Piercer](Elemental%20Piercer.md)  | Contact   | 2        | <ul><li>\-</li></ul> | Exceptional | Average(+0)     | 2 lb   |
+| [Healing Salve](Healing%20Salve.md)      | Contact   | 1        | 20                   | Common      | Average(+0)     | 1 lb   |
+| [Infusion Gel](Infusion%20Gel.md)       | Active    | 1        | 10                   | Uncommon    | Average(+0)     | 3 lb   |
+| [Ironwood Tonic](Ironwood%20Tonic.md)     | Ingested  | 1        | 10                   | Uncommon    | Average(+0)     | ½ lb   |
+| [Lumen](Lumen.md)              | Contact   | 1        | 12                   | Uncommon    | Simplistic(-5)  | ½ lb   |
+| [Lumen Activator](Lumen%20Activator.md)    | Contact   | 1        | 9                    | Common      | Average(+0)     | ½ lb   |
+| [Noxious Pouch](Noxious%20Pouch.md)      | Contact   | 1        | 10                   | Common      | Average(+0)     | 2 lb   |
+| [Ocular Drops](Ocular%20Drops.md)       | Activated | 1        | 5                    | Rare        | Average(+0)     | ½ lb   |
+| [Putrefying Bag](Putrefying%20Bag.md)     | Contact   | 1        | 10                   | Uncommon    | Average(+0)     | 3 lb   |
+| [Regenerative Salve](Regenerative%20Salve.md) | Contact   | 1        | 9                    | Rare        | Average(+0)     | 2 lb   |
+| [Scaleskin Tonic](Scaleskin%20Tonic.md)    | Ingested  | 1        | 10                   | Rare        | Average(+0)     | ½ lb   |
+| [Warding Gel](Warding%20Gel.md)        | Active    | 1        | 7                    | Rare        | Average(+0)     | 3 lb   |

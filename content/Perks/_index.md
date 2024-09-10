@@ -4,7 +4,7 @@ title: Perks
 ---
 A character begins with a set of perks. These are unique features only granted at 1st level to help give a character the tools it needs to succeed without needing to be granted by a class. Perks primarily allow a character to use their ability scores in new ways from adjusting what stat governs a saving throw, to the stat used in melee attack rolls.
 
-[[Drawbacks|Drawbacks]] are also an option for characters; while being called drawbacks work similarly to perks but provide some sort of character-defining detriment alongside a much more powerful than usual bonus.
+[Drawbacks](./Drawbacks.md) are also an option for characters; while being called drawbacks work similarly to perks but provide some sort of character-defining detriment alongside a much more powerful than usual bonus.
 
 Perks and are both split into categories of Major and Minor. At 1st level a character begins with one Major Perk and Two Minor Perks; and may select a Single Major Drawback or up to two minor drawbacks. Characters may substitute perks with a drawback of similar category (major drawback for a major perk, minor drawback for a minor perk), but do not gain anything extra for doing so beyond the listed benefit for taking the drawback.
 

@@ -76,7 +76,7 @@ If the battlemage gains the expanded affinity feat, they may select affinity tal
 
 At 2nd level and every 5 levels thereafter the battlemage gains access to one additional elemental stance.
 
-For a complete listing of elemental stances, see [[List of Elemental Stances|List of Elemental Stances]]
+For a complete listing of elemental stances, see [List of Elemental Stances](./List%20of%20Elemental%20Stances.md)
 ## Hybrid Training (Ex)
 
 At 2nd level, and at every 4 levels thereafter, a battlemage gains a bonus feat in addition to those gained from normal advancement. These bonus feats must be selected from those listed as Martial feats or Magic feats. The Battlemage may also choose feats from those listed as combat feats, but is limited to one combat feat for every 4 battlemage levels he possesses for the number of combat feats he may select with this class feature.
@@ -96,7 +96,7 @@ At 4th level and every 4 levels thereafter, the battlemage may choose a differen
 
 At 4th and 11th level, a battlemage learns to become more specialized at his style of combat, further drawing upon the strengths of himself and his magics. A battlemage selects one of the following specializations he qualifies for:
 
-See [[List of Battlemage Specializations|List of Battlemage Specializations]]
+See [List of Battlemage Specializations](./List%20of%20Battlemage%20Specializations.md)
 
 ## Practiced Spellcasting (Su)
 
@@ -132,4 +132,4 @@ At 20th level, the battlemage ascends to a mage of war, having seen countless ba
 
 Some classes have access to exclusive magic talents to further modify a spell in a unique way for their class.
 
-See [[List of Battlemage Exclusive Magic Talents|List of Battlemage Exclusive Magic Talents]]
+See [List of Battlemage Exclusive Magic Talents](./List%20of%20Battlemage%20Exclusive%20Magic%20Talents.md)

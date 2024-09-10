@@ -45,7 +45,7 @@ A bluff check is done as part of speaking to a creature. If you fail to deceive 
 
 ### Feint
 
-A creature may make a Bluff skill check to Feint. More information on the Feint action can be found on the [[Actions In Combat|Actions In Combat]] section.
+A creature may make a Bluff skill check to Feint. More information on the Feint action can be found on the [Actions In Combat](../../Rules/Combat%20Rules/Actions%20In%20Combat.md) section.
 
 #### Action/Retry
 
