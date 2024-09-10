@@ -81,7 +81,7 @@ In addition the Druidic Realm also determines the ability score used as the drui
 
 At 3rd level the druid gains a second druidic realm of her choice gaining the listed affinity talent and spell if she does not already possess it. She does not use the casting modifier of her second druidic realm.
 
-For a complete listing of druidic realms, see [[Druidic Realms|Druidic Realms]]
+For a complete listing of druidic realms, see [Druidic Realms](./Druidic%20Realms/_index.md)
 
 ## Ironwood (Su)
 
@@ -109,7 +109,7 @@ To use this ability, the druid and the animal must be able to study each other, 
 
 At 2nd level, the druid gains access to a druidic focus, allowing her to further their training as a druid and further define their connection to nature. The druid gains an additional druidic focus at 4th level and every 2 levels thereafter. Additional Druidic Focus can be taken using the Extra Talent feat.
 
-For a complete listing of druidic focus, see [[List of Druidic Focus|List of Druidic Focus]]
+For a complete listing of druidic focus, see [List of Druidic Focus](./List%20of%20Druidic%20Focus.md)
 
 ## Root Power (Su)
 At 3rd level, the druid gains the root power listed for her selected druidic realm enhancing the capabilities of her ironwood ability. At 6th level the druid gains the Root power of her second druidic realm. A druid may only apply the benefits of a single root power per piece of ironwood equipment, though may have a different root power on each individual piece. A root power may be applied to a piece of ironwood as part of creating or reshaping a piece of ironwood. If done as part of reshaping any existing root powers must be removed from the piece to apply the new one.
@@ -166,4 +166,4 @@ At 20th level, the druid becomes the avatar of her realm. For a number of rounds
 
 Some classes have access to exclusive magic talents to further modify a spell in a unique way for their class.
 
-See [[List of Druid Exclusive Magic Talents|List of Druid Exclusive Magic Talents]]
+See [List of Druid Exclusive Magic Talents](./List%20of%20Druid%20Exclusive%20Magic%20Talents.md)
