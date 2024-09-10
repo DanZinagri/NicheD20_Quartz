@@ -9,5 +9,5 @@ Many Discipline feats are also tagged as magic feats, and may be selected whenev
 
 ## Discipline Feat Types
 
-- [[Component Discipline Feats|Component Discipline Feats]]
-- [[Incantation Discipline Feats|Incantation Discipline Feats]]
+- [Component Discipline Feats](./Component%20Discipline%20Feats.md)
+- [Incantation Discipline Feats](./Incantation%20Discipline%20Feats.md)
