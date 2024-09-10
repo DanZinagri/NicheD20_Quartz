@@ -1,6 +1,9 @@
 ---
 share: true
 title: List of Ranger Talents
+tags:
+  - Class
+  - Ranger
 ---
 This page lists the various Ranger Talents available to the Ranger class.
 
