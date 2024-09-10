@@ -53,7 +53,7 @@ At 1st level, the Primal Chieftain improves his Tribal Bond. He may treat his le
 
 At 2nd level the Primal Chieftain gains access to Primal Chieftain Talents when selecting class talents.
 
-See [[Primal Chieftain Talents|Primal Chieftain Talents]] for a listing of Talents available for the Primal Chieftain class.
+See [Primal Chieftain Talents](./Primal%20Chieftain%20Talents/_index.md) for a listing of Talents available for the Primal Chieftain class.
 ## Tribal Vengeance
 
 At 2nd level, the Primal Chieftain can make an attack of opportunity against a creature within his reach who damages an ally of the Primal Chieftain (other than the Primal Chieftain himself) with a melee attack. Only the enemy, not the Primal Chieftain’s ally, needs to be within the Primal Chieftain’s melee reach in order for the Primal Chieftain to make this attack of opportunity.
@@ -61,7 +61,7 @@ At 2nd level, the Primal Chieftain can make an attack of opportunity against a c
 
 At 3rd level and every 3 levels thereafter the Primal Chieftain gains access to additional Aggressions, as the Barbarian class feature of the same name. These Aggressions can be selected from both those available to the Barbarian, as well as those only available to the Primal Chieftain. The Primal Chieftain treats his levels as Barbarian levels for the purposes of meeting the prerequisites of any Aggression.
 
-See [[Primal Chieftain Aggressions|Primal Chieftain Aggressions]] for a listing of Aggression available to the Primal Chieftain.
+See [Primal Chieftain Aggressions](./Primal%20Chieftain%20Aggressions.md) for a listing of Aggression available to the Primal Chieftain.
 ## Tribal Coordination
 
 At 3rd level, as long as one other ally is threatening the same foe as the Primal Chieftain the target gains the flanked condition regardless of position. In addition, allies adjacent to the Primal Chieftain also apply their Tribal Bond bonus to AC and saving throw rolls.
