@@ -221,6 +221,7 @@ a {
 
   & .center,
   & footer {
+    z-index: 2;
     margin-left: auto;
     margin-right: auto;
     width: $pageWidth;
