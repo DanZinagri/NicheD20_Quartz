@@ -71,7 +71,7 @@ At 1st level, a magus gains the spellstrike meta universal talent as a bonus mag
 
 In addition the magus learns to further hone their capabilities in combat, electing to embrace a single style of combat. The magus selects a single Spellblade Focus. If this is the magus’s first level in a martial class he gains the associated stance as a bonus feat, and if this is the magus’s first level in a casting class he gains associated affinity as a bonus talent.
 
-For a complete listing of spellblade focus, see [[Spellblade Focus|Spellblade Focus]]
+For a complete listing of spellblade focus, see [Druidic Realms](./Spellblade%20Focus/Druidic%20Realms.md)
 ## Mystic Combat (Su)
 
 At 2nd level, a magus may reduce the AP cost any spell which normally requires a 4 AP or less to cast by 2 AP (minimum 1 AP), but may only target himself with any spell cast in this manner. When casting in this way the magus does not provoke attacks of opportunity for casting. The magus may use this ability once per day for each level of magus he possesses.
@@ -79,7 +79,7 @@ At 2nd level, a magus may reduce the AP cost any spell which normally requires a
 
 At 2nd level and every 3 levels thereafter the magus gains access to a special ability known as an arcana; allowing the magus to further enhance their blending of martial and magic prowess. Unless otherwise specified a magus arcana can only be selected once. Abilities that call for ki may be instead utilized by spending 1 point from his mystic pool if he does not yet possess a ki pool. Additional Practiced Arcana can be taken using the Extra Talent feat.
 
-For a complete listing of Practiced Arcana, see [[List of Practiced Arcana|List of Practiced Arcana]]
+For a complete listing of Practiced Arcana, see [List of Practiced Arcana](./List%20of%20Practiced%20Arcana.md)
 ## Basic Spellblade Focus (Su)
 
 At 3rd level the magus gains the benefits of the listed basic training of their spellblade focus.
@@ -134,4 +134,4 @@ At 20th level the magus gains the benefits of the Mythic Training from the Spell
 
 Some classes have access to exclusive magic talents to further modify a spell in a unique way for their class.
 
-See [[List of Magus Exclusive Magic Talents|List of Magus Exclusive Magic Talents]]
+See [List of Magus Exclusive Magic Talents](./List%20of%20Magus%20Exclusive%20Magic%20Talents.md)
