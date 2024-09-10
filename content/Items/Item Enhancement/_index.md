@@ -124,7 +124,7 @@ Different equipment such as weapons, shields, armor, and implements have their o
 
 Unless otherwise specified you may not add a single special ability more than once.
 
-- #### List of [[Weapon Special Abilities|Weapon Special Abilities]]
-- #### List of [[Shield Special Abilities|Shield Special Abilities]]
-- #### List of [[Armor Special Abilities|Armor Special Abilities]]
-- #### List of [[Implement Special Abilities|Implement Special Abilities]]
+- #### List of [Weapon Special Abilities](./Weapon%20Special%20Abilities.md)
+- #### List of [Shield Special Abilities](./Shield%20Special%20Abilities.md)
+- #### List of [Armor Special Abilities](./Armor%20Special%20Abilities.md)
+- #### List of [Implement Special Abilities](./Implement%20Special%20Abilities.md)
