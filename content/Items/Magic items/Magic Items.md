@@ -12,11 +12,11 @@ Magic items come in 2 forms, slotted and slotless. Slotted magic items may be ac
 
 Slots Include the following:
 
-- Head - [[List of Head Slot Magic Items|List of Head Slot Magic Items]]
-- Neck - [[List of Neck Slot Magic Items|List of Neck Slot Magic Items]]
-- Body - [[List of Body Slot Magic Items|List of Body Slot Magic Items]]
-- Hand(2) - [[List of Hand Slot Magic Items|List of Hand Slot Magic Items]]
-- Feet - [[List of Foot Slot Magic Items|List of Foot Slot Magic Items]]
+- Head - [List of Head Slot Magic Items](./List%20of%20Magic%20Items/List%20of%20Head%20Slot%20Magic%20Items.md)
+- Neck - [List of Neck Slot Magic Items](./List%20of%20Magic%20Items/List%20of%20Neck%20Slot%20Magic%20Items.md)
+- Body - [List of Body Slot Magic Items](./List%20of%20Magic%20Items/List%20of%20Body%20Slot%20Magic%20Items.md)
+- Hand(2) - [List of Hand Slot Magic Items](./List%20of%20Magic%20Items/List%20of%20Hand%20Slot%20Magic%20Items.md)
+- Feet - [List of Foot Slot Magic Items](./List%20of%20Magic%20Items/List%20of%20Foot%20Slot%20Magic%20Items.md)
 
 If a creature would lack an appropriate appendage a reasonable substitution may be suggested, but generally that creature is disallowed from wearing that magic item. For example a creature without legs and feet would be unable to wear feet slot items; though a creature without arms, but has tentacles, may be able to wear a ring or wrist slot item on them.
 
@@ -45,13 +45,13 @@ Items bound to a creature are only able to be sold at 10% their base value due t
 
 Items marked as temporary are items usually with a limited function. These items do not take up a slot as normal, nor are they restricted to the attunement system. Instead a temporary magic item has its own special slot in which only one of the item may be equipped at a time; otherwise no temporary magic items will function until the excess is removed.. A temporary magic item may only be used while equipped, though may be unequipped at any time. Most temporary magic items have a single use or limited number of uses before they are spent; once a temporary magic item is spent a new temporary magic item may be equipped without conflict with the previous.
 
-[[List of Temporary Magic Items|List of Temporary Magic Items]]
+[List of Temporary Magic Items](./List%20of%20Magic%20Items/List%20of%20Temporary%20Magic%20Items.md)
 
 # Slotless Magic items
 
 A slotless magic item usually requires the creature to be holding the item to activate it, similar to wielding a weapon or implement. These items usually will describe their function and their general use, and usually do not conflict with other magic item slots even when equipped or worn.
 
-[[List of Slotless Magic Items|List of Slotless Magic Items]]
+[List of Slotless Magic Items](./List%20of%20Magic%20Items/List%20of%20Slotless%20Magic%20Items.md)
 
 # Creating Magic Items
 
