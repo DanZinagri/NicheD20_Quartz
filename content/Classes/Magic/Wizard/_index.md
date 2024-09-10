@@ -98,7 +98,7 @@ A wizard may spend 1 point from his arcane reservoir as a reaction to grant hims
 
 At 2nd level and every 2 levels thereafter the wizard gains a wizard study.
 
-For a complete listing of wizard studies, see [[List of Wizard Studies|List of Wizard Studies]]
+For a complete listing of wizard studies, see [List of Wizard Studies](./List%20of%20Wizard%20Studies.md)
 
 ## Signature Spell (Su)
 
@@ -113,7 +113,7 @@ At 7th level and every 7 levels thereafter, the wizard gains an additional signa
 
 At 5th level and every 4 levels thereafter,, the wizard learns to draw additional power from his schools of magic gaining one of the following benefits; if a selection has a listed school of magic the selection must match his dedicated study:
 
-For a complete listing of wizard school specializations, see [[List of School Specializations|List of School Specializations]]
+For a complete listing of wizard school specializations, see [List of School Specializations](./List%20of%20School%20Specializations.md)
 
 ## Meta Reservoir (Su)
 

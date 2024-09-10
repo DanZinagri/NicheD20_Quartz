@@ -48,7 +48,7 @@ At 1st level, a Sharpshooter treats their levels as SPB to determine the progres
 
 At 2nd level the Sharpshooter gains access to Sharpshooter Talents when selecting class talents.
 
-For a complete listing of Sharpshooter Talents see [[List of Sharpshooter Talents|List of Sharpshooter Talents]]
+For a complete listing of Sharpshooter Talents see [List of Sharpshooter Talents](./List%20of%20Sharpshooter%20Talents.md)
 ## Rain of Arrows
 
 At 3rd level, the Sharpshooter learns to fire a volley of shots to damage creatures within an area. The Sharpshooter may spend 1 stamina as a 4 AP action to assault an area within the first range increment of his weapon by many falling projectiles. This ability affects a 30 foot area and  deals 1d6 damage per 2 ranger levels possessed; you make a Physical(Agi) save attack against creatures within this area. A failed save attack deals half damage. This ability requires the ranger to be wielding a bow or trigger keyword weapon and consumes 20 ammunition on use.

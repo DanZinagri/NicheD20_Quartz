@@ -70,7 +70,7 @@ At 3rd level, upon gaining a Ki Pool the Blade Binder may spend Ki instead of st
 
 At 2nd level and every 2 levels thereafter a binder gains the benefits of a binder talent. If a binder talent calls for a save attack the save attack is made at 1d20 + Base Attack Bonus + Psyche modifier unless specified otherwise. They may add the enhancement bonus of a wielded weapon to this save attack. Additional Binder Talents may be taken using the Extra Talent feat.
 
-For a complete listing of binder talents, see [[Binder Talents|Binder Talents]]
+For a complete listing of binder talents, see [Binder Talents](./Binder%20Talents/_index.md)
 
 ## Bind Enhancement (Su)
 
@@ -100,13 +100,13 @@ A summoned weapon or armor with an equipment improvement treats each improvement
 
 At 7th level and every 4 levels thereafter the blade binder gains an additional blade improvement and armor improvement. For every 8 levels after 3rd the blade binder gains a bonus blade and armor improvement in addition to the one he normally gains at that level. If a blade improvement calls for a save attack the save attack is made at 1d20 + Base Attack + Psyche modifier. They may add the enhancement bonus of a wielded equipment to this save attack.
 
-For a complete listing of blade and armor improvements, see [[Armor Improvements|Armor Improvements]] and [[Blade Improvements|Blade Improvements]]
+For a complete listing of blade and armor improvements, see [Armor Improvements](./Armor%20Improvements/_index.md) and [Blade Improvements](./Blade%20Improvements/_index.md)
 
 ## Binder Specialization (Su)
 
 At 3rd level, the blade binder gains access to a specialization that furthers his capabilities, and in some cases enhances more of his energy sources and material focus. At 7th level and every 4 levels thereafter the blade binder gains an additional binder specialization.
 
-For a complete listing of binder specializations, see [[Binder Specializations|Binder Specializations]]
+For a complete listing of binder specializations, see [Binder Specializations](./Binder%20Specializations/_index.md)
 
 ## Stable Binding  (Su)
 

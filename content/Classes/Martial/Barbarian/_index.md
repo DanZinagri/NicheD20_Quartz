@@ -64,7 +64,7 @@ At 2nd level, the barbarian’s body has hardened from past battles gaining a +1
 
 While a barbarian may not have a graceful approach to problems, a barbarian still grows as a combatant as he gains levels, learning additional tricks and techniques. At 2nd level the barbarian gains access to Barbarian Talents when selecting class talents.
 
-For a complete listing of barbaric paths see Table: [[Barbarian Talents|Barbarian Talents]].
+For a complete listing of barbaric paths see Table: [Barbaric Paths](./Barbarian%20Talents/_index.md).
 ## Fury
 
 At 3rd level a barbarian learns to channel his rage in new and destructive ways. While raging the barbarian gains a pool of fury equal to his 1+Endurance modifier (minimum 2). This pool empties at the end of a rage and fills each time the barbarian enters a new rage. The barbarian may spend 1 stamina as a move action on his turn to refill his Fury pool without requiring him to enter a new rage.
@@ -72,12 +72,12 @@ At 3rd level a barbarian learns to channel his rage in new and destructive ways.
 
 At 3rd level and every 3 levels thereafter the barbarian gains an aggression allowing him to tap further into the potential of his rage and fury. Unless otherwise noted aggressions can only be used if the barbarian is raging.  At 10th level the barbarian gains an additional aggression. If an Aggression talent calls for a save attack the save attack is made at 1d20 + Base Attack Bonus + Endurance modifier unless specified otherwise. They may add the enhancement bonus of a wielded weapon to this save attack.
 
-For a complete listing of aggressions see Table: [[Aggressions|Aggressions]].
+For a complete listing of aggressions see Table: [Aggressions](./Aggressions/_index.md).
 ## Barbaric Bond
 
 At 4th level the barbarian expands his capabilities in a number of ways. He barbarian chooses one of the following packages gaining its benefits.
 
-For a complete listing of barbaric bonds see Table: [[Barbaric Bonds|Barbaric Bonds]]
+For a complete listing of barbaric bonds see Table: [Barbaric Bonds](./Barbaric%20Bonds/_index.md)
 ## Sixth Sense (Ki)
 
 At 6th level, the barbarian gains a +2 bonus to initiative checks, and is no longer flat-footed before he has acted in combat.

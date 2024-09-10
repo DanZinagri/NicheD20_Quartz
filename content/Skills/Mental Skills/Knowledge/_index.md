@@ -13,13 +13,13 @@ Knowledge is a representation of what a character knows about a specific type of
 
 Below are listed fields of study:
 
-- [[Knowledge(Arcana)|Knowledge(Arcana)]](aberrations, ancient mysteries, magic traditions, arcane symbols, constructs, dragons, magical beasts).
-- [[Knowledge(Engineering)|Knowledge(Engineering)]](buildings, aqueducts, bridges, fortifications, robots)
-- [[Knowledge(History)|Knowledge(History)]](wars, colonies, migrations, founding of cities)
-- [[Knowledge(Region)|Knowledge(Region)]](legends, personalities, inhabitants, laws, customs, traditions, humanoids, lands, lineages, heraldry, personalities, royalty)
-- [[Knowledge(Religion)|Knowledge(Religion)]](gods and goddesses, mythic history, ecclesiastic tradition, holy symbols, undead)
-- [[Knowledge(Nature)|Knowledge(Nature)]](animals, fey, monstrous humanoids, plants, seasons and cycles, weather,  terrain, vermin, oozes,  caverns, spelunking)
-- [[Knowledge(Planes)|Knowledge(Planes)]](the Inner Planes, the Outer Planes, the Astral Plane, the Ethereal Plane, outsiders, planar magic)
+- [Knowledge(Arcana)](./Knowledge(Arcana).md)(aberrations, ancient mysteries, magic traditions, arcane symbols, constructs, dragons, magical beasts).
+- [Knowledge(Engineering)](./Knowledge(Engineering).md)(buildings, aqueducts, bridges, fortifications, robots)
+- [Knowledge(History)](./Knowledge(History).md)(wars, colonies, migrations, founding of cities)
+- [Knowledge(Region)](./Knowledge(Region).md)(legends, personalities, inhabitants, laws, customs, traditions, humanoids, lands, lineages, heraldry, personalities, royalty)
+- [Knowledge(Religion)](./Knowledge(Religion).md)(gods and goddesses, mythic history, ecclesiastic tradition, holy symbols, undead)
+- [Knowledge(Nature)](./Knowledge(Nature).md)(animals, fey, monstrous humanoids, plants, seasons and cycles, weather,  terrain, vermin, oozes,  caverns, spelunking)
+- [Knowledge(Planes)](./Knowledge(Planes).md)(the Inner Planes, the Outer Planes, the Astral Plane, the Ethereal Plane, outsiders, planar magic)
 
 #### Action/Retry
 

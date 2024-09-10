@@ -49,7 +49,7 @@ At 1st level, the Frenzied Berserker may treat their levels in Frenzied Berserke
 
 At 2nd level the Frenzied Berserker gains access to Frenzied Berserker Talents when selecting class talents.
 
-See [[Frenzied Berserker Talents|Frenzied Berserker Talents]] for a listing of Talents available for the Frenzied Berserker class.
+See [Frenzied Berserker Talents](./Frenzied%20Berserker%20Talents/_index.md) for a listing of Talents available for the Frenzied Berserker class.
 ## Haunted (Ki)
 
 At 2nd level, the souls of the slain and dead surround the Frenzied Berserker, as the moans of his victims follow him. The penalties from the shaken condition from foes the Frenzied Berserker has successfully used demoralize on are doubled, and the Frenzied Berserker gains a bonus to intimidate checks made to demoralize equal to his bonus to attack rolls from his rage. Creatures adjacent to the Frenzied Berserker take a -2 penalty to saves against fear effects originating from the Frenzied Berserker.
@@ -60,7 +60,7 @@ At 3rd level, when raging you add an additional 50% of your strength modifier on
 
 At 3rd level and every 3 levels thereafter the Frenzied Berserker gains access to additional Aggressions, as the Barbarian class feature of the same name. These Aggressions can be selected from both those available to the Barbarian, as well as those only available to the Frenzied Berserker. The Frenzied Berserker treats his levels as Barbarian levels for the purposes of meeting the prerequisites of any Aggression.
 
-See [[Frenzied Berserker Aggressions|Frenzied Berserker Aggressions]] for a listing of Aggression available to the Frenzied Berserker.
+See [Frenzied Berserker Aggressions](./Frenzied%20Berserker%20Aggressions.md) for a listing of Aggression available to the Frenzied Berserker.
 ## Frenzied Vigor
 
 At 4th level the Frenzied Berserker may use the Barbarian's Vigor class feature an additional time per day.

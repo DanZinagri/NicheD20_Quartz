@@ -3,7 +3,7 @@ share: true
 title: Weapons
 ---
 
-Below is a list of various weapons available within the Niche D20 system. See the [[Weapon Creation Rules|Weapon Creation Rules]] for more information on creating different weapons.
+Below is a list of various weapons available within the Niche D20 system. See the [Weapon Creation Rules](./Weapon%20Creation%20Rules.md) for more information on creating different weapons.
 
 ## Melee Weapons
 
@@ -13,157 +13,157 @@ Below is a list of various weapons available within the Niche D20 system. See th
 
 | Name                          | Cost | Dmg | Crit     | Range  | Type   | Special                       | Keywords                                      |
 | ----------------------------- | ---- | --- | -------- | ------ | ------ | ----------------------------- | --------------------------------------------- |
-| [[Buckler|Buckler]]                   | 5gp  | 1d2 | 20/x2    | \-     | B      | Blocking, Distracting, Strong | Shield, Light, Dueling, Hammer, Wood or Metal |
-| [[Dagger|Dagger]]                    | 4gp  | 1d4 | 19-20/x2 | 10 ft. | P or S | Concealed                     | Light, Blade, Throwing, Metal                 |
-| [[Gauntlet & Greaves|Gauntlet & Greaves]]        | 5gp  | \-  | \-       | \-     | \-     | Unarmed                       | Light, Monastic, Metal                        |
-| [[Light Mace|Light Mace]]                | 8gp  | 1d6 | 20/x3    | \-     | B      | Strong                        | Light, Hammer, Metal                          |
-| [[Punching Dagger|Punching Dagger]]           | 4gp  | 1d6 | 20/x3    | \-     | P      | \-                            | Light, Blade, Metal                           |
-| [[Sickle|Sickle]]                    | 10gp | 1d6 | 20/x3    | \-     | S      | Trip                          | Light, Blade, Metal                           |
-| [[Spiked Buckler|Spiked Buckler]]            | 5gp  | 1d2 | 20/x2    | \-     | P      | Blocking, Distracting, Strong | Shield, Light, Dueling, Metal                 |
-| [[Spiked Gauntlet & Greaves|Spiked Gauntlet & Greaves]] | 5gp  | \-  | \-       | \-     | P      | Blocking, Distracting, Strong | Light, Monastic, Metal                        |
-| [[Spring Blade|Spring Blade]]              | 70gp | 1d4 | 20/x2    | 10 ft. | P or S | Folding                       | Light, Blade, Throwing, Metal                 |
+| [Buckler](Buckler.md)                   | 5gp  | 1d2 | 20/x2    | \-     | B      | Blocking, Distracting, Strong | Shield, Light, Dueling, Hammer, Wood or Metal |
+| [Dagger](Dagger.md)                    | 4gp  | 1d4 | 19-20/x2 | 10 ft. | P or S | Concealed                     | Light, Blade, Throwing, Metal                 |
+| [Gauntlet & Greaves](Gauntlet%20&%20Greaves.md)        | 5gp  | \-  | \-       | \-     | \-     | Unarmed                       | Light, Monastic, Metal                        |
+| [Light Mace](Light%20Mace.md)                | 8gp  | 1d6 | 20/x3    | \-     | B      | Strong                        | Light, Hammer, Metal                          |
+| [Punching Dagger](Punching%20Dagger.md)           | 4gp  | 1d6 | 20/x3    | \-     | P      | \-                            | Light, Blade, Metal                           |
+| [Sickle](Sickle.md)                    | 10gp | 1d6 | 20/x3    | \-     | S      | Trip                          | Light, Blade, Metal                           |
+| [Spiked Buckler](Spiked%20Buckler.md)            | 5gp  | 1d2 | 20/x2    | \-     | P      | Blocking, Distracting, Strong | Shield, Light, Dueling, Metal                 |
+| [Spiked Gauntlet & Greaves](Spiked%20Gauntlet%20&%20Greaves.md) | 5gp  | \-  | \-       | \-     | P      | Blocking, Distracting, Strong | Light, Monastic, Metal                        |
+| [Spring Blade](Spring%20Blade.md)              | 70gp | 1d4 | 20/x2    | 10 ft. | P or S | Folding                       | Light, Blade, Throwing, Metal                 |
 
 #### One-Handed
 | Name            | Cost | Dmg | Crit  | Range | Type | Special                                                        | Keywords                                     |
 | --------------- | ---- | --- | ----- | ----- | ---- | -------------------------------------------------------------- | -------------------------------------------- |
-| [[Club|Club]]        | 2gp  | 1d8 | 20/x3 | \-    | B    | Nonlethal                                                      | Balanced, Hammer, Wood                       |
-| [[Heavy Mace|Heavy Mace]]  | 2gp  | 1d8 | 20/x3 | \-    | B    | Nonlethal                                                      | Balanced, Hammer, Wood                       |
-| [[Megaphone|Megaphone]]   | 15gp | 1d8 | 20/x3 | \-    | B    | Concussive, Nonlethal, Tool (Perform: Comedy, Oratory or Sing) | Balanced, Hammer, Performance, Wood or Metal |
-| [[Morningstar|Morningstar]] | 12gp | 1d8 | 20/x2 | \-    | B    | \-                                                             | Balanced, Hammer, Metal                      |
-| [[Shortspear|Shortspear]]  | 2gp  | 1d6 | 20/x2 | \-    | P    | brace                                                          | Balanced, Spear, Throwing, Wood              |
+| [Club](Club.md)        | 2gp  | 1d8 | 20/x3 | \-    | B    | Nonlethal                                                      | Balanced, Hammer, Wood                       |
+| [Heavy Mace](Heavy%20Mace.md)  | 2gp  | 1d8 | 20/x3 | \-    | B    | Nonlethal                                                      | Balanced, Hammer, Wood                       |
+| [Megaphone](Megaphone.md)   | 15gp | 1d8 | 20/x3 | \-    | B    | Concussive, Nonlethal, Tool (Perform: Comedy, Oratory or Sing) | Balanced, Hammer, Performance, Wood or Metal |
+| [Morningstar](Morningstar.md) | 12gp | 1d8 | 20/x2 | \-    | B    | \-                                                             | Balanced, Hammer, Metal                      |
+| [Shortspear](Shortspear.md)  | 2gp  | 1d6 | 20/x2 | \-    | P    | brace                                                          | Balanced, Spear, Throwing, Wood              |
 
 
 #### Two-Handed
 | Name               | Cost | Dmg     | Crit     | Range | Type | Special                                                        | Keywords                                 |
 | ------------------ | ---- | ------- | -------- | ----- | ---- | -------------------------------------------------------------- | ---------------------------------------- |
-| [[Clangers|Clangers]]       | 21gp | 1d6/1d6 | 19-20/x2 | \-    | S    | Attached, Tool (Perform: Percussion)                           | Double, Blade, Light, Metal, Performance |
-| [[Lantern Staff|Lantern Staff]]  | 15gp | 1d6     | 20/x2    | \-    | B    | Blocking, counterbalance, nonlethal                            | Balanced, Hammer, Monastic, Wood         |
-| [[Longspear|Longspear]]      | 6gp  | 1d6     | 20/x3    | \-    | P    | Brace, Reach                                                   | Balanced, Spear, Polearm, Wood           |
-| [[Pitchfork|Pitchfork]]      | 8gp  | 1d6     | 19-20/x2 | \-    | P    | Brace, Reach, Tool, Strong                                     | Heavy, Polearm, Metal                    |
-| [[Quarterstaff|Quarterstaff]]   | 2gp  | 1d6/1d6 | 20/x2    | \-    | B    | double, blocking, nonlethal                                    | Balanced, Monastic, Wood                 |
-| [[Weighted Sash|Weighted Sash]]  | 16gp | 1d6     | 20/x2    | \-    | B    | Concealed, Concussive, Nonlethal, Reach, Tool (Perform: Dance) | Balanced, Performance                    |
-| [[Spear|Spear]]          | 3gp  | 1d8     | 20/x3    | 20ft  | P    | Brace                                                          | Balanced, Spear, Throwing, Wood          |
-| [[Weighted Spear|Weighted Spear]] | 10gp | 1d8/1d6 | 20/x3    | \-    | P/B  | Double, Brace                                                  | Heavy, Spear, Wood                       |
+| [Clangers](Clangers.md)       | 21gp | 1d6/1d6 | 19-20/x2 | \-    | S    | Attached, Tool (Perform: Percussion)                           | Double, Blade, Light, Metal, Performance |
+| [Lantern Staff](Lantern%20Staff.md)  | 15gp | 1d6     | 20/x2    | \-    | B    | Blocking, counterbalance, nonlethal                            | Balanced, Hammer, Monastic, Wood         |
+| [Longspear](Longspear.md)      | 6gp  | 1d6     | 20/x3    | \-    | P    | Brace, Reach                                                   | Balanced, Spear, Polearm, Wood           |
+| [Pitchfork](Pitchfork.md)      | 8gp  | 1d6     | 19-20/x2 | \-    | P    | Brace, Reach, Tool, Strong                                     | Heavy, Polearm, Metal                    |
+| [Quarterstaff](Quarterstaff.md)   | 2gp  | 1d6/1d6 | 20/x2    | \-    | B    | double, blocking, nonlethal                                    | Balanced, Monastic, Wood                 |
+| [Spear](Spear.md)          | 3gp  | 1d8     | 20/x3    | 20ft  | P    | Brace                                                          | Balanced, Spear, Throwing, Wood          |
+| [Weighted Sash](Weighted%20Sash.md)  | 16gp | 1d6     | 20/x2    | \-    | B    | Concealed, Concussive, Nonlethal, Reach, Tool (Perform: Dance) | Balanced, Performance                    |
+| [Weighted Spear](Weighted%20Spear.md) | 10gp | 1d8/1d6 | 20/x3    | \-    | P/B  | Double, Brace                                                  | Heavy, Spear, Wood                       |
 
 ### Martial Weapons
 
 #### Light Weapons
 | Name                    | Cost | Dmg | Crit     | Range  | Type   | Special                                                    | Keywords                                  |
 | ----------------------- | ---- | --- | -------- | ------ | ------ | ---------------------------------------------------------- | ----------------------------------------- |
-| [[Arm Blades|Arm Blades]]          | 15gp | 1d4 | 19-20/x2 | \-     | P      | Blocking, Integrated                                       | Light, Blade, Metal                       |
-| [[Boomerang|Boomerang]]           | 5gp  | 1d3 | 20/x2    | 30 ft. | B      | Nonlethal, Concussive                                      | Light, Hammer, Throwing, Wood or Metal    |
-| [[Claw Blades|Claw Blades]]         | 10gp | \-  | 19-20/x2 | \-     | \-     | Concealed, Unarmed                                         | Light, Blade, Monastic, Metal             |
-| [[Concealed Blade|Concealed Blade]]     | 25gp | 1d4 | 19-20/x2 | \-     | P      | Integrated                                                 | Light, Blade, Metal                       |
-| [[Dueling Dagger|Dueling Dagger]]      | 12gp | 1d4 | 19-20/x2 | 10 ft. | P or S | Blocking                                                   | Light, Blade, Dueling, Throwing, Metal    |
-| [[Dancing Sabre|Dancing Sabre]]       | 18gp | 1d8 | 19-20/x2 | \-     | S      | Distracting, Tool (Perform: Dance)                         | Light, Blade, Dueling, Metal, Performance |
-| [[Kukri|Kukri]]               | 8gp  | 1d6 | 19-20/x2 | \-     | S      | Deadly, Strong                                             | Light, Blade, Metal                       |
-| [[Light Hammer|Light Hammer]]        | 2gp  | 1d6 | 20/x3    | 20 ft. | B      | \-                                                         | Light, Hammer, Throwing, Metal            |
-| [[Handaxe|Handaxe]]             | 6gp  | 1d6 | 20/x3    | \-     | S      | Disarm, Strong                                             | Light, Axe, Metal                         |
-| [[Light Pick|Light Pick]]          | 4gp  | 1d4 | 19-20/x4 | \-     | P      | \-                                                         | Light, Axe, Metal                         |
-| [[Light Spiked Shield|Light Spiked Shield]] | 3gp  | 1d4 | 20/x3    | \-     | P      | Attached, Blocking, Strong                                 | Shield, Light, Wood or Metal              |
-| [[Light Shield|Light Shield]]        | 3gp  | 1d4 | 20/x3    | \-     | B      | Attached, Blocking, Strong                                 | Shield, Light, Wood or Metal              |
-| [[Reverse-Blade Bow|Reverse-Blade Bow]]   | 19gp | 1d6 | 19-20/x2 | \-     | P or S | Deadly, Tool (Peform: String)                              | Light, Blade, Metal, Performance          |
-| [[Sap|Sap]]                 | 2gp  | 1d4 | 20/x3    | \-     | B      | Nonlethal, Concussive                                      | Light, Hammer, Metal                      |
-| [[Short Sword|Short Sword]]         | 10gp | 1d6 | 19-20/x2 | \-     | P or S | Distracting                                                | Light, Blade Metal                        |
-| [[Tail Blade|Tail Blade]]          | 10gp | 1d4 | 19-20/x2 | \-     | S      | Distracting, Attached                                      | Light, Blade, Monastic, Metal             |
-| [[Throwing Axe|Throwing Axe]]        | 8gp  | 1d6 | 20/x3    | 20 ft. | S      | \-                                                         | Light, Axe, Throwing, Metal               |
-| [[Thunderclub|Thunderclub]]         | 17gp | 1d8 | 20/x2    | \-     | B      | Distracting, Nonlethal, Tool (Perform: Comedy, Percussion) | Hammer, Light, Performance, Wood          |
-| [[Tonfa|Tonfa]]               | 2gp  | 1d6 | 20/x2    | \-     | B      | Blocking, Nonlethal, Concealed                             | Monastic, Light, Hammer, Wood or Metal    |
-| [[Tri-Bladed Katar|Tri-Bladed Katar]]    | 4gp  | 1d4 | 20/x4    | \-     | P      | \-                                                         | Light, Blade, Metal                       |
-| [[War Flute|War Flute]]           | 17gp | 1d6 | 19-20/x2 | \-     | B or S | Concealed, Tool (Perform: Wind)                            | Blade, Light, Metal, Performance          |
+| [Arm Blades](Arm%20Blades.md)          | 15gp | 1d4 | 19-20/x2 | \-     | P      | Blocking, Integrated                                       | Light, Blade, Metal                       |
+| [Boomerang](Boomerang.md)           | 5gp  | 1d3 | 20/x2    | 30 ft. | B      | Nonlethal, Concussive                                      | Light, Hammer, Throwing, Wood or Metal    |
+| [Claw Blades](Claw%20Blades.md)         | 10gp | \-  | 19-20/x2 | \-     | \-     | Concealed, Unarmed                                         | Light, Blade, Monastic, Metal             |
+| [Dancing Sabre](Dancing%20Sabre.md)       | 18gp | 1d8 | 19-20/x2 | \-     | S      | Distracting, Tool (Perform: Dance)                         | Light, Blade, Dueling, Metal, Performance |
+| [Concealed Blade](Concealed%20Blade.md)     | 25gp | 1d4 | 19-20/x2 | \-     | P      | Integrated                                                 | Light, Blade, Metal                       |
+| [Dueling Dagger](Dueling%20Dagger.md)      | 12gp | 1d4 | 19-20/x2 | 10 ft. | P or S | Blocking                                                   | Light, Blade, Dueling, Throwing, Metal    |
+| [Handaxe](Handaxe.md)             | 6gp  | 1d6 | 20/x3    | \-     | S      | Disarm, Strong                                             | Light, Axe, Metal                         |
+| [Kukri](Kukri.md)               | 8gp  | 1d6 | 19-20/x2 | \-     | S      | Deadly, Strong                                             | Light, Blade, Metal                       |
+| [Light Hammer](Light%20Hammer.md)        | 2gp  | 1d6 | 20/x3    | 20 ft. | B      | \-                                                         | Light, Hammer, Throwing, Metal            |
+| [Light Pick](Light%20Pick.md)          | 4gp  | 1d4 | 19-20/x4 | \-     | P      | \-                                                         | Light, Axe, Metal                         |
+| [Light Shield](Light%20Shield.md)        | 3gp  | 1d4 | 20/x3    | \-     | B      | Attached, Blocking, Strong                                 | Shield, Light, Wood or Metal              |
+| [Light Spiked Shield](Light%20Spiked%20Shield.md) | 3gp  | 1d4 | 20/x3    | \-     | P      | Attached, Blocking, Strong                                 | Shield, Light, Wood or Metal              |
+| [Reverse-Blade Bow](Reverse-Blade%20Bow.md)   | 19gp | 1d6 | 19-20/x2 | \-     | P or S | Deadly, Tool (Peform: String)                              | Light, Blade, Metal, Performance          |
+| [Sap](Sap.md)                 | 2gp  | 1d4 | 20/x3    | \-     | B      | Nonlethal, Concussive                                      | Light, Hammer, Metal                      |
+| [Short Sword](Short%20Sword.md)         | 10gp | 1d6 | 19-20/x2 | \-     | P or S | Distracting                                                | Light, Blade Metal                        |
+| [Tail Blade](Tail%20Blade.md)          | 10gp | 1d4 | 19-20/x2 | \-     | S      | Distracting, Attached                                      | Light, Blade, Monastic, Metal             |
+| [Throwing Axe](Throwing%20Axe.md)        | 8gp  | 1d6 | 20/x3    | 20 ft. | S      | \-                                                         | Light, Axe, Throwing, Metal               |
+| [Thunderclub](Thunderclub.md)         | 17gp | 1d8 | 20/x2    | \-     | B      | Distracting, Nonlethal, Tool (Perform: Comedy, Percussion) | Hammer, Light, Performance, Wood          |
+| [Tonfa](Tonfa.md)               | 2gp  | 1d6 | 20/x2    | \-     | B      | Blocking, Nonlethal, Concealed                             | Monastic, Light, Hammer, Wood or Metal    |
+| [Tri-Bladed Katar](Tri-Bladed%20Katar.md)    | 4gp  | 1d4 | 20/x4    | \-     | P      | \-                                                         | Light, Blade, Metal                       |
+| [War Flute](War%20Flute.md)           | 17gp | 1d6 | 19-20/x2 | \-     | B or S | Concealed, Tool (Perform: Wind)                            | Blade, Light, Metal, Performance          |
 
 #### One-Handed Weapons
 | Name                          | Cost  | Dmg | Crit       | Range | Type    | Special                                                        | Keywords                             |
 | ----------------------------- | ----- | --- | ---------- | ----- | ------- | -------------------------------------------------------------- | ------------------------------------ |
-| [[Bar Mace|Bar Mace]]                  | 5 gp  | 1d8 | 20 / x2    | \-    | B and S | Sunder                                                         | Heavy, Blade, Hammer, Metal          |
-| [[Battle Pipes|Battle Pipes]]              | 32 gp | 1d4 | x2         | \-    | B       | Attached, Blocking, Heavy Shield, Strong, Tool (Perform: Wind) | Balanced, Shield, Wood or Metal      |
-| [[Broadsword|Broadsword]]                | 15 gp | 1d8 | 20 / x3    | \-    | S       | Sunder, strong                                                 | Heavy, Blade, Metal                  |
-| [[Battleaxe|Battleaxe]]                 | 10 gp | 1d8 | 20 / x3    | \-    | S       | Disarm, strong                                                 | Heavy, Axe, Metal                    |
-| [[Combat Scabbard|Combat Scabbard]]           | 8 gp  | 1d6 | 20 / x2    | \-    | B       | blocking, nonlethal                                            | Light, Hammer, Metal                 |
-| [[Chakram|Chakram]]                   | 4 gp  | 1d8 | 19-20 / x3 | 30 ft | S       | Finesse, short grip.                                           | Light, Blade, Throwing, Metal        |
-| [[Cutlass|Cutlass]]                   | 15 gp | 1d6 | 18-20 / x2 | \-    | S       | strong, deadly, short grip                                     | Balanced, Dueling, Blade, Metal      |
-| [[Heavy Shield|Heavy Shield]]              | 17 gp | 1d6 | 20 / x2    | \-    | B       | integrated, blocking, strong                                   | Shield, Balanced, Wood or Metal      |
-| [[Flail|Flail]]                     | 8 gp  | 1d8 | 20 / x2    | \-    | B       | Disarm, trip, strong                                           | Balanced, Flail, Metal               |
-| [[Heavy Spiked Shield|Heavy Spiked Shield]]       | 17 gp | 1d6 | 20 / x2    | \-    | P       | integrated, blocking, strong                                   | Shield, Balanced, Metal              |
-| [[Nine Ring Broadsword|Nine Ring Broadsword]]      | 15 gp | 1d8 | 20 / x3    | \-    | S       | Sunder, strong                                                 | Heavy, Blade, Monastic, Metal        |
-| [[Longsword|Longsword]]                 | 15 gp | 1d8 | 19-20 / x2 | \-    | S or P  | deadly                                                         | Balanced, Dueling, Blade, Metal      |
-| [[Pick|Pick]]                      | 12 gp | 1d6 | 20 / x4    | \-    | P       | <ul><li>\-</li></ul>                                           | Balanced, Axe, Metal                 |
-| [[Rapier|Rapier]]                    | 20 gp | 1d6 | 18-20 / x2 | \-    | P       | Finesse, Short Grip                                            | Light, Dueling, Blade, Metal         |
-| [[Ringing Shield|Ringing Shield]]            | 25 gp | 1d6 | x2         | \-    | B       | Blocking, Integrated, Heavy Shield, Tool (Perform: Percussion) | Balanced, Metal, Performance, Shield |
-| [[Scimitar|Scimitar]]                  | 15 gp | 1d6 | 18-20 / x2 | \-    | S       | Finesse, Short Grip                                            | Light, Blade, Metal                  |
-| [[Sharpened Combat Scabbard|Sharpened Combat Scabbard]] | 10 gp | 1d6 | 20 / x2    | \-    | S       | blocking, distracting                                          | Light, Blade, Metal                  |
-| [[Trident|Trident]]                   | 15 gp | 1d8 | 20 / x3    | 10 ft | P       | brace                                                          | Balanced, Spear, Throwing, Metal     |
-| [[Warhammer|Warhammer]]                 | 12 gp | 1d8 | 20 / x3    | 10 ft | B       | Sunder                                                         | Heavy, Hammer, Throwing, Metal       |
+| [Bar Mace](Bar%20Mace.md)                  | 5 gp  | 1d8 | 20 / x2    | \-    | B and S | Sunder                                                         | Heavy, Blade, Hammer, Metal          |
+| [Battle Pipes](Battle%20Pipes.md)              | 32 gp | 1d4 | x2         | \-    | B       | Attached, Blocking, Heavy Shield, Strong, Tool (Perform: Wind) | Balanced, Shield, Wood or Metal      |
+| [Battleaxe](Battleaxe.md)                 | 10 gp | 1d8 | 20 / x3    | \-    | S       | Disarm, strong                                                 | Heavy, Axe, Metal                    |
+| [Broadsword](Broadsword.md)                | 15 gp | 1d8 | 20 / x3    | \-    | S       | Sunder, strong                                                 | Heavy, Blade, Metal                  |
+| [Chakram](Chakram.md)                   | 4 gp  | 1d8 | 19-20 / x3 | 30 ft | S       | Finesse, short grip.                                           | Light, Blade, Throwing, Metal        |
+| [Combat Scabbard](Combat%20Scabbard.md)           | 8 gp  | 1d6 | 20 / x2    | \-    | B       | blocking, nonlethal                                            | Light, Hammer, Metal                 |
+| [Cutlass](Cutlass.md)                   | 15 gp | 1d6 | 18-20 / x2 | \-    | S       | strong, deadly, short grip                                     | Balanced, Dueling, Blade, Metal      |
+| [Flail](Flail.md)                     | 8 gp  | 1d8 | 20 / x2    | \-    | B       | Disarm, trip, strong                                           | Balanced, Flail, Metal               |
+| [Heavy Shield](Heavy%20Shield.md)              | 17 gp | 1d6 | 20 / x2    | \-    | B       | integrated, blocking, strong                                   | Shield, Balanced, Wood or Metal      |
+| [Heavy Spiked Shield](Heavy%20Spiked%20Shield.md)       | 17 gp | 1d6 | 20 / x2    | \-    | P       | integrated, blocking, strong                                   | Shield, Balanced, Metal              |
+| [Longsword](Longsword.md)                 | 15 gp | 1d8 | 19-20 / x2 | \-    | S or P  | deadly                                                         | Balanced, Dueling, Blade, Metal      |
+| [Nine Ring Broadsword](Nine%20Ring%20Broadsword.md)      | 15 gp | 1d8 | 20 / x3    | \-    | S       | Sunder, strong                                                 | Heavy, Blade, Monastic, Metal        |
+| [Pick](Pick.md)                      | 12 gp | 1d6 | 20 / x4    | \-    | P       | <ul><li>\-</li></ul>                                           | Balanced, Axe, Metal                 |
+| [Rapier](Rapier.md)                    | 20 gp | 1d6 | 18-20 / x2 | \-    | P       | Finesse, Short Grip                                            | Light, Dueling, Blade, Metal         |
+| [Ringing Shield](Ringing%20Shield.md)            | 25 gp | 1d6 | x2         | \-    | B       | Blocking, Integrated, Heavy Shield, Tool (Perform: Percussion) | Balanced, Metal, Performance, Shield |
+| [Scimitar](Scimitar.md)                  | 15 gp | 1d6 | 18-20 / x2 | \-    | S       | Finesse, Short Grip                                            | Light, Blade, Metal                  |
+| [Sharpened Combat Scabbard](Sharpened%20Combat%20Scabbard.md) | 10 gp | 1d6 | 20 / x2    | \-    | S       | blocking, distracting                                          | Light, Blade, Metal                  |
+| [Trident](Trident.md)                   | 15 gp | 1d8 | 20 / x3    | 10 ft | P       | brace                                                          | Balanced, Spear, Throwing, Metal     |
+| [Warhammer](Warhammer.md)                 | 12 gp | 1d8 | 20 / x3    | 10 ft | B       | Sunder                                                         | Heavy, Hammer, Throwing, Metal       |
 
 #### Two-Handed Weapons
 | Name                 | Cost  | Dmg     | Crit       | Range | Type   | Special                                                         | Keywords                                            |
 | -------------------- | ----- | ------- | ---------- | ----- | ------ | --------------------------------------------------------------- | --------------------------------------------------- |
-| [[Axe, Strung|Axe, Strung]]      | 27 gp | 1d8     | 19-20/x3   | \-    | S      | Tool (Perform: String)                                          | Axe, Heavy, Metal, Performance                      |
-| [[Bardiche|Bardiche]]         | 13 gp | 1d10    | 20 / x3    | \-    | S      | Reach, disarm                                                   | Polearm, Heavy,  Axe, Metal                         |
-| [[Bill|Bill]]             | 11 gp | 1d8     | 20 / x3    | \-    | S      | Reach, blocking, strong                                         | Polearm, Heavy, Blade, Metal                        |
-| [[Bec de corbin|Bec de corbin]]    | 15 gp | 1d8     | 20 / x3    | \-    | B or P | Reach, sunder                                                   | Polearm, Heavy, Hammer, Metal                       |
-| [[Falchion|Falchion]]         | 75 gp | 1d8     | 18-20 / x2 | \-    | S      | <ul><li>\-</li></ul>                                            | Heavy, Blade, Metal                                 |
-| [[Heavy Flail|Heavy Flail]]      | 15gp  | 1d10    | 20 / x3    | \-    | B      | Disarm, trip                                                    | Heavy, Flail, Metal                                 |
-| [[Naginata|Naginata]]         | 60 gp | 1d8     | 20 / x4    | \-    | S      | Reach                                                           | Polearm, Heavy, Blade, Metal                        |
-| [[Nodachi|Nodachi]]          | 60 gp | 1d8     | 18-20 / x2 | \-    | S      | brace                                                           | Heavy, Blade, Metal                                 |
-| [[Pickaxe|Pickaxe]]          | 10 gp | 1d8     | 20 / x4    | \-    | P      | Sunder                                                          | Heavy, Axe, Metal                                   |
-| [[Pipe, Heavy|Pipe, Heavy]]      | 55 gp | 2d6     | x3         | \-    | B      | Strong, Tool (Perform: Wind)                                    | Heavy, Hammer, Performance, Wood or Metal           |
-| [[Sansetsukon|Sansetsukon]]      | 8 gp  | 1d6/1d6 | 19-20 / x2 | \-    | B      | Double, Blocking, Distracting                                   | Balanced, Hammer, Wood                              |
-| [[Scythe|Scythe]]           | 18 gp | 1d8     | 20 / x3    | \-    | P or S | Trip, finesse                                                   | Polearm, Heavy, Blade, Metal                        |
-| [[Spear, Whistling|Spear, Whistling]] | 19 gp | 1d8     | x2         | 20 ft | P      | Counterbalance, Distracting, Reach, Tool (Perform: Dance, Wind) | Heavy, Performance, Polearm, Spear, Throwing, Metal |
-| [[Twirling Torch|Twirling Torch]]   | 16 gp | 1d8/1d8 | x2         | \-    | B      | Counterbalance, Distracting, Tool (Perform: Dance)              | Double, Hammer, Performance, Wood or Metal          |
+| [Axe, Strung](Axe,%20Strung.md)      | 27 gp | 1d8     | 19-20/x3   | \-    | S      | Tool (Perform: String)                                          | Axe, Heavy, Metal, Performance                      |
+| [Bardiche](Bardiche.md)         | 13 gp | 1d10    | 20 / x3    | \-    | S      | Reach, disarm                                                   | Polearm, Heavy,  Axe, Metal                         |
+| [Bec de corbin](Bec%20de%20corbin.md)    | 15 gp | 1d8     | 20 / x3    | \-    | B or P | Reach, sunder                                                   | Polearm, Heavy, Hammer, Metal                       |
+| [Bill](Bill.md)             | 11 gp | 1d8     | 20 / x3    | \-    | S      | Reach, blocking, strong                                         | Polearm, Heavy, Blade, Metal                        |
+| [Falchion](Falchion.md)         | 75 gp | 1d8     | 18-20 / x2 | \-    | S      | <ul><li>\-</li></ul>                                            | Heavy, Blade, Metal                                 |
+| [Heavy Flail](Heavy%20Flail.md)      | 15gp  | 1d10    | 20 / x3    | \-    | B      | Disarm, trip                                                    | Heavy, Flail, Metal                                 |
+| [Naginata](Naginata.md)         | 60 gp | 1d8     | 20 / x4    | \-    | S      | Reach                                                           | Polearm, Heavy, Blade, Metal                        |
+| [Nodachi](Nodachi.md)          | 60 gp | 1d8     | 18-20 / x2 | \-    | S      | brace                                                           | Heavy, Blade, Metal                                 |
+| [Pickaxe](Pickaxe.md)          | 10 gp | 1d8     | 20 / x4    | \-    | P      | Sunder                                                          | Heavy, Axe, Metal                                   |
+| [Pipe, Heavy](Pipe,%20Heavy.md)      | 55 gp | 2d6     | x3         | \-    | B      | Strong, Tool (Perform: Wind)                                    | Heavy, Hammer, Performance, Wood or Metal           |
+| [Sansetsukon](Sansetsukon.md)      | 8 gp  | 1d6/1d6 | 19-20 / x2 | \-    | B      | Double, Blocking, Distracting                                   | Balanced, Hammer, Wood                              |
+| [Scythe](Scythe.md)           | 18 gp | 1d8     | 20 / x3    | \-    | P or S | Trip, finesse                                                   | Polearm, Heavy, Blade, Metal                        |
+| [Spear, Whistling](Spear,%20Whistling.md) | 19 gp | 1d8     | x2         | 20 ft | P      | Counterbalance, Distracting, Reach, Tool (Perform: Dance, Wind) | Heavy, Performance, Polearm, Spear, Throwing, Metal |
+| [Twirling Torch](Twirling%20Torch.md)   | 16 gp | 1d8/1d8 | x2         | \-    | B      | Counterbalance, Distracting, Tool (Perform: Dance)              | Double, Hammer, Performance, Wood or Metal          |
 
 ### Exotic Weapons
 
 #### Light Weapons
 | Name                    | Cost  | Dmg | Crit       | Range | Type   | Special                                             | Keywords                                |
 | ----------------------- | ----- | --- | ---------- | ----- | ------ | --------------------------------------------------- | --------------------------------------- |
-| [[Bladed Boomerang|Bladed Boomerang]]    | 12 gp | 1d4 | 18-20 / x2 | 30 ft | S      | <ul><li>\-</li></ul>                                | Light, Blade, Throwing, Metal           |
-| [[Bladed Ribbon|Bladed Ribbon]]       | 30 gp | 1d3 | x3         | \-    | S      | Distracting, Reach, Serrated, Tool (Perform: Dance) | Light, Metal, Performance               |
-| [[Fighting Fan|Fighting Fan]]        | 3 gp  | 1d3 | 19-20 / x3 | \-    | S      | Distracting, Folding                                | Monastic, Light, Blade, Metal           |
-| [[Nunchaku|Nunchaku]]            | 2 gp  | 1d6 | 20 / x2    | \-    | B      | Blocking, Disarm                                    | Monastic, Light, Flail, Wood            |
-| [[Iron Claw|Iron Claw]]           | 2 gp  | 1d4 | 19-20/ x2  | \-    | S      | Disarm, grapple, Integrated                         | Monastic, Light, Blade, Metal           |
-| [[Sawtoothed Sabre|Sawtoothed Sabre]]    | 35 gp | 1d8 | 19-20/x2   | \-    | S      | Deadly, serrated                                    | Light, Blade, Metal                     |
-| [[Swordbreaker Dagger|Swordbreaker Dagger]] | 10 gp | 1d4 | 19-20 / x2 | 10 ft | P or S | Disarm, sunder                                      | Dueling, Light, Dagger, Throwing, Metal |
-| [[Wakizashi|Wakizashi]]           | 35 gp | 1d6 | 18-20 / x2 | \-    | S      | deadly                                              | Light, Blade, Metal                     |
+| [Bladed Boomerang](Bladed%20Boomerang.md)    | 12 gp | 1d4 | 18-20 / x2 | 30 ft | S      | <ul><li>\-</li></ul>                                | Light, Blade, Throwing, Metal           |
+| [Bladed Ribbon](Bladed%20Ribbon.md)       | 30 gp | 1d3 | x3         | \-    | S      | Distracting, Reach, Serrated, Tool (Perform: Dance) | Light, Metal, Performance               |
+| [Fighting Fan](Fighting%20Fan.md)        | 3 gp  | 1d3 | 19-20 / x3 | \-    | S      | Distracting, Folding                                | Monastic, Light, Blade, Metal           |
+| [Nunchaku](Nunchaku.md)            | 2 gp  | 1d6 | 20 / x2    | \-    | B      | Blocking, Disarm                                    | Monastic, Light, Flail, Wood            |
+| [Iron Claw](Iron%20Claw.md)           | 2 gp  | 1d4 | 19-20/ x2  | \-    | S      | Disarm, grapple, Integrated                         | Monastic, Light, Blade, Metal           |
+| [Sawtoothed Sabre](Sawtoothed%20Sabre.md)    | 35 gp | 1d8 | 19-20/x2   | \-    | S      | Deadly, serrated                                    | Light, Blade, Metal                     |
+| [Swordbreaker Dagger](Swordbreaker%20Dagger.md) | 10 gp | 1d4 | 19-20 / x2 | 10 ft | P or S | Disarm, sunder                                      | Dueling, Light, Dagger, Throwing, Metal |
+| [Wakizashi](Wakizashi.md)           | 35 gp | 1d6 | 18-20 / x2 | \-    | S      | deadly                                              | Light, Blade, Metal                     |
 
 #### One-Handed
 | Name                     | Cost  | Dmg  | Crit       | Range | Type   | Special                                     | Keywords                        |
 | ------------------------ | ----- | ---- | ---------- | ----- | ------ | ------------------------------------------- | ------------------------------- |
-| [[Bastard Sword|Bastard Sword]]        | 35 gp | 2d6  | 19-20 / x2 | \-    | S or P | Ease of Grip                                | Heavy, Blade, Metal             |
-| [[Estoc|Estoc]]                | 50 gp | 1d8  | 18-20/ x2  | \-    | P      | Finesse, short grip, Ease of Grip           | Light, Dueling, Blade, Metal    |
-| [[Dueling Sword|Dueling Sword]]        | 20 gp | 1d8  | 19-20 / x2 | \-    | S or P | Finesse, blocking                           | Light, Dueling, Blade           |
-| [[Katana|Katana]]               | 50 gp | 1d8  | 18-20 / x2 | \-    | S      | deadly                                      | Balanced, Dueling, Blade, Metal |
-| [[Falcata|Falcata]]              | 18 gp | 1d8  | 19-20/ x3  | \-    | S      | <ul><li>\-</li></ul>                        | Heavy, Blade, Metal             |
-| [[Khopesh|Khopesh]]              | 20 gp | 2d6  | 19-20 / x2 | \-    | S      | Disarm, Sunder                              | Heavy, Axe, Blade, Metal        |
-| [[Spiked Chain|Spiked Chain]]         | 25 gp | 1d8  | 19-20/ x2  | \-    | B or P | Finesse, Trip                               | Light, Flail, Metal             |
-| [[Temple Sword|Temple Sword]]         | 30 gp | 1d8  | 19-20 / x2 | \-    | S      | Trip, disarm, counterbalance                | Balanced, Blade, Metal          |
-| [[Tower Shield, Spiked|Tower Shield, Spiked]] | 32 gp | 1d8  | 20 / x3    | \-    | P      | Blocking, Strong                            | Shield, Balanced, Metal         |
-| [[Tower Shield|Tower Shield]]         | 30 gp | 1d8  | 20 / x3    | \-    | B      | Blocking, Strong                            | Shield, Balanced, Wood or Metal |
-| [[Urumi|Urumi]]                | 30gp  | 1d8  | 18-20 /x2  | \-    | S      | reach                                       | Balanced, Blade, Metal          |
-| [[Waraxe|Waraxe]]               | 30 gp | 1d10 | 20 / x3    | 10 ft | S      | Disarm, Ease of Grip                        | Heavy, Axe, Throwing, Metal     |
-| [[Whip|Whip]]                 | 5 gp  | 1d3  | 20 / x2    | \-    | S      | nonlethal, finesse, reach, trip, short grip | Light, Metal                    |
+| [Bastard Sword](Bastard%20Sword.md)        | 35 gp | 2d6  | 19-20 / x2 | \-    | S or P | Ease of Grip                                | Heavy, Blade, Metal             |
+| [Dueling Sword](Dueling%20Sword.md)        | 20 gp | 1d8  | 19-20 / x2 | \-    | S or P | Finesse, blocking                           | Light, Dueling, Blade           |
+| [Estoc](Estoc.md)                | 50 gp | 1d8  | 18-20/ x2  | \-    | P      | Finesse, short grip, Ease of Grip           | Light, Dueling, Blade, Metal    |
+| [Falcata](Falcata.md)              | 18 gp | 1d8  | 19-20/ x3  | \-    | S      | <ul><li>\-</li></ul>                        | Heavy, Blade, Metal             |
+| [Katana](Katana.md)               | 50 gp | 1d8  | 18-20 / x2 | \-    | S      | deadly                                      | Balanced, Dueling, Blade, Metal |
+| [Khopesh](Khopesh.md)              | 20 gp | 2d6  | 19-20 / x2 | \-    | S      | Disarm, Sunder                              | Heavy, Axe, Blade, Metal        |
+| [Spiked Chain](Spiked%20Chain.md)         | 25 gp | 1d8  | 19-20/ x2  | \-    | B or P | Finesse, Trip                               | Light, Flail, Metal             |
+| [Temple Sword](Temple%20Sword.md)         | 30 gp | 1d8  | 19-20 / x2 | \-    | S      | Trip, disarm, counterbalance                | Balanced, Blade, Metal          |
+| [Tower Shield, Spiked](Tower%20Shield,%20Spiked.md) | 32 gp | 1d8  | 20 / x3    | \-    | P      | Blocking, Strong                            | Shield, Balanced, Metal         |
+| [Tower Shield](Tower%20Shield.md)         | 30 gp | 1d8  | 20 / x3    | \-    | B      | Blocking, Strong                            | Shield, Balanced, Wood or Metal |
+| [Urumi](Urumi.md)                | 30gp  | 1d8  | 18-20 /x2  | \-    | S      | reach                                       | Balanced, Blade, Metal          |
+| [Waraxe](Waraxe.md)               | 30 gp | 1d10 | 20 / x3    | 10 ft | S      | Disarm, Ease of Grip                        | Heavy, Axe, Throwing, Metal     |
+| [Whip](Whip.md)                 | 5 gp  | 1d3  | 20 / x2    | \-    | S      | nonlethal, finesse, reach, trip, short grip | Light, Metal                    |
 
 #### Two-Handed
 | Name                     | Cost   | Dmg       | Crit       | Range | Type   | Special                                                    | Keywords                               |
 | ------------------------ | ------ | --------- | ---------- | ----- | ------ | ---------------------------------------------------------- | -------------------------------------- |
-| [[Bladed Scarf|Bladed Scarf]]         | 12 gp  | 1d6       | 20 / x2    | \-    | S      | Disarm, Distracting, Trip, Finesse                         | Light, Blade, Metal                    |
-| [[Curved Blade|Curved Blade]]         | 80 gp  | 1d10      | 18-20/ x2  | \-    | S      | finesse                                                    | Light, Blade, Metal                    |
-| [[Executioner’s Sword|Executioner’s Sword]]  | 40 gp  | 1d10      | 18-20 / x2 | \-    | S      | Deadly, Strong                                             | Heavy, Blade, Metal                    |
-| [[Flamberge|Flamberge]]            | 50 gp  | 2d6       | 19-20 / x2 | \-    | P or S | Sunder, deadly                                             | Heavy, Blade, Metal                    |
-| [[Flowing Spear|Flowing Spear]]        | 20 gp  | 1d8       | 20 / x3    | \-    | P      | Counterbalance, Brace, Reach, finesse                      | Polearm, Light, Spear, Metal           |
-| [[Garrote|Garrote]]              | 3 gp   | 1d6       | 20 / x2    | \-    | S      | Concealed. Concussive, Grapple, nonlethal, finesse         | <ul><li>\-</li></ul>                   |
-| [[Great Boomerang|Great Boomerang]]      | 10 gp  | 2d6       | 20 / x2    | 30 ft | B      | Nonlethal, Concussive                                      | Heavy, Hammer, Throwing, Metal or Wood |
-| [[Goliath Axe|Goliath Axe]]          | 65 gp  | 2d6       | 20 / x4    | \-    | S      | <ul><li>\-</li></ul>                                       | Heavy, Axe, Metal                      |
-| [[Longaxe|Longaxe]]              | 50 gp  | 2d6       | 20 / x3    | \-    | S      | Reach, disarm, strong                                      | Heavy, Axe, Polearm, Metal             |
-| [[Harpoon|Harpoon]]              | 5 gp   | 1d8       | 19-20 / x3 | 10 ft | P      | grapple                                                    | Heavy, Spear, Throwing, Metal          |
-| [[Longchain Flail|Longchain Flail]]      | 50 gp  | 2d6       | 20 / x3    | \-    | B or P | Sunder, reach                                              | Heavy, Flail, Metal                    |
-| [[Longhammer|Longhammer]]           | 70 gp  | 2d6       | 20 / x3    | \-    | B      | Reach, sunder, strong                                      | Heavy, Hammer, Polearm, Metal          |
-| [[Reinforced Accordion|Reinforced Accordion]] | 35 gp  | 1d8/1d8   | x2         | \-    | B      | Attached, Blocking, Heavy Shield, Tool (Perform: Keyboard) | Double, Metal, Shield, Performance     |
-| [[Seven-Branched Sword|Seven-Branched Sword]] | 50 gp  | 1d8       | 20 / x3    | \-    | P & S  | Disarm, grapple                                            | Monastic, Heavy, Blade, Metal          |
-| [[Tetsubo|Tetsubo]]              | 20 gp  | 2d6       | 20 / x4    | \-    | B      | Sunder                                                     | Heavy, Hammer, Metal                   |
-| [[Two-Bladed Axe|Two-Bladed Axe]]       | 100 gp | 1d10/1d10 | 20 / x3    | \-    | S      | Double, Disarm                                             | Light, Axe, Metal                      |
-| [[Two-Bladed Sword|Two-Bladed Sword]]     | 100 gp | 1d8/1d8   | 19-20 x2   | \-    | S or P | Double, Blocking, Counterbalance                           | Light, Blade, Metal                    |
+| [Bladed Scarf](Bladed%20Scarf.md)         | 12 gp  | 1d6       | 20 / x2    | \-    | S      | Disarm, Distracting, Trip, Finesse                         | Light, Blade, Metal                    |
+| [Curved Blade](Curved%20Blade.md)         | 80 gp  | 1d10      | 18-20/ x2  | \-    | S      | finesse                                                    | Light, Blade, Metal                    |
+| [Executioner’s Sword](Executioner%E2%80%99s%20Sword.md)  | 40 gp  | 1d10      | 18-20 / x2 | \-    | S      | Deadly, Strong                                             | Heavy, Blade, Metal                    |
+| [Flowing Spear](Flowing%20Spear.md)        | 20 gp  | 1d8       | 20 / x3    | \-    | P      | Counterbalance, Brace, Reach, finesse                      | Polearm, Light, Spear, Metal           |
+| [Flamberge](Flamberge.md)            | 50 gp  | 2d6       | 19-20 / x2 | \-    | P or S | Sunder, deadly                                             | Heavy, Blade, Metal                    |
+| [Garrote](Garrote.md)              | 3 gp   | 1d6       | 20 / x2    | \-    | S      | Concealed. Concussive, Grapple, nonlethal, finesse         | <ul><li>\-</li></ul>                   |
+| [Goliath Axe](Goliath%20Axe.md)          | 65 gp  | 2d6       | 20 / x4    | \-    | S      | <ul><li>\-</li></ul>                                       | Heavy, Axe, Metal                      |
+| [Great Boomerang](Great%20Boomerang.md)      | 10 gp  | 2d6       | 20 / x2    | 30 ft | B      | Nonlethal, Concussive                                      | Heavy, Hammer, Throwing, Metal or Wood |
+| [Harpoon](Harpoon.md)              | 5 gp   | 1d8       | 19-20 / x3 | 10 ft | P      | grapple                                                    | Heavy, Spear, Throwing, Metal          |
+| [Longaxe](Longaxe.md)              | 50 gp  | 2d6       | 20 / x3    | \-    | S      | Reach, disarm, strong                                      | Heavy, Axe, Polearm, Metal             |
+| [Longchain Flail](Longchain%20Flail.md)      | 50 gp  | 2d6       | 20 / x3    | \-    | B or P | Sunder, reach                                              | Heavy, Flail, Metal                    |
+| [Longhammer](Longhammer.md)           | 70 gp  | 2d6       | 20 / x3    | \-    | B      | Reach, sunder, strong                                      | Heavy, Hammer, Polearm, Metal          |
+| [Reinforced Accordion](Reinforced%20Accordion.md) | 35 gp  | 1d8/1d8   | x2         | \-    | B      | Attached, Blocking, Heavy Shield, Tool (Perform: Keyboard) | Double, Metal, Shield, Performance     |
+| [Seven-Branched Sword](Seven-Branched%20Sword.md) | 50 gp  | 1d8       | 20 / x3    | \-    | P & S  | Disarm, grapple                                            | Monastic, Heavy, Blade, Metal          |
+| [Tetsubo](Tetsubo.md)              | 20 gp  | 2d6       | 20 / x4    | \-    | B      | Sunder                                                     | Heavy, Hammer, Metal                   |
+| [Two-Bladed Axe](Two-Bladed%20Axe.md)       | 100 gp | 1d10/1d10 | 20 / x3    | \-    | S      | Double, Disarm                                             | Light, Axe, Metal                      |
+| [Two-Bladed Sword](Two-Bladed%20Sword.md)     | 100 gp | 1d8/1d8   | 19-20 x2   | \-    | S or P | Double, Blocking, Counterbalance                           | Light, Blade, Metal                    |
 
 
 ## Ranged Weapons
@@ -171,38 +171,38 @@ Below is a list of various weapons available within the Niche D20 system. See th
 ### Simple
 | Name                | Cost  | Dmg  | Crit       | Range  | Type | Special                           | Keywords                          |
 | ------------------- | ----- | ---- | ---------- | ------ | ---- | --------------------------------- | --------------------------------- |
-| [[Crossbow, Heavy|Crossbow, Heavy]] | 10 gp | 1d10 | 19-20 / x2 | 110 ft | P    | Full-Round                        | Projectile, Trigger, Wood         |
-| [[Crossbow, Light|Crossbow, Light]] | 8 gp  | 1d8  | 19-20 / x2 | 90 ft  | P    | Move                              | Projectile, Trigger, Wood         |
-| [[Dart Pipe|Dart Pipe]]       | 15 gp | 1d2  | 19-20/x3   | 10 ft  | P    | Free reload, Tool (Perform: Wind) | Projectile, Performance, Throwing |
-| [[Dart(5)|Dart(5)]]         | 5 gp  | 1d3  | 19-20 / x2 | 20 ft  | P    | Lightweight                       | Throwing                          |
-| [[Sling|Sling]]           | 4 gp  | 1d4  | 20 /x 3    | 50 ft  | B    | Reaction; Compact                 | Projectile, Sling, Throwing, Wood |
+| [Crossbow, Heavy](Crossbow,%20Heavy.md) | 10 gp | 1d10 | 19-20 / x2 | 110 ft | P    | Full-Round                        | Projectile, Trigger, Wood         |
+| [Crossbow, Light](Crossbow,%20Light.md) | 8 gp  | 1d8  | 19-20 / x2 | 90 ft  | P    | Move                              | Projectile, Trigger, Wood         |
+| [Dart Pipe](Dart%20Pipe.md)       | 15 gp | 1d2  | 19-20/x3   | 10 ft  | P    | Free reload, Tool (Perform: Wind) | Projectile, Performance, Throwing |
+| [Dart(5)](Dart(5).md)         | 5 gp  | 1d3  | 19-20 / x2 | 20 ft  | P    | Lightweight                       | Throwing                          |
+| [Sling](Sling.md)           | 4 gp  | 1d4  | 20 /x 3    | 50 ft  | B    | Reaction; Compact                 | Projectile, Sling, Throwing, Wood |
 
 
 ### Martial
 | Name                    | Cost   | Dmg | Crit       | Range  | Type | Special                             | Keywords                     |
 | ----------------------- | ------ | --- | ---------- | ------ | ---- | ----------------------------------- | ---------------------------- |
-| [[Double-Strung Harp|Double-Strung Harp]]  | 65 gp  | 1d8 | 19-20/x2   | 80 ft  | P    | Free reload; Tool (Perform: String) | Bow, Performance, Projectile |
-| [[Longbow, Composite|Longbow, Composite]]  | 400 gp | 1d8 | 20 / x3    | 100 ft | P    | Free                                | Projectile, Bow, Wood        |
-| [[Longbow|Longbow]]             | 50 gp  | 1d8 | 20 / x3    | 100 ft | P    | Free                                | Projectile, Bow, Wood        |
-| [[Shortbow, Composite|Shortbow, Composite]] | 120 gp | 1d6 | 19-20 / x2 | 60 ft  | P    | Free                                | Projectile, Bow, Wood        |
-| [[Shortbow|Shortbow]]            | 30 gp  | 1d6 | 19-20 / x2 | 60 ft  | P    | Free                                | Projectile, Bow, Wood        |
+| [Double-Strung Harp](Double-Strung%20Harp.md)  | 65 gp  | 1d8 | 19-20/x2   | 80 ft  | P    | Free reload; Tool (Perform: String) | Bow, Performance, Projectile |
+| [Longbow, Composite](Longbow,%20Composite.md)  | 400 gp | 1d8 | 20 / x3    | 100 ft | P    | Free                                | Projectile, Bow, Wood        |
+| [Longbow](Longbow.md)             | 50 gp  | 1d8 | 20 / x3    | 100 ft | P    | Free                                | Projectile, Bow, Wood        |
+| [Shortbow, Composite](Shortbow,%20Composite.md) | 120 gp | 1d6 | 19-20 / x2 | 60 ft  | P    | Free                                | Projectile, Bow, Wood        |
+| [Shortbow](Shortbow.md)            | 30 gp  | 1d6 | 19-20 / x2 | 60 ft  | P    | Free                                | Projectile, Bow, Wood        |
 
 
 ### Exotic
 | Name                      | Cost    | Dmg        | Crit                 | Range  | Type         | Special                                                         | Keywords                                              |
 | ------------------------- | ------- | ---------- | -------------------- | ------ | ------------ | --------------------------------------------------------------- | ----------------------------------------------------- |
-| [[Crossbow, Double|Crossbow, Double]]      | 300 gp  | 1d10       | 19-20 / x2           | 90 ft  | P            | See Description                                                 | Crossbow, Projectile, Trigger, Wood                   |
-| [[Crossbow, Hand|Crossbow, Hand]]        | 100 gp  | 1d4        | 18-20 / x2           | 50 ft  | P            | Reaction; Compact, Lightweight                                  | Crossbow, Projectile, Trigger, Wood                   |
-| [[Pistol Dagger|Pistol Dagger]]         | 1100 gp | 1d8 / 1d4  | 20 / x3 / 19-20 x2   | 50 ft  | B / P        | Standard; Combination, Compact, Lightweight / Concealed, Disarm | Firearm, Projectile Trigger / Light, Blade, Metal     |
-| [[Pistol Sword|Pistol Sword]]          | 1500 gp | 1d8 / 1d8  | 20 / x3 / 19-20 / x2 | 70 ft  | B / (P or S) | Standard, Combination, Compact                                  | Firearm, Projectile, Trigger / Balanced, Blade, Metal |
-| [[Pistol|Pistol]]                | 1000 gp | 1d8        | 20 / x4              | 70 ft  | B            | Standard, Compact, Lightweight                                  | Firearm, Projectile, Trigger, Metal                   |
-| [[Rifle Lance|Rifle Lance]]           | 2300 gp | 1d10 / 1d8 | 20 x3 / 20 x3        | 110 ft | B / P        | Full-Round; Combination / Brace, Reach                          | Firearm, Projectile, Trigger / Balanced, Spear, Metal |
-| [[Rifle|Rifle]]                 | 1800 gp | 1d10       | 20 / x4              | 110 ft | B            | Full-Round                                                      | Firearm, Projectile, Trigger, Metal                   |
-| [[Shuriken(5)|Shuriken(5)]]           | 1 gp    | 1d3        | 18-20 / x2           | 20 ft  | P            | Lightweight                                                     | Monastic, Throwing, Metal                             |
-| [[Sling Staff|Sling Staff]]           | 25 gp   | 1d8        | 20 / x3              | 90 ft  | B            | Reaction                                                        | Projectile, Sling, Throwing, Wood                     |
-| [[Warbow|Warbow]]                | 450 gp  | 2d6        | 20 / x3              | 100 ft | P            | Free                                                            | Projectile, Bow, Wood                                 |
-| [[Wrist Launcher, Heavy|Wrist Launcher, Heavy]] | 250 gp  | 1d6        | 19-20 / x2           | 70 ft  | P            | Free Action; Compact, Concealed, Attached                       | Crossbow, Projectile, Trigger, Wood                   |
-| [[Wrist Launcher|Wrist Launcher]]        | 200 gp  | 1d4        | 19-20 / x2           | 50ft   | P            | Free Action; Lightweight, Concealed, Attached                   | Crossbow,  Projectile, Trigger, Wood                  |
+| [Crossbow, Double](Crossbow,%20Double.md)      | 300 gp  | 1d10       | 19-20 / x2           | 90 ft  | P            | See Description                                                 | Crossbow, Projectile, Trigger, Wood                   |
+| [Crossbow, Hand](Crossbow,%20Hand.md)        | 100 gp  | 1d4        | 18-20 / x2           | 50 ft  | P            | Reaction; Compact, Lightweight                                  | Crossbow, Projectile, Trigger, Wood                   |
+| [Pistol Dagger](Pistol%20Dagger.md)         | 1100 gp | 1d8 / 1d4  | 20 / x3 / 19-20 x2   | 50 ft  | B / P        | Standard; Combination, Compact, Lightweight / Concealed, Disarm | Firearm, Projectile Trigger / Light, Blade, Metal     |
+| [Pistol Sword](Pistol%20Sword.md)          | 1500 gp | 1d8 / 1d8  | 20 / x3 / 19-20 / x2 | 70 ft  | B / (P or S) | Standard, Combination, Compact                                  | Firearm, Projectile, Trigger / Balanced, Blade, Metal |
+| [Pistol](Pistol.md)                | 1000 gp | 1d8        | 20 / x4              | 70 ft  | B            | Standard, Compact, Lightweight                                  | Firearm, Projectile, Trigger, Metal                   |
+| [Rifle Lance](Rifle%20Lance.md)           | 2300 gp | 1d10 / 1d8 | 20 x3 / 20 x3        | 110 ft | B / P        | Full-Round; Combination / Brace, Reach                          | Firearm, Projectile, Trigger / Balanced, Spear, Metal |
+| [Rifle](Rifle.md)                 | 1800 gp | 1d10       | 20 / x4              | 110 ft | B            | Full-Round                                                      | Firearm, Projectile, Trigger, Metal                   |
+| [Shuriken(5)](Shuriken(5).md)           | 1 gp    | 1d3        | 18-20 / x2           | 20 ft  | P            | Lightweight                                                     | Monastic, Throwing, Metal                             |
+| [Sling Staff](Sling%20Staff.md)           | 25 gp   | 1d8        | 20 / x3              | 90 ft  | B            | Reaction                                                        | Projectile, Sling, Throwing, Wood                     |
+| [Warbow](Warbow.md)                | 450 gp  | 2d6        | 20 / x3              | 100 ft | P            | Free                                                            | Projectile, Bow, Wood                                 |
+| [Wrist Launcher, Heavy](Wrist%20Launcher,%20Heavy.md) | 250 gp  | 1d6        | 19-20 / x2           | 70 ft  | P            | Free Action; Compact, Concealed, Attached                       | Crossbow, Projectile, Trigger, Wood                   |
+| [Wrist Launcher](Wrist%20Launcher.md)        | 200 gp  | 1d4        | 19-20 / x2           | 50ft   | P            | Free Action; Lightweight, Concealed, Attached                   | Crossbow,  Projectile, Trigger, Wood                  |
 
 
 ## Ammunition

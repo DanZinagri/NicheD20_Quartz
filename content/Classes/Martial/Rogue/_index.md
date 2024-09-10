@@ -46,7 +46,7 @@ If this is the character’s first level in a martial class, the rogue gains Due
 
 At 1st level the rogue may pick two niches that define type of rogue she wishes to be, gaining various the listed benefits. Each niche has an associated skill, the rogue treats their ranks in the associated skill as 5 higher for the purposes of qualifying for feats, or determining the effects of feats that rely on the ranks of the associated skill; this stacks with other abilities that would allow the rogue to treat their skill as possessing additional ranks, such as the Skill Focus feat.
 
-For a complete listing of Rogue Niches see [[List of Rogue Niches|List of Rogue Niches]]
+For a complete listing of Rogue Niches see [List of Rogue Niches](./List%20of%20Rogue%20Niches.md)
 ## Rogue’s Insight (Ex)
 
 A rogue knows the importance of where to strike. At 1st level as a 2 AP action the rogue may study a single enemy she can see. Upon doing so she adds half her rogue level as an insight bonus on attack and damage rolls (minimum 1). This effect lasts until that opponent is dead or the rogue studies a new target. This bonus to damage is precision damage. The rogue may spend 1 stamina to use this ability as a reaction. A rogue may only have one target studied in this way at a time, and studying a new target ends this effect immediately.
@@ -54,7 +54,7 @@ A rogue knows the importance of where to strike. At 1st level as a 2 AP action t
 
 A rogue gains access to new abilities that may aid and alter her in combat called Rogue Talents. At 2nd level the Rogue gains access to Rogue Talents when selecting class talents.
 
-For a complete listing of Rogue talents see [[List of Rogue Talents|List of Rogue Talents]]
+For a complete listing of Rogue talents see [List of Rogue Talents](./List%20of%20Rogue%20Talents.md)
 ## Nose For Danger (Ex)
 
 At 2nd level, a rogue gains a +1 dodge bonus to AC while wearing light or no armor, improving by an additional 1 every 4 rogue levels after 2nd. In addition the rogue is no longer flat-footed if she has not acted yet in combat. At 8th level, a rogue becomes immune to the flanked condition when attacked by creatures less than 4 hit dice higher than the rogue's hit dice.
@@ -77,7 +77,7 @@ At 4th level, and 8th level, the Rogue gains a bonus Skill feat of their choice 
 
 At 5th and 7th level, the Rogue gains access to a more powerful specialization known as a Improved Niche; expanding upon their Rogue Niches chosen at 1st level. You may select an additional Rouge's Niche instead of selecting an Improved Niche.
 
-For a complete listing of Improved Niches see [[List of Improved Niches|List of Improved Niches]]
+For a complete listing of Improved Niches see [List of Improved Niches](./List%20of%20Improved%20Niches.md)
 ## Skill Mastery
 
 At 6th level, the rogue becomes so confident in the use of certain skills that she can use them reliably even under adverse conditions. Upon gaining this ability, she selects a number of skills equal to her Intelligence modifier (minimum 1). When making a skill check with one of these skills, she may take 10 even if normally unable to do so.

@@ -63,12 +63,12 @@ While companions can take many forms a ranger’s animal companion should usuall
 
 At 2nd level the Ranger gains access to Ranger Talents when selecting class talents.
 
-For a complete listing of Ranger Talents see [[List of Ranger Talents|List of Ranger Talents]]
+For a complete listing of Ranger Talents see [List of Ranger Talents](./List%20of%20Ranger%20Talents.md)
 ## Animal Focus
 
 At 2nd level and every 2 levels thereafter the ranger may chose a single animal focus talent allowing them to further enhance the abilities of their companion.
 
-For a complete list of Foci see [[List of Animal Foci|List of Animal Foci]]
+For a complete list of Foci see [List of Animal Foci](./List%20of%20Animal%20Foci.md)
 ## Ranger's Mark (Ki)
 
 At 3rd level, the Ranger learns to supernaturally mark his foes making it more difficult for them to escape. Once per day, when hitting a target with an attack that the Ranger has successfully used Aim on the Ranger may spend 1 stamina as a reaction to mark the target. Once marked the foe is treated as being the target of the ranger's aim ability for the duration of the mark, and the ranger gains a +5 bonus on survival checks to track the target. This mark lasts for 1 hour per Ranger level. At 9th level the ranger may use this ability an additional time per day. Additional applications of this ability on a new target immediately ends the mark on the previous target.

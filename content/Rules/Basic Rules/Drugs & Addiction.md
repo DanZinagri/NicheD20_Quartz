@@ -6,7 +6,7 @@ title: Drugs & Addiction
 
 Drugs and alcohol function similarly to poisons in many ways. What mainly sets apart drugs from poisons is that drugs generally provide some benefit to the user in addition to a penalty and, although ingesting drugs is generally less deadly to the user than ingesting poison, prolonged or heavy drug use can be just as life-threatening and an addiction can be as debilitating as any disease.
 
-(For a list of various drugs available in this system see the [[Drugs|Drugs]] page)
+(For a list of various drugs available in this system see the [Drugs](../../Items/Drugs/_index.md) page)
 
 Each drug has a listed onset time, onset effect, effect, duration, and side-effects. Some drugs take effect immediately and have no listed onset time. Each drug only provides the listed effect when a full dose is administered, but a creature can still suffer the side-effects of a drug if they are exposed to less than a dose (such as by mishandling the drug).
 
