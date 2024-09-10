@@ -3,7 +3,7 @@ share: true
 title: Magic
 ---
 
-Below is the various magic classes of the system. For more information on magic classes please see the [[Magic Rules|Magic Rules]] page.
+Below is the various magic classes of the system. For more information on magic classes please see the [Magic Rules](../../Rules/Magic%20Rules/_index.md) page.
 
 ## Spell Prowess Bonus
 
@@ -11,6 +11,6 @@ Spell Prowess Bonus (SPB) is a representation of one level in casting classes. S
 
 | Class                               | HitDie | BAB  | BCB  | Type  |
 | ----------------------------------- | ------ | ---- | ---- | ----- |
+| [Wizard](/Classes/Magic/Wizard)     | d8     | 0.5  | 1    | Magic |
 | [Druid](/Classes/Magic/Druid)       | d10    | 0.75 | 0.75 | Magic |
 | [Sorcerer](/Classes/Magic/Sorcerer) | d8     | 0.5  | 0.5  | Magic |
-| [Wizard](/Classes/Magic/Wizard)     | d8     | 0.5  | 1    | Magic |
