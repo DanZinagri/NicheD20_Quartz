@@ -212,7 +212,7 @@ If a creature has damage reduction from more than one source, the two forms of d
 
 Damage is usually either Physical Damage or Elemental damage. The damage type is usually important for determining the interaction with a creature's defense and resistances either in the form of DR or Resist they may possess; though other special interactions may exist.
 
-See the [[Damage Types|Damage Types]] rule page for more detailed information on each damage type.
+See the [Damage Types](./Damage%20Types.md) rule page for more detailed information on each damage type.
 
 ### Strength Bonus
 
