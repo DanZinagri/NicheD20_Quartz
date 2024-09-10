@@ -46,7 +46,7 @@ At 1st level, the Weapon Master may add his weapon Master level to his Fighter l
 
 At 2nd level the Weapon Master gains access to Weapon Master Talents when selecting class talents.
 
-See [[Weapon Master Talents|Weapon Master Talents]] for a listing of Talents available for the Weapon Master class.
+See [Weapon Master Talents](./Weapon%20Master%20Talents/_index.md) for a listing of Talents available for the Weapon Master class.
 ## Martial Training
 
 At 2nd level and at every even level thereafter, a Weapon Master gains a bonus feat in addition to those gained from normal advancement. These bonus feats must be selected from those listed as Combat Feats or Martial feats.
