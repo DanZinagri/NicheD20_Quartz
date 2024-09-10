@@ -70,7 +70,7 @@ A sorcerer gains a magic talent according to their talents column (gaining ¾ of
 
 At 1st level, a sorcerer unlocks the power of his bloodline, a representation of innate magic gained through ritual or familial lineage that the sorcerer has learned to tap into. The sorcerer selects a single bloodline, the bloodline determines much about the sorcerer’s capabilities and progression going as far as changing his BCB, BAB, and even Hit dice. These are each listed on the selected bloodline, and apply immediately to the sorcerer upon acquisition. If a bloodline power calls for a save attack it is made at 1d20 + ½ SPB + CAM; the sorcerer may add any enhancement bonuses from his implement to this save attack.
 
-For a complete listing of sorcerer bloodlines, see [[Sorcerer Bloodlines|Sorcerer Bloodlines]]
+For a complete listing of sorcerer bloodlines, see [Sorcerer Bloodlines](./Sorcerer%20Bloodlines/_index.md)
 
 ## Innate Power (Su)
 
@@ -83,7 +83,7 @@ At 1st level, a sorcerer gains his bloodline’s bloodline trait. A bloodline tr
 
 At 2nd level and every 2 levels thereafter, the sorcerer may select a bloodline boon. These boons are selected from either from the table of general sorcerer bloodline boons, or boons granted by their specific bloodline. If a bloodline boon calls for a save attack it is made at 1d20 + ½ SPB + Charisma modifier; the sorcerer may add any enhancement bonuses from his implement to this save attack.
 
-For a complete listing of general bloodline boons, see [[List of General Sorcerer Bloodline Boons|List of General Sorcerer Bloodline Boons]]
+For a complete listing of general bloodline boons, see [List of General Sorcerer Bloodline Boons](./List%20of%20General%20Sorcerer%20Bloodline%20Boons.md)
 
 ## Improved Bloodline Trait (Su)
 
@@ -137,4 +137,4 @@ At 20th level, the sorcerer gains the Bloodline Manifestation ability of his blo
 
 Some classes have access to exclusive magic talents to further modify a spell in a unique way for their class.
 
-See [[List of Sorcerer Exclusive Magic Talents|List of Sorcerer Exclusive Magic Talents]]
+See [List of Sorcerer Exclusive Magic Talents](./List%20of%20Sorcerer%20Exclusive%20Magic%20Talents.md)
