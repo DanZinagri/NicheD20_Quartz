@@ -123,7 +123,7 @@ A character with Profession(Gambler) can perform the following tasks:
 
 **Linguist**(Foc)
 
-A character with Profession(Linguist) can perform the following tasks; much of these tasks are covered under the [[Languages and Literacy|Languages and Literacy]] page; while many of these behave similar to crafting, the monetary cost is usually low to negligible and thus tracking progress is usually not as viable with the gold per day system.
+A character with Profession(Linguist) can perform the following tasks; much of these tasks are covered under the [Languages and Literacy](../../Rules/Basic%20Rules/Languages%20and%20Literacy.md) page; while many of these behave similar to crafting, the monetary cost is usually low to negligible and thus tracking progress is usually not as viable with the gold per day system.
 
 - Writing longer or more complex documents.
 - Forging documents or signatures.
