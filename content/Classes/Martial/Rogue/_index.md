@@ -6,7 +6,6 @@ tags:
 PageType: Class
 HitDie: d10
 Type: Martial
-BAB: 0.75
 title: Rogue
 ---
 # Class Details:
@@ -14,18 +13,18 @@ title: Rogue
 Hit Die: d10
 Type: Martial
 
-| Level | Special                                                  |
-| ----- | -------------------------------------------------------- |
-| 1st   | Rogue’s Footing, Stamina, Rogue’s Insight, Rogue’s Niche |
-| 2nd   | Nose for Danger +1                                       |
-| 3rd   | Evasion, Sneak Attack(1d6);                              |
-| 4th   | Skillful(1)                                              |
-| 5th   | Improved Niche(1), Sneak Attack(2d6)                     |
-| 6th   | Skill Mastery, Nose for Danger +2                        |
-| 7th   | Light Steps, Improved Niche(2)                           |
-| 8th   | Skillful(2), Stalker                                     |
-| 9th   | Mobile Combatant                                         |
-| 10th  | Perfect Dodge, Sneak Attack(3d6), Nose for Danger +3     |
+| Level | Special                                                                   |
+| ----- | ------------------------------------------------------------------------- |
+| 1st   | Rogue’s Footing, Stamina, Rogue’s Insight(+1), Rogue’s Niche              |
+| 2nd   | Nose for Danger +1                                                        |
+| 3rd   | Evasion, Sneak Attack(1d6)                                                |
+| 4th   | Skillful(1), Rogue’s Insight(+2)                                          |
+| 5th   | Improved Niche(1), Sneak Attack(2d6)                                      |
+| 6th   | Skill Mastery, Nose for Danger +2                                         |
+| 7th   | Light Steps, Improved Niche(2), Rogue’s Insight(+3)                       |
+| 8th   | Skillful(2), Stalker                                                      |
+| 9th   | Mobile Combatant                                                          |
+| 10th  | Perfect Dodge, Sneak Attack(3d6), Nose for Danger +3, Rogue’s Insight(+4) |
 
 # Class Features
 
@@ -49,7 +48,7 @@ At 1st level the rogue may pick two niches that define type of rogue she wishes 
 For a complete listing of Rogue Niches see [List of Rogue Niches](./List%20of%20Rogue%20Niches.md)
 ## Rogue’s Insight (Ex)
 
-A rogue knows the importance of where to strike. At 1st level as a 2 AP action the rogue may study a single enemy she can see. Upon doing so she adds half her rogue level as an insight bonus on attack and damage rolls (minimum 1). This effect lasts until that opponent is dead or the rogue studies a new target. This bonus to damage is precision damage. The rogue may spend 1 stamina to use this ability as a reaction. A rogue may only have one target studied in this way at a time, and studying a new target ends this effect immediately.
+A rogue knows the importance of where to strike. At 1st level as a 2 AP action the rogue may study a single enemy she can see. Upon doing so she gains a +1 insight bonus to attack and damage rolls against the studied creature. This effect lasts until that opponent is dead or the rogue studies a new target. This bonus to damage is precision damage. The rogue may spend 1 stamina to use this ability as a reaction. A rogue may only have one target studied in this way at a time, and studying a new target ends this effect immediately. This bonus improves by +1 at 4th level and every 3 thereafter.
 ## Rogue Talents (Ex)
 
 A rogue gains access to new abilities that may aid and alter her in combat called Rogue Talents. At 2nd level the Rogue gains access to Rogue Talents when selecting class talents.

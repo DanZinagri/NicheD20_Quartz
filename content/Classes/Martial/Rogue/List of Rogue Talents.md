@@ -1,5 +1,8 @@
 ---
 share: true
+tags:
+  - Class
+  - Rogue
 ---
  If a talent calls for a save attack it is made at 1d20 + Base Attack Bonus + her Focus modifier. The rogue may add her weapon’s enhancement bonus to this save attack.
 | Name                    | Prerequisite              | Description                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
