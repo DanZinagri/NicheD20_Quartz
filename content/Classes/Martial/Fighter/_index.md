@@ -55,7 +55,7 @@ For a complete listing of fighter talents see [List of Fighter Talents](./List%2
 
 ## Armor Focus
 
-At 3rd level, a fighter learns to focus into either light or heavy armor to further draw upon the strengths and minimize the weaknesses of each. A fighter selects one of the following:
+At 3rd level, a fighter learns to focus in a style of armor to further draw upon the strengths and minimize the weaknesses of each. A fighter selects one of the following:
 
 | Name              | Description                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
 | ----------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
