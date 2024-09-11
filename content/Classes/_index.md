@@ -10,9 +10,9 @@ This page links to the various classes in the NicheD20 system:
 | [Battlemage](/Classes/Hybrid/Battlemage.md)          | d12    | 1    | 0.5  | Hybrid  |
 | [Grim Knight](/Classes/Hybrid/Grim%20Knight.md)         | d12    | 1    | 0.5  | Hybrid  |
 | [Magus](/Classes/Hybrid/Magus.md)               | d10    | 1    | 0.75 | Hybrid  |
-| [Magic](/Classes/Magic.md)                      | d10    | 0.75 | 0.75 | Magic   |
-| [Magic](/Classes/Magic.md)                      | d8     | 0.5  | 0.5  | Magic   |
-| [Magic](/Classes/Magic.md)                      | d8     | 0.5  | 1    | Magic   |
+| [Druid](/Classes/Magic/Druid.md)                | d10    | 0.75 | 0.75 | Magic   |
+| [Sorcerer](/Classes/Magic/Sorcerer.md)             | d8     | 0.5  | 0.5  | Magic   |
+| [Wizard](/Classes/Magic/Wizard.md)               | d8     | 0.5  | 1    | Magic   |
 | [Barbarian](/Classes/Martial/Barbarian.md)          | d12    | 1    | \-   | Martial |
 | [Blade Binder](/Classes/Martial/Blade%20Binder.md)       | d12    | 1    | \-   | Martial |
 | [Duelist](/Classes/Under%20Construction/Duelist.md) | d10    | 0.75 | \-   | Martial |
