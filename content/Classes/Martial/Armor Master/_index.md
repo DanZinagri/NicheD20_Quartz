@@ -5,7 +5,6 @@ tags:
 PageType: Class
 HitDie: d12
 Type: Martial
-BAB: 1
 share: true
 title: Armor Master
 Prerequisites: Fighter 3rd, BAB +8
