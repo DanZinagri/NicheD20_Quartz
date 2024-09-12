@@ -6,7 +6,6 @@ tags:
 PageType: Class
 HitDie: d8
 Type: Magic
-BAB: 0.5
 BCB: 1
 title: Wizard
 ---
