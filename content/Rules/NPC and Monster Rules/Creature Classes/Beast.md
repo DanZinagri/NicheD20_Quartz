@@ -32,7 +32,7 @@ The following are class features of a Beast.
 
 A beast is proficient with no weapons or armor.
 
-<h3><a href="/NicheD20/Combat%20Rules/Combat%20Statistics/#stamina">Stamina</a> (Ex)</h3>
+<h3><a href="/NicheD20/Combat%20Rules/Combat%20Statistics#stamina">Stamina</a> (Ex)</h3>
 
 At 1st level, a beast gains access to a pool of stamina points that allow them to perform feats of strength and agility. This pool contains a number of stamina points equal to their Endurance modifier plus their levels in martial classes (minimum 1). This pool replenishes once per day after a long rest.
 

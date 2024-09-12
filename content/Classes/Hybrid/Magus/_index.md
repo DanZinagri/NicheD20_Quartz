@@ -54,7 +54,7 @@ If this is the character’s first level in a casting class he gains a single di
 A magus may choose a single Strength, Agility, or Endurance based skill; they gain an additional bonus rank in this chosen skill for each level in magus.
 ## Mystic Pool
 
-A magus learns to push their natural energies to create both the magical and extraordinary. This pool contains a number of points equal to his levels in magus. A mystic pool may be used as a <a href="/Rules/Combat%20Rules/Combat%20Statistics/#stamina">stamina</a> or a spell point pool, though it does not stack with either when determining the size of either pool. Similar to a stamina and spell point pool, a mystic pool restores itself after a long rest.
+A magus learns to push their natural energies to create both the magical and extraordinary. This pool contains a number of points equal to his levels in magus. A mystic pool may be used as a <a href="/Rules/Combat%20Rules/Combat%20Statistics#stamina">stamina</a> or a spell point pool, though it does not stack with either when determining the size of either pool. Similar to a stamina and spell point pool, a mystic pool restores itself after a long rest.
 
 At 3rd level and every 3 levels thereafter the mystic pool’s size increases by an additional 1. If he obtains a mystic pool from another class or source he may combine the pools and their levels to determine the total capacity of the mystic pool. If this is the character’s first level in a class their mystic pool’s capacity increases by an additional 2.
 
