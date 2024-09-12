@@ -14,18 +14,18 @@ title: Fighter
 Hit Die: d12
 Type: Martial
 
-| Level | Special                                                |
-| ----- | ------------------------------------------------------ |
-| 1st   | Martial Training, Combat Stance, Stamina               |
-| 2nd   | Fighter Talents, Martial Training, Martial Flexibility |
-| 3rd   | Armor Focus                                            |
-| 4th   | Armed Expertise, Martial Training                      |
-| 5th   | Weapon Training, Martial Flexibility(2)                |
-| 6th   | Martial Training                                       |
-| 7th   | Signature Feat                                         |
-| 8th   | Martial Training                                       |
-| 9th   | Stance Expertise                                       |
-| 10th  | Greater Stamina, Martial Training                      |
+| Level | Special                                                  |
+| ----- | -------------------------------------------------------- |
+| 1st   | Martial Training, Combat Stance, Stamina                 |
+| 2nd   | Fighter Talents, Martial Training, Fighter's Flexibility |
+| 3rd   | Armor Focus                                              |
+| 4th   | Armed Expertise, Martial Training                        |
+| 5th   | Weapon Training                                          |
+| 6th   | Martial Training                                         |
+| 7th   | Signature Feat                                           |
+| 8th   | Martial Training, Fighter's Flexibility(2)               |
+| 9th   | Stance Expertise                                         |
+| 10th  | Greater Stamina, Martial Training                        |
 
 # Class Features
 
@@ -46,7 +46,9 @@ At 1st, 2nd, and at every even level thereafter, a fighter gains a bonus feat in
 
 At 2nd level, a fighter may spend 1 stamina as a 2 AP action to gain the benefit of a single martial or combat feat he qualifies for but does not possess for 1 minute. Additional uses of this ability replaces the feat with a different choice; while also refreshing the duration of the ability to the full minute again. If a feat has a use limitation, any uses of that combat feat while using this ability count toward that feat’s limit, even if that feat is lost and regained at a later point in the same day.
 
-At 8th level, the fighter may use this ability to gain the benefit of feats at the same time instead of one; the fighter may use one of the feats to meet a prerequisite of the second feat. At 12th level the AP cost of this ability is reduced by 1. At 15th level this improves to three feats. At 20th level this improves to four feats.
+At 8th level, the fighter may use this ability to gain the benefit of multiple feats at the same time instead of one; the fighter may use one of the feats to meet a prerequisite of the second feat. At 12th level the AP cost of this ability is reduced by 1. At 15th level and every 5 levels thereafter the number of feats able to be gained by this feat improves by an additional 1. 
+
+(Authors Note: While Fighter ends at 10th, some Advanced Classes may continue the progression of this feature.)
 ## Fighter Talent
 
 At 2nd level the Fighter gains access to Fighter Talents when selecting class talents.
