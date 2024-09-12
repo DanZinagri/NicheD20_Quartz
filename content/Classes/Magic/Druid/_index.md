@@ -6,7 +6,6 @@ tags:
 PageType: Class
 HitDie: d10
 Type: Magic
-BAB: 0.75
 BCB: 0.75
 title: Druid
 ---
