@@ -35,7 +35,7 @@ The following are class features of the Weapon Master.
 Weapon Master gain no additional proficiencies with any weapon or armor.
 ## Stamina
 
-At 1st level, a Weapon Master gains access to a pool of <a href="/Rules/Combat%20Rules/Combat%20Statistics/#stamina">stamina</a> points that allow him to perform feats of strength and agility. This pool contains a number of stamina points equal to his Endurance modifier plus levels in martial classes (minimum 1). This pool replenishes once per day after a long rest.
+At 1st level, a Weapon Master gains access to a pool of <a href="/Rules/Combat%20Rules/Combat%20Statistics#stamina">stamina</a> points that allow him to perform feats of strength and agility. This pool contains a number of stamina points equal to his Endurance modifier plus levels in martial classes (minimum 1). This pool replenishes once per day after a long rest.
 ## Improved Weapon Training
 
 At 1st level, the Weapon Master may add his Weapon Master levels to his Fighter levels for the purposes of determining the bonuses from his Weapon Training class feature. In addition, the bonus to damage from Weapon Training may now be multiplied on a critical hit.
