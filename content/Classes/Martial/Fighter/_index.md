@@ -35,7 +35,7 @@ The following are class features of the fighter.
 A fighter is proficient with all simple weapons and armor. If this is the character’s first level in a class he gains proficiency in all martial weapons and armor.
 ## Stamina
 
-At 1st level, a fighter gains access to a pool of <a href="/Rules/Combat%20Rules/Combat%20Statistics/#stamina">stamina</a> points that allow him to perform feats of strength and agility. This pool contains a number of stamina points equal to his Endurance modifier plus his levels in martial classes (minimum 1). This pool replenishes once per day after a long rest.
+At 1st level, a fighter gains access to a pool of <a href="/Rules/Combat%20Rules/Combat%20Statistics#stamina">stamina</a> points that allow him to perform feats of strength and agility. This pool contains a number of stamina points equal to his Endurance modifier plus his levels in martial classes (minimum 1). This pool replenishes once per day after a long rest.
 ## Combat Stance
 
 If this is the character’s first level in a martial class, the fighter gains two bonus stance feats of their choice that they qualify for.
@@ -86,7 +86,7 @@ At 7th level, a fighter may select a single feat he possesses, he may treat his 
 At 9th level, the fighter learns to maintain two stances at once; and may enter two stances at once using a single reaction when first entering a stance. If the fighter possesses the Stance Mastery combat feat or later gains it he may treat the number of stances he is attempting to maintain as one lower for the purposes of determining the number of reactions required the maintain the additional stances. 
 ## Greater Stamina
 
-At 10th level, the fighter gains improvements to the <a href="/Rules/Combat%20Rules/Combat%20Statistics/#stamina">stamina</a> abilities available to those with a stamina pool.
+At 10th level, the fighter gains improvements to the <a href="/Rules/Combat%20Rules/Combat%20Statistics#stamina">stamina</a> abilities available to those with a stamina pool.
 
 - Second Wind: Once per day, when the fighter uses a second wind he may spend an additional stamina point to instead gain his Endurance modifier per 2 hit dice as direct healing, with healing over his maximum hit points being applied as Temporary hit points that last for 1 minute.
 - Extra Effort: A number of times per day equal to the fighter's Intelligence modifier (minimum 1) he may apply this ability to an attack roll or save attack; this must be done before the result of the attack or save attack has been revealed.
