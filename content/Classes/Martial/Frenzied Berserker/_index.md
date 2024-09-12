@@ -36,7 +36,7 @@ The following are class features of the Frenzied Berserker.
 Frenzied Berserker gain no additional proficiencies with any weapon or armor.
 ## Stamina
 
-At 1st level, a Frenzied Berserker gains access to a pool of <a href="/Rules/Combat%20Rules/Combat%20Statistics/#stamina">stamina</a> points that allow him to perform feats of strength and agility. This pool contains a number of stamina points equal to his Endurance modifier plus levels in martial classes (minimum 1). This pool replenishes once per day after a long rest.
+At 1st level, a Frenzied Berserker gains access to a pool of <a href="/Rules/Combat%20Rules/Combat%20Statistics#stamina">stamina</a> points that allow him to perform feats of strength and agility. This pool contains a number of stamina points equal to his Endurance modifier plus levels in martial classes (minimum 1). This pool replenishes once per day after a long rest.
 ## Berserker
 
 At 1st level, The Frenzied Berserker learns to throw caution to the wind, choosing to explore the depths of your rage. While raging and in power stance you gain an additional +1 to damage for every -1 penalty you take on your attack rolls with power stance (this is added to the damage of power stance before it is increased by an additional 50% for a weapon in 2h or a 1-1/2x Str damage weapon)
