@@ -123,8 +123,3 @@ To complete an item you have gained enough progress for, the crafter must make a
 Different equipment such as weapons, shields, armor, and implements have their own specific special abilities they can be applied to them, ranging in cost from +1 to +5 similar to the weapon enhancement bonus. While the pluses by themselves do not provide a specific benefit they are used to limit the quantity and individual power of special abilities that can be placed onto a single piece of equipment.
 
 Unless otherwise specified you may not add a single special ability more than once.
-
-- #### List of [Weapon Special Abilities](./Weapon%20Special%20Abilities.md)
-- #### List of [Shield Special Abilities](./Shield%20Special%20Abilities.md)
-- #### List of [Armor Special Abilities](./Armor%20Special%20Abilities.md)
-- #### List of [Implement Special Abilities](./Implement%20Special%20Abilities.md)
