@@ -75,10 +75,10 @@ Characters gain a basic progression as they level of Racial, Skill, any a catego
 A character gains a feat of any type they qualify for at every odd level (1st, 3rd, 5th, etc..). This type of feat can be any feat from Magic, Martial, Combat, Racial, Skill, or any other feat that the character meets the prerequisites for. Granting a character a total of 10 “Any” feats by 20th level.
 ### Skill Feats
 
-Skill feats are gained at 1st, 5th, and every 5 levels thereafter (1, 5, 10, 15, 20) gaining a total of 5 skill feats by 20th level. These feats must always be selected from the skill feat category.
+Skill feats are gained at 1st, 5th, and every 5 levels thereafter (1, 5, 10, 15, 20, 25, 30, 35, 40) gaining a total of 9 skill feats by 40th level. These feats must always be selected from the skill feat category.
 ### Racial Feats
 
-Racial feats are gained at 1st, 4th, and every 3 levels thereafter (1, 4, 7, 10, etc..) gaining a total of 7 racial feats by 20th level. These feats must always be selected from the racial feat category, either for your specific race/heritage, or the general race feats that can be taken by any race.
+Racial feats are gained at 1st, 4th, and every 3 levels thereafter (1, 4, 7, 10, etc..) gaining a total of 14 racial feats by 40th level. These feats must always be selected from the racial feat category, either for your specific race/heritage, or the general race feats that can be taken by any race.
 ### Bonus Feats
 As a character advances in level, they may gain bonus feats from class features or other sources. Unless otherwise specified, when a bonus feat is granted the character must meet all prerequisites for that feat; this does not change regardless of whether a specific feat is granted or if the character is allowed to select a feat (whether from a category such as martial feats, or a list of specific feats).
 
