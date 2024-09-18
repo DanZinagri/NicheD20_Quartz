@@ -59,7 +59,6 @@ Meta talents is the overall term used to describe talents that can apply to almo
 | ---------------------------------------------------------------- | ------------ |
 | [Anchored Spell](/Magic/Universal Talents/Meta/Anchored Spell)   | \-           |
 | [Delayed Magic](/Magic/Universal Talents/Meta/Delayed Magic)     | \-           |
-| [Diagram Spell](/Magic/Universal Talents/Meta/Diagram Spell)     | \-           |
 | [Empower Spell](/Magic/Universal Talents/Meta/Empower Spell)     | \-           |
 | [Extend Spell](/Magic/Universal Talents/Meta/Extend Spell)       | \-           |
 | [Focused Spell](/Magic/Universal Talents/Meta/Focused Spell)     | \-           |
