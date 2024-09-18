@@ -1,15 +1,15 @@
 ---
 share: true
 ---
-### Distances
+## Distances
 
-Many spells and some class features use the terms close, medium and long as indicators for range. Some class features may use class levels or hit die in place of BCB to determine the power of an ability.
+Many spells, and even some class features; use the terms close, medium, and long as indicators for range. Some class features may use class levels or hit die in place of BCB to determine the power of an ability, though will specify if scaling on something besides BCB.
 
-|Name|Range|
-|---|---|
-|Close|25 feet + 5 feet per two BCBs.|
-|Medium|100 feet + 10 feet per BCB.|
-|Long|400 feet + 40 feet per BCB.|
+| Distance Type | Range                         |
+| ------------- | ----------------------------- |
+| Close         | 25 feet + 5 feet per two BCB. |
+| Medium        | 100 feet + 10 feet per BCB.   |
+| Long          | 400 feet + 40 feet per BCB.   |
 
 ### Aiming a Spell
 
