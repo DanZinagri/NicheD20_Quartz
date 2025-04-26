@@ -2,7 +2,6 @@
 spell: Telekinetic Grasp
 tags:
   - Spell
-  - Void-Affinity-Spell
 fileClass:
   - Spell
 share: true
