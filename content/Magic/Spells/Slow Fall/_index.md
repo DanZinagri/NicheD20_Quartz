@@ -7,8 +7,6 @@ share: true
 title: Slow Fall
 tags:
   - Spell
-  - Air-Affinity-Spell
-  - Void-Affinity-Spell
 target: One creature per 3 BCB, no two may be more than 20 feet apart.
 duration: 1 round/level
 range: Close

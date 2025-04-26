@@ -7,7 +7,6 @@ share: true
 title: Phalanx
 tags:
   - Spell
-  - Cold-Affinity-Spell
 target: 1 object that provides a shield bonus to AC
 duration: 1 round per BCB
 range: Personal

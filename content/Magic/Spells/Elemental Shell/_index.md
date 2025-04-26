@@ -2,7 +2,6 @@
 spell: Elemental Shell
 tags:
   - Spell
-  - Other-Affinity-Spell
 fileClass:
   - Spell
 share: true

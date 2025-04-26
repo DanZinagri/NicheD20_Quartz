@@ -7,7 +7,6 @@ share: true
 title: Blight Touch
 tags:
   - Spell
-  - Decay-Affinity-Spell
 target: One creature
 duration: 1 round per BCB (see description)
 range: Touch

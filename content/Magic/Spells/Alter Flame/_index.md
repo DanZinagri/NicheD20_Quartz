@@ -7,7 +7,6 @@ share: true
 title: Alter Flame
 tags:
   - Spell
-  - Fire-Affinity-Spell
 target: One Flame (See Text)
 duration: (See Text)
 range: Close

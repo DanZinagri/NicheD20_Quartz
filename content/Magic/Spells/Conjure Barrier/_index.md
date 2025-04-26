@@ -7,7 +7,6 @@ share: true
 title: Conjure Barrier
 tags:
   - Spell
-  - Cold-Affinity-Spell
 target: One creature.
 duration: Concentration or 1 minute per BCB (see description)
 range: Touch

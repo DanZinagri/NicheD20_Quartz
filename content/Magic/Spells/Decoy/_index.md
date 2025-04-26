@@ -7,7 +7,6 @@ share: true
 title: Decoy
 tags:
   - Spell
-  - Fire-Affinity-Spell
 target: Self
 duration: Concentration or 1 minute per BCB (see description)
 range: Personal

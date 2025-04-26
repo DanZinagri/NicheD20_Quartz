@@ -2,7 +2,6 @@
 spell: Grasping Vines
 tags:
   - Spell
-  - Nature-Affinity-Spell
 fileClass:
   - Spell
 share: true

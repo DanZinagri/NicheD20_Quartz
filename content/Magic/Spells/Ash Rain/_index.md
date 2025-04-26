@@ -7,7 +7,6 @@ share: true
 title: Ash Rain
 tags:
   - Spell
-  - Fire-Affinity-Spell
 target: Cylinder (40-ft. Radius + 5 feet per 4 BCB, 20 ft. high)
 duration: Concentration or 1 round per BCB(see description)
 range: Long

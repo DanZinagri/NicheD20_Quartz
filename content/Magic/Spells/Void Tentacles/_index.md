@@ -2,7 +2,6 @@
 spell: Void Tentacles
 tags:
   - Spell
-  - Void-Affinity-Spell
 fileClass:
   - Spell
 share: true

@@ -7,7 +7,6 @@ share: true
 title: Sleep
 tags:
   - Spell
-  - Cold-Affinity-Spell
 target: One creature.
 duration: 1 minute per BCB
 range: Close

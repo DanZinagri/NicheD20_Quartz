@@ -7,7 +7,6 @@ share: true
 title: Cleanse
 tags:
   - Spell
-  - Water-Affinity-Spell
 target: One creature
 duration: Instantaneous
 range: Touch

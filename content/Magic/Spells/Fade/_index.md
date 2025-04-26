@@ -7,7 +7,6 @@ share: true
 title: Fade
 tags:
   - Spell
-  - Fire-Affinity-Spell
 target: One creature.
 duration: Concentration or 1 minute per BCB (see description)
 range: Touch

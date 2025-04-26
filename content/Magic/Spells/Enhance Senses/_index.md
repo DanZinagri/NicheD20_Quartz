@@ -2,7 +2,6 @@
 spell: Enhance Senses
 tags:
   - Spell
-  - Nature-Affinity-Spell
 fileClass:
   - Spell
 share: true

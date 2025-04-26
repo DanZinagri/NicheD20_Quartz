@@ -7,7 +7,6 @@ share: true
 title: Life Thief
 tags:
   - Spell
-  - Decay-Affinity-Spell
 target: Creature touched
 duration: 1 round per BCB; or until discharged
 range: Touch

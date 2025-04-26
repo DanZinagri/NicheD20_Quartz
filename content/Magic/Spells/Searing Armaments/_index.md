@@ -2,7 +2,6 @@
 spell: Searing Armaments
 tags:
   - Spell
-  - Fire-Affinity-Spell
 fileClass:
   - Spell
 share: true

@@ -2,7 +2,6 @@
 spell: Wave Surge
 tags:
   - Spell
-  - Water-Affinity-Spell
 fileClass:
   - Spell
 share: true

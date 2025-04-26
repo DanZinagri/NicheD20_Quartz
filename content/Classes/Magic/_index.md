@@ -11,6 +11,6 @@ Spell Prowess Bonus (SPB) is a representation of one level in casting classes. S
 
 | Class                               | HitDie | BCB  | Type  |
 | ----------------------------------- | ------ | ---- | ----- |
-| [Sorcerer](/Classes/Magic/Sorcerer) | d8     | 0.5  | Magic |
 | [Wizard](/Classes/Magic/Wizard)     | d8     | 1    | Magic |
+| [Sorcerer](/Classes/Magic/Sorcerer) | d8     | 0.5  | Magic |
 | [Druid](/Classes/Magic/Druid)       | d10    | 0.75 | Magic |

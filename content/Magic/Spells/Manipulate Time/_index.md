@@ -7,8 +7,6 @@ share: true
 title: Manipulate Time
 tags:
   - Spell
-  - Decay-Affinity-Spell
-  - Cold-Affinity-Spell
 target: one creature
 duration: 1 round per BCB
 range: close (25 ft. + 5 ft./2 BCB)

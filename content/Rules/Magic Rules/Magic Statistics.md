@@ -5,10 +5,50 @@ share: true
 
 Base Casting Bonus (BCB) is a representation of your prowess as a caster. Similar to base attack bonus, not all base casting bonuses are equal between classes. As a result this doesn’t inherently mean a lower BCB character will be bad a casting, but they may lack access to some of the more complex castings on their high casting counterparts; this is usually balanced by lower BCB having higher BAB and high BCB having low BAB allowing for the mixture of magic and martial to be a higher or lower focus of the character.
 
-#### Undercasting
+Casters are broken down into High and Low casters with a High Caster getting 0.5 BCB per level (rounded up to a minimum of 1) while a Low Caster will scale at 0.25 BCB per level.
 
-You may cast a spell intentionally at a diminished effect at less than your maximum Base Casing Bonus, Casting Ability Modifier, or even Spell Prowess Bonus. You cannot reduce your Base Casting Bonus or Spell Prowess Bonus below 1 when undercasting. These decisions are made before the spell is cast.
-
+| Level | Low Caster BCB | High Caster BCB |
+| ----- | -------------- | --------------- |
+| 1st   | +0.25(1)       | +0.5(1)         |
+| 2nd   | +0.5(1)        | +1              |
+| 3rd   | +0.75(1)       | +1.5            |
+| 4th   | +1             | +2              |
+| 5th   | +1.25          | +2.5            |
+| 6th   | +1.5           | +3              |
+| 7th   | +1.75          | +3.5            |
+| 8th   | +2             | +4              |
+| 9th   | +2.25          | +4.5            |
+| 10th  | +2.5           | +5              |
+| 11th  | +2.75          | +5.5            |
+| 12th  | +3             | +6              |
+| 13th  | +3.25          | +6.5            |
+| 14th  | +3.5           | +7              |
+| 15th  | +3.75          | +7.5            |
+| 16th  | +4             | +8              |
+| 17th  | +4.25          | +8.5            |
+| 18th  | +4.5           | +9              |
+| 19th  | +4.75          | +9.5            |
+| 20th  | +5             | +10             |
+| 21st  | +5.25          | +10.5           |
+| 22nd  | +5.5           | +11             |
+| 23rd  | +5.75          | +11.5           |
+| 24th  | +6             | +12             |
+| 25th  | +6.25          | +12.5           |
+| 26th  | +6.5           | +13             |
+| 27th  | +6.75          | +13.5           |
+| 28th  | +7             | +14             |
+| 29th  | +7.25          | +14.5           |
+| 30th  | +7.5           | +15             |
+| 31st  | +7.75          | +15.5           |
+| 32nd  | +8             | +16             |
+| 33rd  | +8.25          | +16.5           |
+| 34th  | +8.5           | +17             |
+| 35th  | +8.75          | +17.5           |
+| 36th  | +9             | +18             |
+| 37th  | +9.25          | +18.5           |
+| 38th  | +9.5           | +19             |
+| 39th  | +9.75          | +19.5           |
+| 40th  | +10            | +20             |
 #### Penalties to Base Casting Bonus
 
 If an effect would reduce a caster’s BCB below 1 a creature becomes unable to cast; if this would occur as part of casting instead the spell is interrupted and is lost.
@@ -45,12 +85,53 @@ Some spells or effects might call for a SPB check against a spell or effect. Thi
 
 ## Spell Pool & Spell Points
 
-A spell pool is a resource pool that casters use to create various spell effects each day. A spell pool contains a number of points determined by the character’s levels in casting classes + their Casting ability modifier. Hybrid classes do not count as casting classes for the purposes of determining capacity of their spell pool despite usually granting a SPB value. Unless otherwise specified, a spell pool replenishes each day after a long rest.
+A spell pool is a resource pool that casters use to create various spell effects each day. Unless otherwise specified, a spell pool replenishes each day after a long rest. A spell pool contains a number of points determined by BCB which is broken down into tiers. Generally a character gains 4 spell points per BCB from 1-5, 6 from 5-10, 8 from 11-15, 10 from 16-20). See the table below for spell points from BCB:
 
-Temporary adjustments to an ability score, such as through bonuses or penalties, do not affect a creature's current or maximum spell points. Permanent adjustments to an ability score may increase the maximum but do not grant bonus spell points until the creature properly rests to regain the spell points. Permanent adjustments that reduce the maximum only reduce a creature's current spell points if the maximum would become lower than the creature's current spell points, reducing the current to the maximum value currently for the spell pool.
+| Base Casting Bonus | Spell Points |
+| ------------------ | ------------ |
+| 1                  | 4            |
+| 2                  | 8            |
+| 3                  | 12           |
+| 4                  | 16           |
+| 5                  | 20           |
+| 6                  | 26           |
+| 7                  | 32           |
+| 8                  | 38           |
+| 9                  | 44           |
+| 10                 | 50           |
+| 11                 | 58           |
+| 12                 | 66           |
+| 13                 | 74           |
+| 14                 | 82           |
+| 15                 | 90           |
+| 16                 | 100          |
+| 17                 | 110          |
+| 18                 | 120          |
+| 19                 | 130          |
+| 20                 | 140          |
+The above table means that the spell points are additive and the tier increase is not retroactive and instead means the 1st 5 BCB don't grant as much as the next 5 do. This effectively breaks down to 20 points from the first 5, 30 from the next 5, 40 for the next, and finally 50 for the next. This is for BCB and temporary adjustments to BCB do not modify this value. In addition its important to note this is BCB not Level and thus most characters will see increases to spell points at every 2 character levels as a high caster and every 4 levels as a low caster.
+
+In addition to this a character receives a number of additional points equal to their Casting Ability Modifier(CAM). This can provide additional scaling to a character as their levels increase though generally is a larger portion of your points in the early levels than late.
+
+Thus a character with a CAM of 4 would have 8 spell points at 1st level, improving to 12 at 2nd caster level.
+
+Temporary adjustments to an ability score, such as through bonuses or penalties, do not affect a creature's current or maximum spell points. Permanent adjustments to an ability score may increase the maximum but do not grant bonus spell points until the creature properly rests to regain the spell points. Permanent adjustments that reduce the maximum will only reduce a creature's current spell points if the maximum would become lower than the creature's current spell points, reducing the current to the maximum value currently for the spell pool.
+
+#### Spell Costs
+
+Each spell will detail its cost, though generally most spells that have a cost will cost 1 point per caster level of the spell to cast. Thus a 1st level spell will only cost 1, but a 20th level spell will cost 20 points to represent that larger amount of magic and power.
+
+Some spells or talents that modify them will have additional costs listed that may need to be paid. Unless specified these usually modify the spell in some way and have their own scaling or cost separate from any base costs of the spell.
 
 Not all spells have a spell point cost associated with them and thus usually can be cast without a limit per day. For spells with a cost, the cost should be deducted from your spell pool usually either at the time the spell was prepared or was cast (see the casting type section for more details). Some spells or modifiers to spells may incur additional spell point costs for the effect; the casting must be able to pay the entire spell point cost to cast this spell.
 
+#### Undercasting
+
+You may cast a spell intentionally at a diminished effect at less than your maximum Base Casing Bonus or even Spell Prowess Bonus. You cannot reduce your Base Casting Bonus or Spell Prowess Bonus below 1 when undercasting.
+
+When undercasting a spell you reduce your Base Casting Bonus to the desired level. For example a 40th level caster with 20 caster level could decide to cast the spell as a 1st BCB. This not only scales the effect of the spell to that of a 1 BCB character but may even reduce any spell point costs if they scaled with BCB.
+
+Undercasting is a great tool to spread out ones spell points throughout a day on weaker effects where a full power spell is not needed, or if a character simply wishes to use a weaker version on a creature if they feel a higher level one would be too strong for the situation.
 ## Spell Resistance
 
 Spell Resistance is a creature’s ability to avoid being affected by spells. Some items, spells, and abilities may grant spell resistance, while some creatures have a natural resistance to magic in the form of spell resistance.

@@ -7,7 +7,6 @@ share: true
 title: Project
 tags:
   - Spell
-  - Fire-Affinity-Spell
 target: (See Text)
 duration: Concentration or 1 minute per BCB (see description)
 range: Close
