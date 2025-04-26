@@ -7,7 +7,6 @@ share: true
 title: Dispel Magic
 tags:
   - Spell
-  - Earth-Affinity-Spell
 target: See Text
 duration: Instantaneous
 range: Close
