@@ -2,7 +2,6 @@
 spell: Glimpse
 tags:
   - Spell
-  - Water-Affinity-Spell
 fileClass:
   - Spell
 share: true
