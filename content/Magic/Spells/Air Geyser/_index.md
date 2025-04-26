@@ -7,7 +7,6 @@ share: true
 title: Air Geyser
 tags:
   - Spell
-  - Air-Affinity-Spell
 target: One creature or object up to your size.
 duration: Instantaneous
 range: Close
