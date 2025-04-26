@@ -7,7 +7,6 @@ share: true
 title: Call Lightning
 tags:
   - Spell
-  - Air-Affinity-Spell
 target: See Text
 duration: 1 minute per BCB
 range: Medium
