@@ -7,7 +7,6 @@ share: true
 title: Bone Shield
 tags:
   - Spell
-  - Decay-Affinity-Spell
 target: Self
 duration: 10 minutes per BCB
 range: Personal
