@@ -2,7 +2,6 @@
 spell: Cure
 tags:
   - Spell
-  - Nature-Affinity-Spell
 fileClass:
   - Spell
 share: true
