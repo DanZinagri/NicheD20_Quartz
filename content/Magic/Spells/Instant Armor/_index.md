@@ -7,7 +7,6 @@ share: true
 title: Instant Armor
 tags:
   - Spell
-  - Earth-Affinity-Spell
 target: One willing creature.
 duration: 10 minutes per BCB.
 range: Touch
