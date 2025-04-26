@@ -7,7 +7,6 @@ share: true
 title: Confusion
 tags:
   - Spell
-  - Void-Affinity-Spell
 target: Creatures in a 15 foot radius burst
 duration: (See Text)
 range: Medium
