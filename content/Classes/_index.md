@@ -31,5 +31,5 @@ This page links to the various classes in the NicheD20 system:
 | [Primal Chieftain](/Classes/Martial/Primal%20Chieftain.md)   | d12    | Martial | Barbarian 8th, Tribal Bond Barbaric Bond                |
 | [Sharpshooter](/Classes/Martial/Sharpshooter.md)       | d10    | Martial | Ranger 3rd, BAB +6                                      |
 | [Steel Savage](/Classes/Martial/Steel%20Savage.md)       | d12    | Martial | Barbarian 4th, Fighter 4th, Battle Focus Fighter Talent |
-| [Weapon Master](/Classes/Martial/Weapon%20Master.md)      | d12    | Martial | Fighter 5th, BAB +8                                     |
+| [Weapon Master](/Classes/Martial/Weapon%20Master.md)      | d12    | Martial | Fighter 5th, BAB +3                                     |
 
