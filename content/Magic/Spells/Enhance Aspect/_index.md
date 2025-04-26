@@ -2,7 +2,6 @@
 spell: Enhance Aspect
 tags:
   - Spell
-  - Other-Affinity-Spell
 fileClass:
   - Spell
 share: true
