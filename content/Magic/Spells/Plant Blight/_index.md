@@ -7,7 +7,6 @@ share: true
 title: Plant Blight
 tags:
   - Spell
-  - Decay-Affinity-Spell
 target: 10 foot radius burst, centered on you
 duration: instantaneous
 range: Long
