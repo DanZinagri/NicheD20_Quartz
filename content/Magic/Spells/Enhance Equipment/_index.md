@@ -7,7 +7,6 @@ share: true
 title: Enhance Equipment
 tags:
   - Spell
-  - Earth-Affinity-Spell
 target: One Piece of Equipment
 duration: Concentration or 10 minutes per BCB (see text)
 range: Touch
