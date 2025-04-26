@@ -2,7 +2,6 @@
 spell: Telekinetic Throw
 tags:
   - Spell
-  - Void-Affinity-Spell
 fileClass:
   - Spell
 share: true
