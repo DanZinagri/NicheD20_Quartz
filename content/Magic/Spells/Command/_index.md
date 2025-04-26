@@ -2,7 +2,6 @@
 spell: Command
 tags:
   - Spell
-  - Nature-Affinity-Spell
 fileClass:
   - Spell
 share: true
