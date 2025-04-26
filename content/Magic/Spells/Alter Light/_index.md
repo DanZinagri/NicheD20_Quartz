@@ -7,8 +7,6 @@ share: true
 title: Alter Light
 tags:
   - Spell
-  - Fire-Affinity-Spell
-  - Void-Affinity-Spell
 target: Radius (10 feet + 5 feet per two BCB)
 duration: Concentration or 1 Minute per BCB (see description).
 range: Close
