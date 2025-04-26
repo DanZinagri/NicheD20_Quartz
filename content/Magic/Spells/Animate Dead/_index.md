@@ -7,7 +7,6 @@ share: true
 title: Animate Dead
 tags:
   - Spell
-  - Decay-Affinity-Spell
 target: One Humanoid Corpse (see text)
 duration: Instantaneous
 range: Touch
