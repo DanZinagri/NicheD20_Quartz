@@ -7,7 +7,6 @@ share: true
 title: Alter Winds
 tags:
   - Spell
-  - Air-Affinity-Spell
 target: 10 foot radius
 duration: Concentration or 1 Minute Per BCB.
 range: One square within close range
