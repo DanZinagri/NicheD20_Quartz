@@ -7,7 +7,6 @@ share: true
 title: Concussive Shout
 tags:
   - Spell
-  - Air-Affinity-Spell
 target: Creatures within the area
 duration: Instantaneous
 range: Cone 15 ft.
