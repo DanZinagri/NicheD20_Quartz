@@ -7,7 +7,6 @@ share: true
 title: Disruptive Touch
 tags:
   - Spell
-  - Decay-Affinity-Spell
 target: Living Creature Touched
 duration: 1 round per BCB (see description)
 range: Touch
