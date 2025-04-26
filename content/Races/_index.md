@@ -2,7 +2,7 @@
 share: true
 title: Races
 ---
-This page links to the various races in the NicheD20 system:
+This page links to the various races in the NicheD20 system; some races may have a race feature that is granted to all heritages of a race rather than a single type; this is commonly granted to abnormal races to give them a thematic but balanced effect.
 
 | Race                          | Heritage           | Size   | Base Speed                                                                        | Ability Score Modifiers                                               |
 | ----------------------------- | ------------------ | ------ | --------------------------------------------------------------------------------- | --------------------------------------------------------------------- |
@@ -16,11 +16,11 @@ This page links to the various races in the NicheD20 system:
 | [Elf](/Races/Elf.md)                | Dusk Elf           | Medium | 30 Feet                                                                           | +2 racial bonus to Agility and Psyche, -2 penalty to Endurance        |
 | [Elf](/Races/Elf.md)                | High Elf           | Medium | 30 Feet                                                                           | +2 racial bonus to Agility and Intelligence, -2 penalty to Endurance  |
 | [Elf](/Races/Elf.md)                | Wood Elf           | Medium | 30 Feet                                                                           | +2 racial bonus to Agility and Focus, -2 penalty to Endurance         |
-| [Giant](/Races/Giant.md)              | Ash-Skin Giant     | Large  | 30 Feet                                                                           | +2 racial bonus Strength and Psyche, -2 penalty to Agility            |
-| [Giant](/Races/Giant.md)              | Reef Giant         | Large  | 30 Feet                                                                           | +2 racial bonus to Strength and Focus, -2 penalty to Psyche           |
-| [Giant](/Races/Giant.md)              | Sasquatch          | Large  | 30 Feet                                                                           | +2 racial bonus to Strength and +2 Focus, -2 penalty to Agility.      |
-| [Giant](/Races/Giant.md)              | Stone Eater Giant  | Large  | 30 Feet                                                                           | +2 racial bonus to Strength and +2 Endurance, -2 penalty to Agility   |
-| [Giant](/Races/Giant.md)              | Tundra Giant       | Large  | 30 Feet                                                                           | +2 racial bonus to Strength and Intelligence, -2 penalty to Agility.  |
+| [Giant](/Races/Giant.md)              | Ash-Skin Giant     | Large  | (Slow and Steady) 20 feet, their speed cannot be reduced by armor or encumbrance. | +2 racial bonus Strength and Psyche, -2 penalty to Agility            |
+| [Giant](/Races/Giant.md)              | Reef Giant         | Large  | (Slow and Steady) 20 feet, their speed cannot be reduced by armor or encumbrance. | +2 racial bonus to Strength and Focus, -2 penalty to Psyche           |
+| [Giant](/Races/Giant.md)              | Sasquatch          | Large  | (Slow and Steady) 20 feet, their speed cannot be reduced by armor or encumbrance. | +2 racial bonus to Strength and +2 Focus, -2 penalty to Agility.      |
+| [Giant](/Races/Giant.md)              | Stone Eater Giant  | Large  | (Slow and Steady) 20 feet, their speed cannot be reduced by armor or encumbrance. | +2 racial bonus to Strength and +2 Endurance, -2 penalty to Agility   |
+| [Giant](/Races/Giant.md)              | Tundra Giant       | Large  | (Slow and Steady) 20 feet, their speed cannot be reduced by armor or encumbrance. | +2 racial bonus to Strength and Intelligence, -2 penalty to Agility.  |
 | [Goblinoid](/Races/Goblinoid.md)          | Goblin             | Small  | 30 Feet                                                                           | +2 racial bonus to Agility and Endurance, -2 penalty to Strength      |
 | [Goblinoid](/Races/Goblinoid.md)          | Hobgoblin          | Medium | 30 Feet                                                                           | +2 racial bonus to Endurance and Focus, -2 penalty to Psyche          |
 | [Goblinoid](/Races/Goblinoid.md)          | Orc                | Medium | 30 Feet                                                                           | +2 racial bonus to Strength and Endurance, -2 penalty to Intelligence |
