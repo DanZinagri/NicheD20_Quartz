@@ -2,7 +2,6 @@
 spell: Wave Shield
 tags:
   - Spell
-  - Water-Affinity-Spell
 fileClass:
   - Spell
 share: true
