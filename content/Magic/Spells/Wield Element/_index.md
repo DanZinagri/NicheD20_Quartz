@@ -2,7 +2,6 @@
 spell: Wield Element
 tags:
   - Spell
-  - Other-Affinity-Spell
 fileClass:
   - Spell
 share: true
